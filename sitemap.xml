@@ -246,6 +246,15 @@
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/application/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/application/"/>
   </url>
+  <url><loc>https://eta-se.com/eta-info/barn-familj/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/barn-familj/"/>
+  </url>
+  <url><loc>https://eta-se.com/eta-info/eta-avslag/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/eta-avslag/"/>
+  </url>
+  <url><loc>https://eta-se.com/eta-info/eta-eller-visum/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/eta-eller-visum/"/>
+  </url>
   <url><loc>https://eta-se.com/eta-info/expiration/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/expiration/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/expiration/"/>
@@ -259,6 +268,12 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/fee/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/fee/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/fee/"/>
+  </url>
+  <url><loc>https://eta-se.com/eta-info/giltighet/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/giltighet/"/>
+  </url>
+  <url><loc>https://eta-se.com/eta-info/handlaggningstid/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/handlaggningstid/"/>
   </url>
   <url><loc>https://eta-se.com/eta-info/mobile-app/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/mobile-app/"/>
@@ -293,12 +308,21 @@
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/status-check/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/status-check/"/>
   </url>
+  <url><loc>https://eta-se.com/eta-info/transit-detaljer/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/transit-detaljer/"/>
+  </url>
   <url><loc>https://eta-se.com/eta-info/transit/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/transit/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/transit/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/transit/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/transit/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/transit/"/>
+  </url>
+  <url><loc>https://eta-se.com/eta-info/vanliga-fel/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/vanliga-fel/"/>
+  </url>
+  <url><loc>https://eta-se.com/eta-info/vem-behover/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/vem-behover/"/>
   </url>
   <url><loc>https://eta-se.com/eta-info/what-is-eta/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/what-is-eta/"/>
@@ -600,6 +624,21 @@
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/application/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/application/"/>
   </url>
+  <url><loc>https://eta-se.com/ro/eta-info/cine-are-nevoie/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/cine-are-nevoie/"/>
+  </url>
+  <url><loc>https://eta-se.com/ro/eta-info/copii-familie/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/copii-familie/"/>
+  </url>
+  <url><loc>https://eta-se.com/ro/eta-info/erori-frecvente/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/erori-frecvente/"/>
+  </url>
+  <url><loc>https://eta-se.com/ro/eta-info/eta-respins/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/eta-respins/"/>
+  </url>
+  <url><loc>https://eta-se.com/ro/eta-info/eta-sau-viza/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/eta-sau-viza/"/>
+  </url>
   <url><loc>https://eta-se.com/ro/eta-info/expiration/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/expiration/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/expiration/"/>
@@ -645,12 +684,21 @@
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/status-check/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/status-check/"/>
   </url>
+  <url><loc>https://eta-se.com/ro/eta-info/timp-procesare/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/timp-procesare/"/>
+  </url>
   <url><loc>https://eta-se.com/ro/eta-info/transit/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/transit/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/transit/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/transit/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/transit/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/transit/"/>
+  </url>
+  <url><loc>https://eta-se.com/ro/eta-info/tranzit/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/tranzit/"/>
+  </url>
+  <url><loc>https://eta-se.com/ro/eta-info/valabilitate/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/valabilitate/"/>
   </url>
   <url><loc>https://eta-se.com/ro/eta-info/what-is-eta/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/what-is-eta/"/>
