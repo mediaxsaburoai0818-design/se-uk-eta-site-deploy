@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /_next/
-Disallow: /api/
-
-Sitemap: https://eta-ro.com/sitemap.xml
