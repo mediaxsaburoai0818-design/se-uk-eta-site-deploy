@@ -1,103 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://eta-pl.com/eta-info/application/</loc>
+    <loc>https://eta-de.com/eta-info/application/</loc>
     <lastmod>2026-04-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eta-pl.com/eta-info/expiration/</loc>
+    <loc>https://eta-de.com/eta-info/expiration/</loc>
     <lastmod>2026-04-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eta-pl.com/eta-info/fee/</loc>
+    <loc>https://eta-de.com/eta-info/fee/</loc>
     <lastmod>2026-04-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eta-pl.com/eta-info/mobile-app/</loc>
+    <loc>https://eta-de.com/eta-info/mobile-app/</loc>
     <lastmod>2026-04-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eta-pl.com/eta-info/official-gov-uk/</loc>
+    <loc>https://eta-de.com/eta-info/official-gov-uk/</loc>
     <lastmod>2026-04-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eta-pl.com/eta-info/polish-community/</loc>
+    <loc>https://eta-de.com/eta-info/polish-community/</loc>
     <lastmod>2026-04-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eta-pl.com/eta-info/required-documents/</loc>
+    <loc>https://eta-de.com/eta-info/required-documents/</loc>
     <lastmod>2026-04-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eta-pl.com/eta-info/status-check/</loc>
+    <loc>https://eta-de.com/eta-info/status-check/</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eta-de.com/eta-info/transit/</loc>
     <lastmod>2026-04-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eta-pl.com/eta-info/transit/</loc>
+    <loc>https://eta-de.com/eta-info/what-is-eta/</loc>
     <lastmod>2026-04-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eta-pl.com/eta-info/what-is-eta/</loc>
+    <loc>https://eta-de.com/faq/</loc>
     <lastmod>2026-04-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eta-pl.com/faq/</loc>
-    <lastmod>2026-04-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://eta-pl.com/</loc>
+    <loc>https://eta-de.com/</loc>
     <lastmod>2026-04-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://eta-pl.com/site-info/about/</loc>
+    <loc>https://eta-de.com/site-info/about/</loc>
     <lastmod>2026-04-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eta-pl.com/site-info/agreement/</loc>
+    <loc>https://eta-de.com/site-info/agreement/</loc>
     <lastmod>2026-04-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eta-pl.com/site-info/contact/</loc>
+    <loc>https://eta-de.com/site-info/contact/</loc>
     <lastmod>2026-04-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eta-pl.com/site-info/privacy-policy/</loc>
+    <loc>https://eta-de.com/site-info/privacy-policy/</loc>
     <lastmod>2026-04-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eta-pl.com/sitemap/</loc>
+    <loc>https://eta-de.com/sitemap/</loc>
     <lastmod>2026-04-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
