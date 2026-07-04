@@ -868,4 +868,7 @@
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/wjazd-i-wiza/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/wjazd-i-wiza/"/>
   </url>
+  <url><loc>https://eta-se.com/it/eta-info/italiani-caratteri-speciali/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/italiani-caratteri-speciali/"/>
+  </url>
 </urlset>
