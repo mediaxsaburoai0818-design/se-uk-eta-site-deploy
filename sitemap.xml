@@ -871,4 +871,32 @@
   <url><loc>https://eta-se.com/it/eta-info/italiani-caratteri-speciali/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/italiani-caratteri-speciali/"/>
   </url>
+  <url><loc>https://eta-se.com/eta-info/standard-visitor-visa/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/standard-visitor-visa/"/>
+  </url>
+  <url><loc>https://eta-se.com/de/eta-info/standard-visitor-visa/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/standard-visitor-visa/"/>
+  </url>
+  <url><loc>https://eta-se.com/it/eta-info/standard-visitor-visa/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/standard-visitor-visa/"/>
+  </url>
+  <url><loc>https://eta-se.com/ro/eta-info/standard-visitor-visa/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/standard-visitor-visa/"/>
+  </url>
 </urlset>
