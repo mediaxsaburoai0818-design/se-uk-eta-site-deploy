@@ -1,52 +1,272 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url><loc>https://eta-se.com/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/"/>
-  </url>
   <url><loc>https://eta-se.com/404/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/404/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/404/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/404/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/404/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/404/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/404/"/>
   </url>
-  <url><loc>https://eta-se.com/_not-found/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/_not-found/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/_not-found/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/_not-found/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/_not-found/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/_not-found/"/>
+  <url><loc>https://eta-se.com/eta-info/application/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/application/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/application/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/application/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/application/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/application/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/application/"/>
   </url>
-  <url><loc>https://eta-se.com/de/</loc>
+  <url><loc>https://eta-se.com/eta-info/barn-familj/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/barn-familj/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/barn-familj/"/>
+  </url>
+  <url><loc>https://eta-se.com/eta-info/eta-avslag/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/eta-avslag/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/eta-avslag/"/>
+  </url>
+  <url><loc>https://eta-se.com/eta-info/eta-eller-visum/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/eta-eller-visum/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/eta-eller-visum/"/>
+  </url>
+  <url><loc>https://eta-se.com/eta-info/expiration/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/expiration/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/expiration/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/expiration/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/expiration/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/expiration/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/expiration/"/>
+  </url>
+  <url><loc>https://eta-se.com/eta-info/fee/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/fee/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/fee/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/fee/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/fee/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/fee/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/fee/"/>
+  </url>
+  <url><loc>https://eta-se.com/eta-info/giltighet/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/giltighet/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/giltighet/"/>
+  </url>
+  <url><loc>https://eta-se.com/eta-info/handlaggningstid/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/handlaggningstid/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/handlaggningstid/"/>
+  </url>
+  <url><loc>https://eta-se.com/eta-info/mobile-app/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/mobile-app/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/mobile-app/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/mobile-app/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/mobile-app/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/mobile-app/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/mobile-app/"/>
+  </url>
+  <url><loc>https://eta-se.com/eta-info/official-gov-uk/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/official-gov-uk/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/official-gov-uk/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/official-gov-uk/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/official-gov-uk/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/official-gov-uk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/official-gov-uk/"/>
+  </url>
+  <url><loc>https://eta-se.com/eta-info/polish-community/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/polish-community/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/polish-community/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/polish-community/"/>
+  </url>
+  <url><loc>https://eta-se.com/eta-info/required-documents/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/required-documents/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/required-documents/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/required-documents/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/required-documents/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/required-documents/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/required-documents/"/>
+  </url>
+  <url><loc>https://eta-se.com/eta-info/standard-visitor-visa/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/standard-visitor-visa/"/>
+  </url>
+  <url><loc>https://eta-se.com/eta-info/status-check/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/status-check/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/status-check/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/status-check/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/status-check/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/status-check/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/status-check/"/>
+  </url>
+  <url><loc>https://eta-se.com/eta-info/transit/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/transit/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/transit/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/transit/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/transit/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/transit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/transit/"/>
+  </url>
+  <url><loc>https://eta-se.com/eta-info/transit-detaljer/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/transit-detaljer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/transit-detaljer/"/>
+  </url>
+  <url><loc>https://eta-se.com/eta-info/vanliga-fel/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/vanliga-fel/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/vanliga-fel/"/>
+  </url>
+  <url><loc>https://eta-se.com/eta-info/vem-behover/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/vem-behover/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/vem-behover/"/>
+  </url>
+  <url><loc>https://eta-se.com/eta-info/what-is-eta/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/what-is-eta/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/what-is-eta/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/what-is-eta/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/what-is-eta/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/what-is-eta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/what-is-eta/"/>
+  </url>
+  <url><loc>https://eta-se.com/faq/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/faq/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/faq/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/faq/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/faq/"/>
+  </url>
+  <url><loc>https://eta-se.com/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/"/>
+  </url>
+  <url><loc>https://eta-se.com/news/bezpieczenstwo-podrozy-wielka-brytania/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
+  </url>
+  <url><loc>https://eta-se.com/news/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/"/>
+  </url>
+  <url><loc>https://eta-se.com/news/obywatele-ue-uk-eta-od-kwietnia-2025/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
+  </url>
+  <url><loc>https://eta-se.com/news/oplata-uk-eta-20-funtow/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/oplata-uk-eta-20-funtow/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/oplata-uk-eta-20-funtow/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/oplata-uk-eta-20-funtow/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/oplata-uk-eta-20-funtow/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/oplata-uk-eta-20-funtow/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/oplata-uk-eta-20-funtow/"/>
+  </url>
+  <url><loc>https://eta-se.com/news/podwyzka-oplat-imigracyjnych-uk-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
+  </url>
+  <url><loc>https://eta-se.com/news/uk-eta-w-pelni-obowiazkowa-luty-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
+  </url>
+  <url><loc>https://eta-se.com/site-info/about/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/site-info/about/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/site-info/about/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/site-info/about/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/site-info/about/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/site-info/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/site-info/about/"/>
+  </url>
+  <url><loc>https://eta-se.com/site-info/agreement/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/site-info/agreement/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/site-info/agreement/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/site-info/agreement/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/site-info/agreement/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/site-info/agreement/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/site-info/agreement/"/>
+  </url>
+  <url><loc>https://eta-se.com/site-info/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/site-info/contact/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/site-info/contact/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/site-info/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/site-info/contact/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/site-info/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/site-info/contact/"/>
+  </url>
+  <url><loc>https://eta-se.com/site-info/privacy-policy/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/site-info/privacy-policy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/site-info/privacy-policy/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/site-info/privacy-policy/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/site-info/privacy-policy/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/site-info/privacy-policy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/site-info/privacy-policy/"/>
+  </url>
+  <url><loc>https://eta-se.com/sitemap/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/sitemap/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/sitemap/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/sitemap/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/sitemap/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/sitemap/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/sitemap/"/>
+  </url>
+  <url><loc>https://eta-se.com/uk-entry/lotniska-londynu/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/uk-entry/lotniska-londynu/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/lotniska-londynu/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/lotniska-londynu/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/lotniska-londynu/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/lotniska-londynu/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/lotniska-londynu/"/>
+  </url>
+  <url><loc>https://eta-se.com/uk-entry/lotnisko-heathrow/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/uk-entry/lotnisko-heathrow/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/lotnisko-heathrow/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/lotnisko-heathrow/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/lotnisko-heathrow/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/lotnisko-heathrow/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/lotnisko-heathrow/"/>
+  </url>
+  <url><loc>https://eta-se.com/uk-entry/wjazd-i-wiza/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/uk-entry/wjazd-i-wiza/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/wjazd-i-wiza/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/wjazd-i-wiza/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/wjazd-i-wiza/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/wjazd-i-wiza/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/wjazd-i-wiza/"/>
   </url>
   <url><loc>https://eta-se.com/de/404/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/404/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/404/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/404/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/404/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/404/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/404/"/>
-  </url>
-  <url><loc>https://eta-se.com/de/_not-found/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/_not-found/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/_not-found/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/_not-found/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/_not-found/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/_not-found/"/>
   </url>
   <url><loc>https://eta-se.com/de/eta-info/application/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/application/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/application/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/application/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/application/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/application/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/application/"/>
   </url>
   <url><loc>https://eta-se.com/de/eta-info/bearbeitungszeit/</loc>
@@ -63,6 +283,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/expiration/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/expiration/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/expiration/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/expiration/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/expiration/"/>
   </url>
   <url><loc>https://eta-se.com/de/eta-info/fee/</loc>
@@ -70,6 +291,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/fee/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/fee/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/fee/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/fee/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/fee/"/>
   </url>
   <url><loc>https://eta-se.com/de/eta-info/gueltigkeit/</loc>
@@ -86,6 +308,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/mobile-app/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/mobile-app/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/mobile-app/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/mobile-app/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/mobile-app/"/>
   </url>
   <url><loc>https://eta-se.com/de/eta-info/official-gov-uk/</loc>
@@ -93,6 +316,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/official-gov-uk/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/official-gov-uk/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/official-gov-uk/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/official-gov-uk/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/official-gov-uk/"/>
   </url>
   <url><loc>https://eta-se.com/de/eta-info/polish-community/</loc>
@@ -105,24 +329,35 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/required-documents/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/required-documents/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/required-documents/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/required-documents/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/required-documents/"/>
+  </url>
+  <url><loc>https://eta-se.com/de/eta-info/standard-visitor-visa/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/standard-visitor-visa/"/>
   </url>
   <url><loc>https://eta-se.com/de/eta-info/status-check/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/status-check/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/status-check/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/status-check/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/status-check/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/status-check/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/status-check/"/>
-  </url>
-  <url><loc>https://eta-se.com/de/eta-info/transit-eta/</loc>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/transit-eta/"/>
   </url>
   <url><loc>https://eta-se.com/de/eta-info/transit/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/transit/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/transit/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/transit/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/transit/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/transit/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/transit/"/>
+  </url>
+  <url><loc>https://eta-se.com/de/eta-info/transit-eta/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/transit-eta/"/>
   </url>
   <url><loc>https://eta-se.com/de/eta-info/wer-braucht-eta/</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/wer-braucht-eta/"/>
@@ -132,6 +367,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/what-is-eta/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/what-is-eta/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/what-is-eta/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/what-is-eta/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/what-is-eta/"/>
   </url>
   <url><loc>https://eta-se.com/de/faq/</loc>
@@ -139,27 +375,39 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/faq/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/faq/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/faq/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/faq/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/faq/"/>
   </url>
-  <url><loc>https://eta-se.com/de/news/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/"/>
+  <url><loc>https://eta-se.com/de/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/"/>
   </url>
   <url><loc>https://eta-se.com/de/news/bezpieczenstwo-podrozy-wielka-brytania/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
+  </url>
+  <url><loc>https://eta-se.com/de/news/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/"/>
   </url>
   <url><loc>https://eta-se.com/de/news/obywatele-ue-uk-eta-od-kwietnia-2025/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
   </url>
   <url><loc>https://eta-se.com/de/news/oplata-uk-eta-20-funtow/</loc>
@@ -167,6 +415,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/oplata-uk-eta-20-funtow/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/oplata-uk-eta-20-funtow/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/oplata-uk-eta-20-funtow/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/oplata-uk-eta-20-funtow/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/oplata-uk-eta-20-funtow/"/>
   </url>
   <url><loc>https://eta-se.com/de/news/podwyzka-oplat-imigracyjnych-uk-2026/</loc>
@@ -174,6 +423,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
   </url>
   <url><loc>https://eta-se.com/de/news/uk-eta-w-pelni-obowiazkowa-luty-2026/</loc>
@@ -181,6 +431,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
   </url>
   <url><loc>https://eta-se.com/de/site-info/about/</loc>
@@ -188,6 +439,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/site-info/about/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/site-info/about/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/site-info/about/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/site-info/about/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/site-info/about/"/>
   </url>
   <url><loc>https://eta-se.com/de/site-info/agreement/</loc>
@@ -195,6 +447,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/site-info/agreement/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/site-info/agreement/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/site-info/agreement/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/site-info/agreement/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/site-info/agreement/"/>
   </url>
   <url><loc>https://eta-se.com/de/site-info/contact/</loc>
@@ -202,6 +455,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/site-info/contact/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/site-info/contact/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/site-info/contact/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/site-info/contact/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/site-info/contact/"/>
   </url>
   <url><loc>https://eta-se.com/de/site-info/privacy-policy/</loc>
@@ -209,6 +463,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/site-info/privacy-policy/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/site-info/privacy-policy/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/site-info/privacy-policy/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/site-info/privacy-policy/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/site-info/privacy-policy/"/>
   </url>
   <url><loc>https://eta-se.com/de/sitemap/</loc>
@@ -216,6 +471,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/sitemap/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/sitemap/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/sitemap/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/sitemap/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/sitemap/"/>
   </url>
   <url><loc>https://eta-se.com/de/uk-entry/lotniska-londynu/</loc>
@@ -223,6 +479,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/lotniska-londynu/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/lotniska-londynu/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/lotniska-londynu/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/lotniska-londynu/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/lotniska-londynu/"/>
   </url>
   <url><loc>https://eta-se.com/de/uk-entry/lotnisko-heathrow/</loc>
@@ -230,6 +487,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/lotnisko-heathrow/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/lotnisko-heathrow/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/lotnisko-heathrow/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/lotnisko-heathrow/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/lotnisko-heathrow/"/>
   </url>
   <url><loc>https://eta-se.com/de/uk-entry/wjazd-i-wiza/</loc>
@@ -237,133 +495,23 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/wjazd-i-wiza/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/wjazd-i-wiza/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/wjazd-i-wiza/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/wjazd-i-wiza/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/wjazd-i-wiza/"/>
-  </url>
-  <url><loc>https://eta-se.com/eta-info/application/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/application/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/application/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/application/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/application/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/application/"/>
-  </url>
-  <url><loc>https://eta-se.com/eta-info/barn-familj/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/barn-familj/"/>
-  </url>
-  <url><loc>https://eta-se.com/eta-info/eta-avslag/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/eta-avslag/"/>
-  </url>
-  <url><loc>https://eta-se.com/eta-info/eta-eller-visum/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/eta-eller-visum/"/>
-  </url>
-  <url><loc>https://eta-se.com/eta-info/expiration/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/expiration/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/expiration/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/expiration/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/expiration/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/expiration/"/>
-  </url>
-  <url><loc>https://eta-se.com/eta-info/fee/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/fee/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/fee/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/fee/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/fee/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/fee/"/>
-  </url>
-  <url><loc>https://eta-se.com/eta-info/giltighet/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/giltighet/"/>
-  </url>
-  <url><loc>https://eta-se.com/eta-info/handlaggningstid/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/handlaggningstid/"/>
-  </url>
-  <url><loc>https://eta-se.com/eta-info/mobile-app/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/mobile-app/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/mobile-app/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/mobile-app/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/mobile-app/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/mobile-app/"/>
-  </url>
-  <url><loc>https://eta-se.com/eta-info/official-gov-uk/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/official-gov-uk/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/official-gov-uk/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/official-gov-uk/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/official-gov-uk/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/official-gov-uk/"/>
-  </url>
-  <url><loc>https://eta-se.com/eta-info/polish-community/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/polish-community/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/polish-community/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/polish-community/"/>
-  </url>
-  <url><loc>https://eta-se.com/eta-info/required-documents/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/required-documents/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/required-documents/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/required-documents/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/required-documents/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/required-documents/"/>
-  </url>
-  <url><loc>https://eta-se.com/eta-info/status-check/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/status-check/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/status-check/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/status-check/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/status-check/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/status-check/"/>
-  </url>
-  <url><loc>https://eta-se.com/eta-info/transit-detaljer/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/transit-detaljer/"/>
-  </url>
-  <url><loc>https://eta-se.com/eta-info/transit/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/transit/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/transit/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/transit/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/transit/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/transit/"/>
-  </url>
-  <url><loc>https://eta-se.com/eta-info/vanliga-fel/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/vanliga-fel/"/>
-  </url>
-  <url><loc>https://eta-se.com/eta-info/vem-behover/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/vem-behover/"/>
-  </url>
-  <url><loc>https://eta-se.com/eta-info/what-is-eta/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/what-is-eta/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/what-is-eta/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/what-is-eta/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/what-is-eta/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/what-is-eta/"/>
-  </url>
-  <url><loc>https://eta-se.com/faq/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/faq/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/faq/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/faq/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/faq/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/faq/"/>
-  </url>
-  <url><loc>https://eta-se.com/it/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/"/>
   </url>
   <url><loc>https://eta-se.com/it/404/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/404/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/404/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/404/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/404/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/404/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/404/"/>
-  </url>
-  <url><loc>https://eta-se.com/it/_not-found/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/_not-found/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/_not-found/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/_not-found/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/_not-found/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/_not-found/"/>
   </url>
   <url><loc>https://eta-se.com/it/eta-info/application/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/application/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/application/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/application/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/application/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/application/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/application/"/>
   </url>
   <url><loc>https://eta-se.com/it/eta-info/bambini-famiglia/</loc>
@@ -383,6 +531,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/expiration/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/expiration/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/expiration/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/expiration/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/expiration/"/>
   </url>
   <url><loc>https://eta-se.com/it/eta-info/fee/</loc>
@@ -390,16 +539,21 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/fee/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/fee/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/fee/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/fee/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/fee/"/>
   </url>
   <url><loc>https://eta-se.com/it/eta-info/italian-community/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/italian-community/"/>
+  </url>
+  <url><loc>https://eta-se.com/it/eta-info/italiani-caratteri-speciali/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/italiani-caratteri-speciali/"/>
   </url>
   <url><loc>https://eta-se.com/it/eta-info/mobile-app/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/mobile-app/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/mobile-app/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/mobile-app/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/mobile-app/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/mobile-app/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/mobile-app/"/>
   </url>
   <url><loc>https://eta-se.com/it/eta-info/official-gov-uk/</loc>
@@ -407,6 +561,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/official-gov-uk/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/official-gov-uk/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/official-gov-uk/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/official-gov-uk/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/official-gov-uk/"/>
   </url>
   <url><loc>https://eta-se.com/it/eta-info/required-documents/</loc>
@@ -414,16 +569,26 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/required-documents/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/required-documents/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/required-documents/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/required-documents/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/required-documents/"/>
   </url>
   <url><loc>https://eta-se.com/it/eta-info/rifiuto-eta/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/rifiuto-eta/"/>
+  </url>
+  <url><loc>https://eta-se.com/it/eta-info/standard-visitor-visa/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/standard-visitor-visa/"/>
   </url>
   <url><loc>https://eta-se.com/it/eta-info/status-check/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/status-check/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/status-check/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/status-check/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/status-check/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/status-check/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/status-check/"/>
   </url>
   <url><loc>https://eta-se.com/it/eta-info/tempi-elaborazione/</loc>
@@ -434,6 +599,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/transit/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/transit/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/transit/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/transit/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/transit/"/>
   </url>
   <url><loc>https://eta-se.com/it/eta-info/transito-dettagli/</loc>
@@ -447,6 +613,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/what-is-eta/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/what-is-eta/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/what-is-eta/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/what-is-eta/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/what-is-eta/"/>
   </url>
   <url><loc>https://eta-se.com/it/faq/</loc>
@@ -454,27 +621,39 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/faq/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/faq/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/faq/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/faq/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/faq/"/>
   </url>
-  <url><loc>https://eta-se.com/it/news/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/"/>
+  <url><loc>https://eta-se.com/it/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/"/>
   </url>
   <url><loc>https://eta-se.com/it/news/bezpieczenstwo-podrozy-wielka-brytania/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
+  </url>
+  <url><loc>https://eta-se.com/it/news/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/"/>
   </url>
   <url><loc>https://eta-se.com/it/news/obywatele-ue-uk-eta-od-kwietnia-2025/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
   </url>
   <url><loc>https://eta-se.com/it/news/oplata-uk-eta-20-funtow/</loc>
@@ -482,6 +661,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/oplata-uk-eta-20-funtow/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/oplata-uk-eta-20-funtow/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/oplata-uk-eta-20-funtow/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/oplata-uk-eta-20-funtow/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/oplata-uk-eta-20-funtow/"/>
   </url>
   <url><loc>https://eta-se.com/it/news/podwyzka-oplat-imigracyjnych-uk-2026/</loc>
@@ -489,6 +669,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
   </url>
   <url><loc>https://eta-se.com/it/news/uk-eta-w-pelni-obowiazkowa-luty-2026/</loc>
@@ -496,6 +677,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
   </url>
   <url><loc>https://eta-se.com/it/site-info/about/</loc>
@@ -503,6 +685,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/site-info/about/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/site-info/about/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/site-info/about/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/site-info/about/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/site-info/about/"/>
   </url>
   <url><loc>https://eta-se.com/it/site-info/agreement/</loc>
@@ -510,6 +693,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/site-info/agreement/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/site-info/agreement/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/site-info/agreement/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/site-info/agreement/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/site-info/agreement/"/>
   </url>
   <url><loc>https://eta-se.com/it/site-info/contact/</loc>
@@ -517,6 +701,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/site-info/contact/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/site-info/contact/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/site-info/contact/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/site-info/contact/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/site-info/contact/"/>
   </url>
   <url><loc>https://eta-se.com/it/site-info/privacy-policy/</loc>
@@ -524,6 +709,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/site-info/privacy-policy/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/site-info/privacy-policy/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/site-info/privacy-policy/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/site-info/privacy-policy/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/site-info/privacy-policy/"/>
   </url>
   <url><loc>https://eta-se.com/it/sitemap/</loc>
@@ -531,6 +717,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/sitemap/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/sitemap/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/sitemap/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/sitemap/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/sitemap/"/>
   </url>
   <url><loc>https://eta-se.com/it/uk-entry/lotniska-londynu/</loc>
@@ -538,6 +725,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/lotniska-londynu/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/lotniska-londynu/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/lotniska-londynu/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/lotniska-londynu/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/lotniska-londynu/"/>
   </url>
   <url><loc>https://eta-se.com/it/uk-entry/lotnisko-heathrow/</loc>
@@ -545,6 +733,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/lotnisko-heathrow/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/lotnisko-heathrow/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/lotnisko-heathrow/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/lotnisko-heathrow/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/lotnisko-heathrow/"/>
   </url>
   <url><loc>https://eta-se.com/it/uk-entry/wjazd-i-wiza/</loc>
@@ -552,76 +741,23 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/wjazd-i-wiza/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/wjazd-i-wiza/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/wjazd-i-wiza/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/wjazd-i-wiza/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/wjazd-i-wiza/"/>
-  </url>
-  <url><loc>https://eta-se.com/news/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/"/>
-  </url>
-  <url><loc>https://eta-se.com/news/bezpieczenstwo-podrozy-wielka-brytania/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
-  </url>
-  <url><loc>https://eta-se.com/news/obywatele-ue-uk-eta-od-kwietnia-2025/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
-  </url>
-  <url><loc>https://eta-se.com/news/oplata-uk-eta-20-funtow/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/oplata-uk-eta-20-funtow/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/oplata-uk-eta-20-funtow/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/oplata-uk-eta-20-funtow/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/oplata-uk-eta-20-funtow/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/oplata-uk-eta-20-funtow/"/>
-  </url>
-  <url><loc>https://eta-se.com/news/podwyzka-oplat-imigracyjnych-uk-2026/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
-  </url>
-  <url><loc>https://eta-se.com/news/uk-eta-w-pelni-obowiazkowa-luty-2026/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
-  </url>
-  <url><loc>https://eta-se.com/ro/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/"/>
   </url>
   <url><loc>https://eta-se.com/ro/404/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/404/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/404/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/404/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/404/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/404/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/404/"/>
-  </url>
-  <url><loc>https://eta-se.com/ro/_not-found/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/_not-found/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/_not-found/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/_not-found/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/_not-found/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/_not-found/"/>
   </url>
   <url><loc>https://eta-se.com/ro/eta-info/application/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/application/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/application/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/application/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/application/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/application/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/application/"/>
   </url>
   <url><loc>https://eta-se.com/ro/eta-info/cine-are-nevoie/</loc>
@@ -644,6 +780,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/expiration/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/expiration/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/expiration/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/expiration/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/expiration/"/>
   </url>
   <url><loc>https://eta-se.com/ro/eta-info/fee/</loc>
@@ -651,6 +788,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/fee/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/fee/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/fee/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/fee/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/fee/"/>
   </url>
   <url><loc>https://eta-se.com/ro/eta-info/mobile-app/</loc>
@@ -658,6 +796,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/mobile-app/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/mobile-app/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/mobile-app/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/mobile-app/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/mobile-app/"/>
   </url>
   <url><loc>https://eta-se.com/ro/eta-info/official-gov-uk/</loc>
@@ -665,6 +804,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/official-gov-uk/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/official-gov-uk/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/official-gov-uk/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/official-gov-uk/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/official-gov-uk/"/>
   </url>
   <url><loc>https://eta-se.com/ro/eta-info/required-documents/</loc>
@@ -672,16 +812,26 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/required-documents/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/required-documents/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/required-documents/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/required-documents/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/required-documents/"/>
   </url>
   <url><loc>https://eta-se.com/ro/eta-info/romanian-community/</loc>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/romanian-community/"/>
+  </url>
+  <url><loc>https://eta-se.com/ro/eta-info/standard-visitor-visa/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/standard-visitor-visa/"/>
   </url>
   <url><loc>https://eta-se.com/ro/eta-info/status-check/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/status-check/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/status-check/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/status-check/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/status-check/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/status-check/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/status-check/"/>
   </url>
   <url><loc>https://eta-se.com/ro/eta-info/timp-procesare/</loc>
@@ -692,6 +842,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/transit/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/transit/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/transit/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/transit/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/transit/"/>
   </url>
   <url><loc>https://eta-se.com/ro/eta-info/tranzit/</loc>
@@ -705,6 +856,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/what-is-eta/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/what-is-eta/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/what-is-eta/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/what-is-eta/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/what-is-eta/"/>
   </url>
   <url><loc>https://eta-se.com/ro/faq/</loc>
@@ -712,27 +864,39 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/faq/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/faq/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/faq/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/faq/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/faq/"/>
   </url>
-  <url><loc>https://eta-se.com/ro/news/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/"/>
+  <url><loc>https://eta-se.com/ro/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/"/>
   </url>
   <url><loc>https://eta-se.com/ro/news/bezpieczenstwo-podrozy-wielka-brytania/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
+  </url>
+  <url><loc>https://eta-se.com/ro/news/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/"/>
   </url>
   <url><loc>https://eta-se.com/ro/news/obywatele-ue-uk-eta-od-kwietnia-2025/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
   </url>
   <url><loc>https://eta-se.com/ro/news/oplata-uk-eta-20-funtow/</loc>
@@ -740,6 +904,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/oplata-uk-eta-20-funtow/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/oplata-uk-eta-20-funtow/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/oplata-uk-eta-20-funtow/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/oplata-uk-eta-20-funtow/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/oplata-uk-eta-20-funtow/"/>
   </url>
   <url><loc>https://eta-se.com/ro/news/podwyzka-oplat-imigracyjnych-uk-2026/</loc>
@@ -747,6 +912,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
   </url>
   <url><loc>https://eta-se.com/ro/news/uk-eta-w-pelni-obowiazkowa-luty-2026/</loc>
@@ -754,6 +920,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
   </url>
   <url><loc>https://eta-se.com/ro/site-info/about/</loc>
@@ -761,6 +928,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/site-info/about/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/site-info/about/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/site-info/about/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/site-info/about/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/site-info/about/"/>
   </url>
   <url><loc>https://eta-se.com/ro/site-info/agreement/</loc>
@@ -768,6 +936,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/site-info/agreement/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/site-info/agreement/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/site-info/agreement/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/site-info/agreement/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/site-info/agreement/"/>
   </url>
   <url><loc>https://eta-se.com/ro/site-info/contact/</loc>
@@ -775,6 +944,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/site-info/contact/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/site-info/contact/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/site-info/contact/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/site-info/contact/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/site-info/contact/"/>
   </url>
   <url><loc>https://eta-se.com/ro/site-info/privacy-policy/</loc>
@@ -782,6 +952,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/site-info/privacy-policy/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/site-info/privacy-policy/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/site-info/privacy-policy/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/site-info/privacy-policy/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/site-info/privacy-policy/"/>
   </url>
   <url><loc>https://eta-se.com/ro/sitemap/</loc>
@@ -789,6 +960,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/sitemap/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/sitemap/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/sitemap/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/sitemap/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/sitemap/"/>
   </url>
   <url><loc>https://eta-se.com/ro/uk-entry/lotniska-londynu/</loc>
@@ -796,6 +968,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/lotniska-londynu/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/lotniska-londynu/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/lotniska-londynu/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/lotniska-londynu/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/lotniska-londynu/"/>
   </url>
   <url><loc>https://eta-se.com/ro/uk-entry/lotnisko-heathrow/</loc>
@@ -803,6 +976,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/lotnisko-heathrow/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/lotnisko-heathrow/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/lotnisko-heathrow/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/lotnisko-heathrow/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/lotnisko-heathrow/"/>
   </url>
   <url><loc>https://eta-se.com/ro/uk-entry/wjazd-i-wiza/</loc>
@@ -810,93 +984,250 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/wjazd-i-wiza/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/wjazd-i-wiza/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/wjazd-i-wiza/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/wjazd-i-wiza/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/wjazd-i-wiza/"/>
   </url>
-  <url><loc>https://eta-se.com/site-info/about/</loc>
+  <url><loc>https://eta-se.com/el/404/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/404/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/404/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/404/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/404/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/404/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/404/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/eta-info/application/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/application/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/application/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/application/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/application/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/application/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/application/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/eta-info/children-family/</loc>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/children-family/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/eta-info/common-errors/</loc>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/common-errors/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/eta-info/eta-refused/</loc>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/eta-refused/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/eta-info/eta-vs-visa/</loc>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/eta-vs-visa/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/eta-info/expiration/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/expiration/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/expiration/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/expiration/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/expiration/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/expiration/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/expiration/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/eta-info/fee/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/fee/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/fee/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/fee/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/fee/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/fee/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/fee/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/eta-info/greek-community/</loc>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/greek-community/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/eta-info/mobile-app/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/mobile-app/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/mobile-app/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/mobile-app/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/mobile-app/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/mobile-app/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/mobile-app/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/eta-info/official-gov-uk/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/official-gov-uk/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/official-gov-uk/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/official-gov-uk/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/official-gov-uk/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/official-gov-uk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/official-gov-uk/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/eta-info/processing-time/</loc>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/processing-time/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/eta-info/required-documents/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/required-documents/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/required-documents/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/required-documents/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/required-documents/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/required-documents/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/required-documents/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/eta-info/standard-visitor-visa/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/standard-visitor-visa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/standard-visitor-visa/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/eta-info/status-check/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/status-check/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/status-check/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/status-check/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/status-check/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/status-check/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/status-check/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/eta-info/transit/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/transit/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/transit/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/transit/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/transit/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/transit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/transit/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/eta-info/transit-details/</loc>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/transit-details/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/eta-info/validity-renewal/</loc>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/validity-renewal/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/eta-info/what-is-eta/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/what-is-eta/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/what-is-eta/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/what-is-eta/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/what-is-eta/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/what-is-eta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/what-is-eta/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/eta-info/who-needs-eta/</loc>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/eta-info/who-needs-eta/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/faq/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/faq/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/faq/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/faq/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/faq/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/news/bezpieczenstwo-podrozy-wielka-brytania/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/bezpieczenstwo-podrozy-wielka-brytania/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/news/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/news/obywatele-ue-uk-eta-od-kwietnia-2025/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/obywatele-ue-uk-eta-od-kwietnia-2025/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/news/oplata-uk-eta-20-funtow/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/oplata-uk-eta-20-funtow/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/oplata-uk-eta-20-funtow/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/oplata-uk-eta-20-funtow/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/oplata-uk-eta-20-funtow/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/oplata-uk-eta-20-funtow/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/oplata-uk-eta-20-funtow/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/news/podwyzka-oplat-imigracyjnych-uk-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/podwyzka-oplat-imigracyjnych-uk-2026/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/news/uk-eta-w-pelni-obowiazkowa-luty-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/news/uk-eta-w-pelni-obowiazkowa-luty-2026/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/site-info/about/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/site-info/about/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/site-info/about/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/site-info/about/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/site-info/about/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/site-info/about/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/site-info/about/"/>
   </url>
-  <url><loc>https://eta-se.com/site-info/agreement/</loc>
+  <url><loc>https://eta-se.com/el/site-info/agreement/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/site-info/agreement/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/site-info/agreement/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/site-info/agreement/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/site-info/agreement/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/site-info/agreement/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/site-info/agreement/"/>
   </url>
-  <url><loc>https://eta-se.com/site-info/contact/</loc>
+  <url><loc>https://eta-se.com/el/site-info/contact/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/site-info/contact/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/site-info/contact/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/site-info/contact/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/site-info/contact/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/site-info/contact/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/site-info/contact/"/>
   </url>
-  <url><loc>https://eta-se.com/site-info/privacy-policy/</loc>
+  <url><loc>https://eta-se.com/el/site-info/privacy-policy/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/site-info/privacy-policy/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/site-info/privacy-policy/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/site-info/privacy-policy/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/site-info/privacy-policy/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/site-info/privacy-policy/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/site-info/privacy-policy/"/>
   </url>
-  <url><loc>https://eta-se.com/sitemap/</loc>
+  <url><loc>https://eta-se.com/el/sitemap/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/sitemap/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/sitemap/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/sitemap/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/sitemap/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/sitemap/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/sitemap/"/>
   </url>
-  <url><loc>https://eta-se.com/uk-entry/lotniska-londynu/</loc>
+  <url><loc>https://eta-se.com/el/uk-entry/lotniska-londynu/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/uk-entry/lotniska-londynu/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/lotniska-londynu/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/lotniska-londynu/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/lotniska-londynu/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/lotniska-londynu/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/lotniska-londynu/"/>
   </url>
-  <url><loc>https://eta-se.com/uk-entry/lotnisko-heathrow/</loc>
+  <url><loc>https://eta-se.com/el/uk-entry/lotnisko-heathrow/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/uk-entry/lotnisko-heathrow/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/lotnisko-heathrow/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/lotnisko-heathrow/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/lotnisko-heathrow/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/lotnisko-heathrow/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/lotnisko-heathrow/"/>
   </url>
-  <url><loc>https://eta-se.com/uk-entry/wjazd-i-wiza/</loc>
+  <url><loc>https://eta-se.com/el/uk-entry/wjazd-i-wiza/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/uk-entry/wjazd-i-wiza/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/wjazd-i-wiza/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/wjazd-i-wiza/"/>
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/wjazd-i-wiza/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/wjazd-i-wiza/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/wjazd-i-wiza/"/>
-  </url>
-  <url><loc>https://eta-se.com/it/eta-info/italiani-caratteri-speciali/</loc>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/italiani-caratteri-speciali/"/>
-  </url>
-  <url><loc>https://eta-se.com/eta-info/standard-visitor-visa/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/standard-visitor-visa/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/standard-visitor-visa/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/standard-visitor-visa/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/standard-visitor-visa/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/standard-visitor-visa/"/>
-  </url>
-  <url><loc>https://eta-se.com/de/eta-info/standard-visitor-visa/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/standard-visitor-visa/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/standard-visitor-visa/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/standard-visitor-visa/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/standard-visitor-visa/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/standard-visitor-visa/"/>
-  </url>
-  <url><loc>https://eta-se.com/it/eta-info/standard-visitor-visa/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/standard-visitor-visa/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/standard-visitor-visa/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/standard-visitor-visa/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/standard-visitor-visa/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/standard-visitor-visa/"/>
-  </url>
-  <url><loc>https://eta-se.com/ro/eta-info/standard-visitor-visa/</loc>
-    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/eta-info/standard-visitor-visa/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/eta-info/standard-visitor-visa/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/eta-info/standard-visitor-visa/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/eta-info/standard-visitor-visa/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/eta-info/standard-visitor-visa/"/>
   </url>
 </urlset>
