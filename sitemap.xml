@@ -245,6 +245,22 @@
     <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/lotnisko-heathrow/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/lotnisko-heathrow/"/>
   </url>
+  <url><loc>https://eta-se.com/uk-entry/uk-border-egates/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/uk-entry/uk-border-egates/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/uk-border-egates/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/uk-border-egates/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/uk-border-egates/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/uk-border-egates/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/uk-border-egates/"/>
+  </url>
+  <url><loc>https://eta-se.com/uk-entry/uk-customs-rules/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/uk-entry/uk-customs-rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/uk-customs-rules/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/uk-customs-rules/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/uk-customs-rules/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/uk-customs-rules/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/uk-customs-rules/"/>
+  </url>
   <url><loc>https://eta-se.com/uk-entry/wjazd-i-wiza/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/uk-entry/wjazd-i-wiza/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/wjazd-i-wiza/"/>
@@ -489,6 +505,22 @@
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/lotnisko-heathrow/"/>
     <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/lotnisko-heathrow/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/lotnisko-heathrow/"/>
+  </url>
+  <url><loc>https://eta-se.com/de/uk-entry/uk-border-egates/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/uk-entry/uk-border-egates/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/uk-border-egates/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/uk-border-egates/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/uk-border-egates/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/uk-border-egates/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/uk-border-egates/"/>
+  </url>
+  <url><loc>https://eta-se.com/de/uk-entry/uk-customs-rules/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/uk-entry/uk-customs-rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/uk-customs-rules/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/uk-customs-rules/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/uk-customs-rules/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/uk-customs-rules/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/uk-customs-rules/"/>
   </url>
   <url><loc>https://eta-se.com/de/uk-entry/wjazd-i-wiza/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/uk-entry/wjazd-i-wiza/"/>
@@ -736,6 +768,22 @@
     <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/lotnisko-heathrow/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/lotnisko-heathrow/"/>
   </url>
+  <url><loc>https://eta-se.com/it/uk-entry/uk-border-egates/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/uk-entry/uk-border-egates/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/uk-border-egates/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/uk-border-egates/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/uk-border-egates/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/uk-border-egates/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/uk-border-egates/"/>
+  </url>
+  <url><loc>https://eta-se.com/it/uk-entry/uk-customs-rules/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/uk-entry/uk-customs-rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/uk-customs-rules/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/uk-customs-rules/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/uk-customs-rules/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/uk-customs-rules/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/uk-customs-rules/"/>
+  </url>
   <url><loc>https://eta-se.com/it/uk-entry/wjazd-i-wiza/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/uk-entry/wjazd-i-wiza/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/wjazd-i-wiza/"/>
@@ -979,6 +1027,22 @@
     <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/lotnisko-heathrow/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/lotnisko-heathrow/"/>
   </url>
+  <url><loc>https://eta-se.com/ro/uk-entry/uk-border-egates/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/uk-entry/uk-border-egates/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/uk-border-egates/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/uk-border-egates/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/uk-border-egates/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/uk-border-egates/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/uk-border-egates/"/>
+  </url>
+  <url><loc>https://eta-se.com/ro/uk-entry/uk-customs-rules/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/uk-entry/uk-customs-rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/uk-customs-rules/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/uk-customs-rules/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/uk-customs-rules/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/uk-customs-rules/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/uk-customs-rules/"/>
+  </url>
   <url><loc>https://eta-se.com/ro/uk-entry/wjazd-i-wiza/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/uk-entry/wjazd-i-wiza/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/wjazd-i-wiza/"/>
@@ -1221,6 +1285,22 @@
     <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/lotnisko-heathrow/"/>
     <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/lotnisko-heathrow/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/lotnisko-heathrow/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/uk-entry/uk-border-egates/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/uk-entry/uk-border-egates/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/uk-border-egates/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/uk-border-egates/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/uk-border-egates/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/uk-border-egates/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/uk-border-egates/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/uk-entry/uk-customs-rules/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/uk-entry/uk-customs-rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/uk-customs-rules/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/uk-customs-rules/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/uk-customs-rules/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/uk-customs-rules/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/uk-customs-rules/"/>
   </url>
   <url><loc>https://eta-se.com/el/uk-entry/wjazd-i-wiza/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/uk-entry/wjazd-i-wiza/"/>
