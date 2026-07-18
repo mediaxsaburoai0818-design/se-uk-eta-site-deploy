@@ -1630,4 +1630,44 @@
     <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/bank-holidays/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/bank-holidays/"/>
   </url>
+  <url><loc>https://eta-se.com/uk-entry/safety-emergency/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/uk-entry/safety-emergency/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/safety-emergency/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/safety-emergency/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/safety-emergency/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/safety-emergency/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/safety-emergency/"/>
+  </url>
+  <url><loc>https://eta-se.com/de/uk-entry/safety-emergency/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/uk-entry/safety-emergency/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/safety-emergency/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/safety-emergency/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/safety-emergency/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/safety-emergency/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/safety-emergency/"/>
+  </url>
+  <url><loc>https://eta-se.com/it/uk-entry/safety-emergency/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/uk-entry/safety-emergency/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/safety-emergency/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/safety-emergency/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/safety-emergency/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/safety-emergency/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/safety-emergency/"/>
+  </url>
+  <url><loc>https://eta-se.com/ro/uk-entry/safety-emergency/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/uk-entry/safety-emergency/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/safety-emergency/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/safety-emergency/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/safety-emergency/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/safety-emergency/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/safety-emergency/"/>
+  </url>
+  <url><loc>https://eta-se.com/el/uk-entry/safety-emergency/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://eta-se.com/uk-entry/safety-emergency/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://eta-se.com/de/uk-entry/safety-emergency/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://eta-se.com/it/uk-entry/safety-emergency/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://eta-se.com/ro/uk-entry/safety-emergency/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://eta-se.com/el/uk-entry/safety-emergency/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://eta-se.com/uk-entry/safety-emergency/"/>
+  </url>
 </urlset>
