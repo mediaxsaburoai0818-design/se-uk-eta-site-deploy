@@ -7,7 +7,9 @@
   "no": "/no/",
   "cs": "/cs/",
   "fi": "/fi/",
-  "hu": "/hu/"
+  "hu": "/hu/",
+  "ko": "/ko/",
+  "he": "/he/"
  },
  "_codes": {
   "es": "es",
@@ -17,7 +19,9 @@
   "no": "nb",
   "cs": "cs",
   "fi": "fi",
-  "hu": "hu"
+  "hu": "hu",
+  "ko": "ko",
+  "he": "he"
  },
  "what-is-eta": {
   "es": "/es/que-es-la-eta/",
@@ -27,7 +31,9 @@
   "no": "/no/hva-er-eta/",
   "cs": "/cs/co-je-eta/",
   "fi": "/fi/mika-on-eta/",
-  "hu": "/hu/mi-az-eta/"
+  "hu": "/hu/mi-az-eta/",
+  "ko": "/ko/eta-ran/",
+  "he": "/he/ma-ze-eta/"
  },
  "application": {
   "es": "/es/como-solicitarla/",
@@ -37,7 +43,9 @@
   "no": "/no/slik-soker-du/",
   "cs": "/cs/jak-zadat/",
   "fi": "/fi/nain-haet/",
-  "hu": "/hu/hogyan-igenyelheto/"
+  "hu": "/hu/hogyan-igenyelheto/",
+  "ko": "/ko/sinceong-bangbeop/",
+  "he": "/he/eich-magishim/"
  },
  "fee": {
   "es": "/es/precio/",
@@ -47,7 +55,9 @@
   "no": "/no/pris/",
   "cs": "/cs/cena/",
   "fi": "/fi/hinta/",
-  "hu": "/hu/dij/"
+  "hu": "/hu/dij/",
+  "ko": "/ko/biyong/",
+  "he": "/he/alut/"
  },
  "status-check": {
   "es": "/es/consultar-estado/",
@@ -57,7 +67,9 @@
   "no": "/no/sjekk-status/",
   "cs": "/cs/overeni-stavu/",
   "fi": "/fi/tilan-tarkistus/",
-  "hu": "/hu/statusz-ellenorzese/"
+  "hu": "/hu/statusz-ellenorzese/",
+  "ko": "/ko/sangtae-hwagin/",
+  "he": "/he/bdikat-status/"
  },
  "validity": {
   "es": "/es/validez/",
@@ -67,7 +79,9 @@
   "no": "/no/gyldighet/",
   "cs": "/cs/platnost/",
   "fi": "/fi/voimassaolo/",
-  "hu": "/hu/ervenyesseg/"
+  "hu": "/hu/ervenyesseg/",
+  "ko": "/ko/yuhyogigan/",
+  "he": "/he/tokef/"
  },
  "processing-time": {
   "es": "/es/tiempo-de-tramitacion/",
@@ -77,7 +91,9 @@
   "no": "/no/behandlingstid/",
   "cs": "/cs/doba-vyrizeni/",
   "fi": "/fi/kasittelyaika/",
-  "hu": "/hu/ugyintezesi-ido/"
+  "hu": "/hu/ugyintezesi-ido/",
+  "ko": "/ko/soyo-sigan/",
+  "he": "/he/zman-tipul/"
  },
  "required-documents": {
   "es": "/es/documentos-necesarios/",
@@ -87,7 +103,9 @@
   "no": "/no/dokumenter/",
   "cs": "/cs/potrebne-doklady/",
   "fi": "/fi/tarvittavat-asiakirjat/",
-  "hu": "/hu/szukseges-dokumentumok/"
+  "hu": "/hu/szukseges-dokumentumok/",
+  "ko": "/ko/pilyo-seoryu/",
+  "he": "/he/mismachim/"
  },
  "stay-duration": {
   "es": "/es/duracion-de-la-estancia/",
@@ -97,7 +115,9 @@
   "no": "/no/oppholdets-lengde/",
   "cs": "/cs/delka-pobytu/",
   "fi": "/fi/oleskelun-kesto/",
-  "hu": "/hu/tartozkodas-hossza/"
+  "hu": "/hu/tartozkodas-hossza/",
+  "ko": "/ko/cheryu-gigan/",
+  "he": "/he/meshech-shehiya/"
  },
  "faq": {
   "es": "/es/preguntas-frecuentes/",
@@ -107,7 +127,9 @@
   "no": "/no/ofte-stilte-sporsmal/",
   "cs": "/cs/caste-dotazy/",
   "fi": "/fi/usein-kysytyt-kysymykset/",
-  "hu": "/hu/gyakori-kerdesek/"
+  "hu": "/hu/gyakori-kerdesek/",
+  "ko": "/ko/jaju-mudneun-jilmun/",
+  "he": "/he/shealot-nefotzot/"
  },
  "about": {
   "es": "/es/sobre-esta-guia/",
@@ -117,7 +139,9 @@
   "no": "/no/om-denne-guiden/",
   "cs": "/cs/o-tomto-pruvodci/",
   "fi": "/fi/tietoa-oppaasta/",
-  "hu": "/hu/az-utmutatorol/"
+  "hu": "/hu/az-utmutatorol/",
+  "ko": "/ko/iri-gaideu-sogae/",
+  "he": "/he/aodot/"
  },
  "privacy": {
   "es": "/es/privacidad/",
@@ -127,7 +151,9 @@
   "no": "/no/personvern/",
   "cs": "/cs/ochrana-osobnich-udaju/",
   "fi": "/fi/tietosuoja/",
-  "hu": "/hu/adatvedelem/"
+  "hu": "/hu/adatvedelem/",
+  "ko": "/ko/gaeinjeongbo/",
+  "he": "/he/pratiyut/"
  },
  "terms": {
   "es": "/es/aviso-legal/",
@@ -137,6 +163,8 @@
   "no": "/no/juridisk-informasjon/",
   "cs": "/cs/pravni-informace/",
   "fi": "/fi/oikeudelliset-tiedot/",
-  "hu": "/hu/jogi-informaciok/"
+  "hu": "/hu/jogi-informaciok/",
+  "ko": "/ko/beopjeok-goji/",
+  "he": "/he/meida-mishpati/"
  }
 }
