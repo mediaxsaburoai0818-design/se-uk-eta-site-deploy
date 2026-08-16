@@ -1,0 +1,142 @@
+{
+ "_home": {
+  "es": "/es/",
+  "nl": "/nl/",
+  "pt": "/pt/",
+  "da": "/da/",
+  "no": "/no/",
+  "cs": "/cs/",
+  "fi": "/fi/",
+  "hu": "/hu/"
+ },
+ "_codes": {
+  "es": "es",
+  "nl": "nl",
+  "pt": "pt-PT",
+  "da": "da",
+  "no": "nb",
+  "cs": "cs",
+  "fi": "fi",
+  "hu": "hu"
+ },
+ "what-is-eta": {
+  "es": "/es/que-es-la-eta/",
+  "nl": "/nl/wat-is-de-eta/",
+  "pt": "/pt/o-que-e-a-eta/",
+  "da": "/da/hvad-er-eta/",
+  "no": "/no/hva-er-eta/",
+  "cs": "/cs/co-je-eta/",
+  "fi": "/fi/mika-on-eta/",
+  "hu": "/hu/mi-az-eta/"
+ },
+ "application": {
+  "es": "/es/como-solicitarla/",
+  "nl": "/nl/hoe-aanvragen/",
+  "pt": "/pt/como-pedir/",
+  "da": "/da/sadan-ansoger-du/",
+  "no": "/no/slik-soker-du/",
+  "cs": "/cs/jak-zadat/",
+  "fi": "/fi/nain-haet/",
+  "hu": "/hu/hogyan-igenyelheto/"
+ },
+ "fee": {
+  "es": "/es/precio/",
+  "nl": "/nl/kosten/",
+  "pt": "/pt/preco/",
+  "da": "/da/pris/",
+  "no": "/no/pris/",
+  "cs": "/cs/cena/",
+  "fi": "/fi/hinta/",
+  "hu": "/hu/dij/"
+ },
+ "status-check": {
+  "es": "/es/consultar-estado/",
+  "nl": "/nl/status-controleren/",
+  "pt": "/pt/consultar-estado/",
+  "da": "/da/tjek-status/",
+  "no": "/no/sjekk-status/",
+  "cs": "/cs/overeni-stavu/",
+  "fi": "/fi/tilan-tarkistus/",
+  "hu": "/hu/statusz-ellenorzese/"
+ },
+ "validity": {
+  "es": "/es/validez/",
+  "nl": "/nl/geldigheid/",
+  "pt": "/pt/validade/",
+  "da": "/da/gyldighed/",
+  "no": "/no/gyldighet/",
+  "cs": "/cs/platnost/",
+  "fi": "/fi/voimassaolo/",
+  "hu": "/hu/ervenyesseg/"
+ },
+ "processing-time": {
+  "es": "/es/tiempo-de-tramitacion/",
+  "nl": "/nl/doorlooptijd/",
+  "pt": "/pt/prazo-de-decisao/",
+  "da": "/da/behandlingstid/",
+  "no": "/no/behandlingstid/",
+  "cs": "/cs/doba-vyrizeni/",
+  "fi": "/fi/kasittelyaika/",
+  "hu": "/hu/ugyintezesi-ido/"
+ },
+ "required-documents": {
+  "es": "/es/documentos-necesarios/",
+  "nl": "/nl/benodigde-documenten/",
+  "pt": "/pt/documentos-necessarios/",
+  "da": "/da/dokumenter/",
+  "no": "/no/dokumenter/",
+  "cs": "/cs/potrebne-doklady/",
+  "fi": "/fi/tarvittavat-asiakirjat/",
+  "hu": "/hu/szukseges-dokumentumok/"
+ },
+ "stay-duration": {
+  "es": "/es/duracion-de-la-estancia/",
+  "nl": "/nl/verblijfsduur/",
+  "pt": "/pt/duracao-da-estadia/",
+  "da": "/da/opholdets-laengde/",
+  "no": "/no/oppholdets-lengde/",
+  "cs": "/cs/delka-pobytu/",
+  "fi": "/fi/oleskelun-kesto/",
+  "hu": "/hu/tartozkodas-hossza/"
+ },
+ "faq": {
+  "es": "/es/preguntas-frecuentes/",
+  "nl": "/nl/veelgestelde-vragen/",
+  "pt": "/pt/perguntas-frequentes/",
+  "da": "/da/ofte-stillede-sporgsmal/",
+  "no": "/no/ofte-stilte-sporsmal/",
+  "cs": "/cs/caste-dotazy/",
+  "fi": "/fi/usein-kysytyt-kysymykset/",
+  "hu": "/hu/gyakori-kerdesek/"
+ },
+ "about": {
+  "es": "/es/sobre-esta-guia/",
+  "nl": "/nl/over-deze-gids/",
+  "pt": "/pt/sobre-este-guia/",
+  "da": "/da/om-denne-guide/",
+  "no": "/no/om-denne-guiden/",
+  "cs": "/cs/o-tomto-pruvodci/",
+  "fi": "/fi/tietoa-oppaasta/",
+  "hu": "/hu/az-utmutatorol/"
+ },
+ "privacy": {
+  "es": "/es/privacidad/",
+  "nl": "/nl/privacy/",
+  "pt": "/pt/privacidade/",
+  "da": "/da/privatliv/",
+  "no": "/no/personvern/",
+  "cs": "/cs/ochrana-osobnich-udaju/",
+  "fi": "/fi/tietosuoja/",
+  "hu": "/hu/adatvedelem/"
+ },
+ "terms": {
+  "es": "/es/aviso-legal/",
+  "nl": "/nl/juridische-informatie/",
+  "pt": "/pt/aviso-legal/",
+  "da": "/da/juridisk-information/",
+  "no": "/no/juridisk-informasjon/",
+  "cs": "/cs/pravni-informace/",
+  "fi": "/fi/oikeudelliset-tiedot/",
+  "hu": "/hu/jogi-informaciok/"
+ }
+}
