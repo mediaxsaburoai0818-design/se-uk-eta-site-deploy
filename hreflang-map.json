@@ -9,7 +9,9 @@
   "fi": "/fi/",
   "hu": "/hu/",
   "ko": "/ko/",
-  "he": "/he/"
+  "he": "/he/",
+  "fr": "/fr/",
+  "en": "/en/"
  },
  "_codes": {
   "es": "es",
@@ -21,7 +23,9 @@
   "fi": "fi",
   "hu": "hu",
   "ko": "ko",
-  "he": "he"
+  "he": "he",
+  "fr": "fr",
+  "en": "en"
  },
  "what-is-eta": {
   "es": "/es/que-es-la-eta/",
@@ -33,7 +37,9 @@
   "fi": "/fi/mika-on-eta/",
   "hu": "/hu/mi-az-eta/",
   "ko": "/ko/eta-ran/",
-  "he": "/he/ma-ze-eta/"
+  "he": "/he/ma-ze-eta/",
+  "fr": "/fr/qu-est-ce-que-l-eta/",
+  "en": "/en/what-is-the-eta/"
  },
  "application": {
   "es": "/es/como-solicitarla/",
@@ -45,7 +51,9 @@
   "fi": "/fi/nain-haet/",
   "hu": "/hu/hogyan-igenyelheto/",
   "ko": "/ko/sinceong-bangbeop/",
-  "he": "/he/eich-magishim/"
+  "he": "/he/eich-magishim/",
+  "fr": "/fr/comment-faire-la-demande/",
+  "en": "/en/how-to-apply/"
  },
  "fee": {
   "es": "/es/precio/",
@@ -57,7 +65,9 @@
   "fi": "/fi/hinta/",
   "hu": "/hu/dij/",
   "ko": "/ko/biyong/",
-  "he": "/he/alut/"
+  "he": "/he/alut/",
+  "fr": "/fr/tarif/",
+  "en": "/en/cost/"
  },
  "status-check": {
   "es": "/es/consultar-estado/",
@@ -69,7 +79,9 @@
   "fi": "/fi/tilan-tarkistus/",
   "hu": "/hu/statusz-ellenorzese/",
   "ko": "/ko/sangtae-hwagin/",
-  "he": "/he/bdikat-status/"
+  "he": "/he/bdikat-status/",
+  "fr": "/fr/verifier-le-statut/",
+  "en": "/en/check-status/"
  },
  "validity": {
   "es": "/es/validez/",
@@ -81,7 +93,9 @@
   "fi": "/fi/voimassaolo/",
   "hu": "/hu/ervenyesseg/",
   "ko": "/ko/yuhyogigan/",
-  "he": "/he/tokef/"
+  "he": "/he/tokef/",
+  "fr": "/fr/validite/",
+  "en": "/en/validity/"
  },
  "processing-time": {
   "es": "/es/tiempo-de-tramitacion/",
@@ -93,7 +107,9 @@
   "fi": "/fi/kasittelyaika/",
   "hu": "/hu/ugyintezesi-ido/",
   "ko": "/ko/soyo-sigan/",
-  "he": "/he/zman-tipul/"
+  "he": "/he/zman-tipul/",
+  "fr": "/fr/delai-de-traitement/",
+  "en": "/en/processing-time/"
  },
  "required-documents": {
   "es": "/es/documentos-necesarios/",
@@ -105,7 +121,9 @@
   "fi": "/fi/tarvittavat-asiakirjat/",
   "hu": "/hu/szukseges-dokumentumok/",
   "ko": "/ko/pilyo-seoryu/",
-  "he": "/he/mismachim/"
+  "he": "/he/mismachim/",
+  "fr": "/fr/documents-necessaires/",
+  "en": "/en/what-you-need/"
  },
  "stay-duration": {
   "es": "/es/duracion-de-la-estancia/",
@@ -117,7 +135,9 @@
   "fi": "/fi/oleskelun-kesto/",
   "hu": "/hu/tartozkodas-hossza/",
   "ko": "/ko/cheryu-gigan/",
-  "he": "/he/meshech-shehiya/"
+  "he": "/he/meshech-shehiya/",
+  "fr": "/fr/duree-de-sejour/",
+  "en": "/en/how-long-you-can-stay/"
  },
  "faq": {
   "es": "/es/preguntas-frecuentes/",
@@ -129,7 +149,9 @@
   "fi": "/fi/usein-kysytyt-kysymykset/",
   "hu": "/hu/gyakori-kerdesek/",
   "ko": "/ko/jaju-mudneun-jilmun/",
-  "he": "/he/shealot-nefotzot/"
+  "he": "/he/shealot-nefotzot/",
+  "fr": "/fr/questions-frequentes/",
+  "en": "/en/faq/"
  },
  "about": {
   "es": "/es/sobre-esta-guia/",
@@ -141,7 +163,9 @@
   "fi": "/fi/tietoa-oppaasta/",
   "hu": "/hu/az-utmutatorol/",
   "ko": "/ko/iri-gaideu-sogae/",
-  "he": "/he/aodot/"
+  "he": "/he/aodot/",
+  "fr": "/fr/a-propos-de-ce-guide/",
+  "en": "/en/about-this-guide/"
  },
  "privacy": {
   "es": "/es/privacidad/",
@@ -153,7 +177,9 @@
   "fi": "/fi/tietosuoja/",
   "hu": "/hu/adatvedelem/",
   "ko": "/ko/gaeinjeongbo/",
-  "he": "/he/pratiyut/"
+  "he": "/he/pratiyut/",
+  "fr": "/fr/confidentialite/",
+  "en": "/en/privacy/"
  },
  "terms": {
   "es": "/es/aviso-legal/",
@@ -165,6 +191,8 @@
   "fi": "/fi/oikeudelliset-tiedot/",
   "hu": "/hu/jogi-informaciok/",
   "ko": "/ko/beopjeok-goji/",
-  "he": "/he/meida-mishpati/"
+  "he": "/he/meida-mishpati/",
+  "fr": "/fr/informations-legales/",
+  "en": "/en/legal/"
  }
 }
