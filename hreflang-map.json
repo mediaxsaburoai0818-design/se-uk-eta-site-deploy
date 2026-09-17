@@ -11,7 +11,9 @@
   "ko": "/ko/",
   "he": "/he/",
   "fr": "/fr/",
-  "en": "/en/"
+  "en": "/en/",
+  "zh-tw": "/zh-tw/",
+  "zh-cn": "/zh-cn/"
  },
  "_codes": {
   "es": "es",
@@ -25,7 +27,9 @@
   "ko": "ko",
   "he": "he",
   "fr": "fr",
-  "en": "en"
+  "en": "en",
+  "zh-tw": "zh-Hant",
+  "zh-cn": "zh-Hans"
  },
  "what-is-eta": {
   "es": "/es/que-es-la-eta/",
@@ -39,7 +43,9 @@
   "ko": "/ko/eta-ran/",
   "he": "/he/ma-ze-eta/",
   "fr": "/fr/qu-est-ce-que-l-eta/",
-  "en": "/en/what-is-the-eta/"
+  "en": "/en/what-is-the-eta/",
+  "zh-tw": "/zh-tw/what-is-eta/",
+  "zh-cn": "/zh-cn/what-is-eta/"
  },
  "application": {
   "es": "/es/como-solicitarla/",
@@ -53,7 +59,9 @@
   "ko": "/ko/sinceong-bangbeop/",
   "he": "/he/eich-magishim/",
   "fr": "/fr/comment-faire-la-demande/",
-  "en": "/en/how-to-apply/"
+  "en": "/en/how-to-apply/",
+  "zh-tw": "/zh-tw/how-to-apply/",
+  "zh-cn": "/zh-cn/how-to-apply/"
  },
  "fee": {
   "es": "/es/precio/",
@@ -67,7 +75,9 @@
   "ko": "/ko/biyong/",
   "he": "/he/alut/",
   "fr": "/fr/tarif/",
-  "en": "/en/cost/"
+  "en": "/en/cost/",
+  "zh-tw": "/zh-tw/fee/",
+  "zh-cn": "/zh-cn/fee/"
  },
  "status-check": {
   "es": "/es/consultar-estado/",
@@ -81,7 +91,9 @@
   "ko": "/ko/sangtae-hwagin/",
   "he": "/he/bdikat-status/",
   "fr": "/fr/verifier-le-statut/",
-  "en": "/en/check-status/"
+  "en": "/en/check-status/",
+  "zh-tw": "/zh-tw/status-check/",
+  "zh-cn": "/zh-cn/status-check/"
  },
  "validity": {
   "es": "/es/validez/",
@@ -95,7 +107,9 @@
   "ko": "/ko/yuhyogigan/",
   "he": "/he/tokef/",
   "fr": "/fr/validite/",
-  "en": "/en/validity/"
+  "en": "/en/validity/",
+  "zh-tw": "/zh-tw/validity/",
+  "zh-cn": "/zh-cn/validity/"
  },
  "processing-time": {
   "es": "/es/tiempo-de-tramitacion/",
@@ -109,7 +123,9 @@
   "ko": "/ko/soyo-sigan/",
   "he": "/he/zman-tipul/",
   "fr": "/fr/delai-de-traitement/",
-  "en": "/en/processing-time/"
+  "en": "/en/processing-time/",
+  "zh-tw": "/zh-tw/processing-time/",
+  "zh-cn": "/zh-cn/processing-time/"
  },
  "required-documents": {
   "es": "/es/documentos-necesarios/",
@@ -123,7 +139,9 @@
   "ko": "/ko/pilyo-seoryu/",
   "he": "/he/mismachim/",
   "fr": "/fr/documents-necessaires/",
-  "en": "/en/what-you-need/"
+  "en": "/en/what-you-need/",
+  "zh-tw": "/zh-tw/required-documents/",
+  "zh-cn": "/zh-cn/required-documents/"
  },
  "stay-duration": {
   "es": "/es/duracion-de-la-estancia/",
@@ -137,7 +155,9 @@
   "ko": "/ko/cheryu-gigan/",
   "he": "/he/meshech-shehiya/",
   "fr": "/fr/duree-de-sejour/",
-  "en": "/en/how-long-you-can-stay/"
+  "en": "/en/how-long-you-can-stay/",
+  "zh-tw": "/zh-tw/stay-duration/",
+  "zh-cn": "/zh-cn/stay-duration/"
  },
  "faq": {
   "es": "/es/preguntas-frecuentes/",
@@ -151,7 +171,9 @@
   "ko": "/ko/jaju-mudneun-jilmun/",
   "he": "/he/shealot-nefotzot/",
   "fr": "/fr/questions-frequentes/",
-  "en": "/en/faq/"
+  "en": "/en/faq/",
+  "zh-tw": "/zh-tw/faq/",
+  "zh-cn": "/zh-cn/faq/"
  },
  "about": {
   "es": "/es/sobre-esta-guia/",
@@ -165,7 +187,9 @@
   "ko": "/ko/iri-gaideu-sogae/",
   "he": "/he/aodot/",
   "fr": "/fr/a-propos-de-ce-guide/",
-  "en": "/en/about-this-guide/"
+  "en": "/en/about-this-guide/",
+  "zh-tw": "/zh-tw/about/",
+  "zh-cn": "/zh-cn/about/"
  },
  "privacy": {
   "es": "/es/privacidad/",
@@ -179,7 +203,9 @@
   "ko": "/ko/gaeinjeongbo/",
   "he": "/he/pratiyut/",
   "fr": "/fr/confidentialite/",
-  "en": "/en/privacy/"
+  "en": "/en/privacy/",
+  "zh-tw": "/zh-tw/privacy/",
+  "zh-cn": "/zh-cn/privacy/"
  },
  "terms": {
   "es": "/es/aviso-legal/",
@@ -193,6 +219,8 @@
   "ko": "/ko/beopjeok-goji/",
   "he": "/he/meida-mishpati/",
   "fr": "/fr/informations-legales/",
-  "en": "/en/legal/"
+  "en": "/en/legal/",
+  "zh-tw": "/zh-tw/terms/",
+  "zh-cn": "/zh-cn/terms/"
  }
 }
