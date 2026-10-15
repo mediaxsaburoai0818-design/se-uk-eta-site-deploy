@@ -222,5 +222,8 @@
   "en": "/en/legal/",
   "zh-tw": "/zh-tw/terms/",
   "zh-cn": "/zh-cn/terms/"
+ },
+ "mobile-app": {
+  "en": "/en/uk-eta-app/"
  }
 }
