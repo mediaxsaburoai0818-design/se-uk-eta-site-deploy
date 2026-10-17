@@ -1,13 +1,226 @@
 1:"$Sreact.fragment"
-2:I[80622,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],""]
-a:I[63554,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"OutletBoundary"]
-b:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"lang":"hu","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://eta-se.com/hu/#website\",\"url\":\"https://eta-se.com/hu/\",\"name\":\"UK ETA útmutató\",\"description\":\"Magyar nyelvű útmutató az UK ETA-hoz: £20-ba kerül, 2 évig érvényes, és utazásonként legfeljebb 6 hónap tartózkodásra jogosít. Igénylés a GOV.UK oldalán.\",\"inLanguage\":\"hu\",\"publisher\":{\"@id\":\"https://eta-se.com/hu/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https://eta-se.com/hu/#organization\",\"name\":\"UK ETA útmutató\",\"url\":\"https://eta-se.com/\",\"logo\":\"https://eta-se.com/logo-uk-eta.png\"}]}"}}],["$","section",null,{"className":"sub-hero relative overflow-hidden","children":[["$","div",null,{"className":"absolute inset-0 sub-hero-scrim"}],["$","div",null,{"className":"relative max-w-4xl mx-auto px-6 pt-12 pb-12 md:pt-14 md:pb-16","children":[["$","p",null,{"className":"kicker mb-3 mt-4","children":"Magyar"}],["$","h1",null,{"className":"deco-head text-3xl md:text-4xl font-bold text-white mb-6","style":{"fontFamily":"var(--font-noto-serif), serif"},"children":[["$","span",null,{"className":"deco-line"}],"Az Egyesült Királyságba szóló utazási engedély, lépésről lépésre"]}],["$","p",null,{"className":"text-white/90 leading-relaxed","children":"Ha az Egyesült Királyságba utazik, UK ETA-ra van szüksége. A hivatalos oldalon £20-ba kerül, a válasz általában 1 napon belül megérkezik, az engedély pedig 2 évig érvényes, több utazásra."}]]}]]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-10","children":[["$","div",null,{"className":"grid gap-4 sm:grid-cols-2","children":[["$","$L2","mi-az-eta",{"href":"/hu/mi-az-eta/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Mi az UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Az UK ETA-t (Electronic Travel Authorisation) az utazás előtt kell igényelni. Nem helyettesíti a","…"]}]]}],["$","$L2","hogyan-igenyelheto",{"href":"/hu/hogyan-igenyelheto/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Hogyan igényelhető az UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Az igénylés teljes egészében online zajlik, a GOV.UK hivatalos oldalán vagy a hivatalos alkalmaz","…"]}]]}],["$","$L2","dij",{"href":"/hu/dij/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Mennyibe kerül az UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["A hivatalos díj £20, és egyszer kell megfizetni. Az engedély ezután 2 évig érvényes, több utazás","…"]}]]}],["$","$L2","ugyintezesi-ido",{"href":"/hu/ugyintezesi-ido/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Mennyi ideig tart az UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["A legtöbb esetben a válasz 1 napon belül megérkezik. Mégis érdemes legfeljebb 3 munkanappal szám","…"]}]]}],["$","$L2","statusz-ellenorzese",{"href":"/hu/statusz-ellenorzese/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Az UK ETA státuszának ellenőrzése"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["A döntésről e-mailben értesítik. Ha nem érkezett meg, a státuszt lekérdezheti annak az útlevélne","…"]}]]}],"$L3","$L4","$L5","$L6"]}],"$L7","$L8"]}]]}],null,"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"liSA_jXBk6FJp8Fyf70iq"}
-3:["$","$L2","ervenyesseg",{"href":"/hu/ervenyesseg/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Meddig érvényes az UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Az engedély 2 évig érvényes — vagy az útlevél lejártáig, ha az hamarabb következik be.","…"]}]]}]
-4:["$","$L2","szukseges-dokumentumok",{"href":"/hu/szukseges-dokumentumok/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Milyen dokumentumokra van szükség"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Az igénylés egyszerű: útlevél, egy fénykép és egy fizetési eszköz. Útiokmányokra vagy igazolások","…"]}]]}]
-5:["$","$L2","tartozkodas-hossza",{"href":"/hu/tartozkodas-hossza/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Meddig maradhat"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Utazásonként legfeljebb 6 hónapig tartózkodhat az Egyesült Királyságban. Az engedély turizmusra,","…"]}]]}]
-6:["$","$L2","gyakori-kerdesek",{"href":"/hu/gyakori-kerdesek/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Gyakori kérdések az UK ETA-ról"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Rövid válaszok a leggyakoribb kérdésekre. Minden pont a teljes magyarázatra hivatkozik.","…"]}]]}]
-7:["$","div",null,{"className":"mt-10 p-5 bg-stone-50 border border-stone-200 rounded-lg","children":[["$","p",null,{"className":"text-sm text-stone-700 mb-3","children":"£20 · 2 · 6"}],["$","a",null,{"href":"https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta","target":"_blank","rel":"noopener noreferrer","className":"inline-block bg-stone-900 text-white px-6 py-2.5 rounded-full text-sm font-medium","children":"Igénylés a GOV.UK hivatalos oldalán"}]]}]
-8:["$","nav",null,{"className":"mt-10 flex flex-wrap gap-4 text-sm text-stone-600","children":[["$","$L2",null,{"href":"/hu/az-utmutatorol/","className":"underline","children":"Erről az útmutatóról"}],["$","$L2",null,{"href":"/hu/adatvedelem/","className":"underline","children":"Adatvédelmi tájékoztató"}],["$","$L2",null,{"href":"/hu/jogi-informaciok/","className":"underline","children":"Jogi információk"}]]}]
-9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
-c:null
+5:I[61574,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+6:I[63554,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap","style"]
+2:T5afe,<div class="etahome">
+
+
+<div class="trustbar"><div class="container">
+  <span>Független tájékoztató oldal az UK ETA-ról. Nem állunk kapcsolatban a brit kormánnyal.</span>
+  <span>Hivatalos információ: <a href="https://www.gov.uk/electronic-travel-authorisation" rel="nofollow noopener" target="_blank">GOV.UK ↗</a></span>
+</div></div>
+
+
+<header class="header"><div class="container">
+  <a class="brand" href="/hu/">
+    <img src="/home/crown-navy.png" alt="" width="44" height="44">
+    <span>
+      <span class="name">UK ETA</span>
+      <span class="sub">Elektronikus utazási engedély az Egyesült Királyságba</span>
+    </span>
+  </a>
+  <nav class="nav" aria-label="Főmenü">
+    <a href="/hu/mi-az-eta/">Áttekintés</a>
+    <a href="/hu/mi-az-eta/">Kinek kell?</a>
+    <a href="/hu/hogyan-igenyelheto/">Hogyan igényelhető?</a>
+    <a href="/hu/szukseges-dokumentumok/">Feltételek</a>
+    <a href="/hu/tartozkodas-hossza/">Utazás az Egyesült Királyságba</a>
+    <a href="/hu/gyakori-kerdesek/">GYIK</a>
+    <a href="/hu/">Hírek</a>
+  </nav>
+  <div class="spacer"></div>
+  <div class="tools">
+    <details class="langmenu"><summary class="lang" aria-label="Nyelv váltása">HU <span aria-hidden="true">⌄</span></summary><ul><li><a href="/" hreflang="sv" lang="sv">Svenska</a></li><li><a href="/en/" hreflang="en" lang="en">English</a></li><li><a href="/de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="/fr/" hreflang="fr" lang="fr">Français</a></li><li><a href="/it/" hreflang="it" lang="it">Italiano</a></li><li><a href="/es/" hreflang="es" lang="es">Español</a></li><li><a href="/nl/" hreflang="nl" lang="nl">Nederlands</a></li><li><a href="/pt/" hreflang="pt" lang="pt">Português</a></li><li><a href="/da/" hreflang="da" lang="da">Dansk</a></li><li><a href="/no/" hreflang="no" lang="no">Norsk</a></li><li><a href="/fi/" hreflang="fi" lang="fi">Suomi</a></li><li><a href="/cs/" hreflang="cs" lang="cs">Čeština</a></li><li><a href="/hu/" hreflang="hu" lang="hu">Magyar</a></li><li><a href="/ro/" hreflang="ro" lang="ro">Română</a></li><li><a href="/el/" hreflang="el" lang="el">Ελληνικά</a></li><li><a href="/he/" hreflang="he" lang="he">עברית</a></li><li><a href="/ko/" hreflang="ko" lang="ko">한국어</a></li><li><a href="/zh-tw/" hreflang="zh-tw" lang="zh-tw">繁體中文</a></li><li><a href="/zh-cn/" hreflang="zh-cn" lang="zh-cn">简体中文</a></li></ul></details>
+    <a class="iconbtn" href="/hu/" aria-label="Oldaltérkép">
+      <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+    </a>
+    <button class="iconbtn burger" type="button" aria-label="Menü" aria-expanded="false" aria-controls="nav">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+    </button>
+    <a class="btn" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">UK ETA igénylése <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+</div></header></div>
+<!--BLOCK-->
+<div class="etahome"><div>
+
+
+<section class="hero">
+  <div class="hero-media">
+    <img src="/home/hero-westminster.jpg" alt="A westminsteri parlament épülete és a Big Ben a Temze partján, Londonban" width="2121" height="900" fetchpriority="high">
+  </div>
+  <div class="container">
+    <div class="hero-inner">
+      <span class="hero-pill">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" style="color:#062F55"><path d="M21 16v-2l-8-5V3.5a1.5 1.5 0 0 0-3 0V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L13 19v-5.5z"/></svg>
+        <span>UK ETA-tájékoztató magyar utazóknak</span>
+      </span>
+      <h1>UK ETA<span class="sub">Elektronikus utazási engedély az Egyesült Királyságba</span></h1>
+      <p class="lead">A magyar állampolgároknak UK ETA-ra van szükségük, ha rövid időre utaznak az Egyesült Királyságba.</p>
+      <div class="hero-actions">
+        <a class="btn" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">UK ETA igénylése <span class="arrow" aria-hidden="true">→</span></a>
+        <a class="textlink" href="#oversikt">Tudjon meg többet az UK ETA-ról <span aria-hidden="true">↓</span></a>
+      </div>
+    </div>
+  </div>
+  <div class="hero-script" aria-hidden="true">Explore<br><span>the UK</span></div>
+  <a class="hero-card" href="/hu/mi-az-eta/" style="text-decoration:none">
+    <p>Anglia, Skócia, Wales és Észak-Írország</p>
+    <span class="round" aria-hidden="true">→</span>
+  </a>
+</section>
+
+
+<div class="keyfacts"><div class="container"><div class="panel">
+  <div class="cell">
+    <img src="/home/fact-fee.png" alt="" width="30" height="30">
+    <span><span class="v">£20</span><span class="k">Igénylési díj</span></span>
+  </div>
+  <div class="cell">
+    <img src="/home/fact-time.png" alt="" width="30" height="30">
+    <span><span class="v">Percek</span><span class="k">A legtöbben automatikus döntést kapnak</span></span>
+  </div>
+  <div class="cell">
+    <img src="/home/fact-valid.png" alt="" width="30" height="30">
+    <span><span class="v">2 év</span><span class="k">Érvényesség</span></span>
+  </div>
+</div></div></div>
+
+
+<section class="section"><div class="container two-col">
+  <article class="block" id="oversikt">
+    <div class="body">
+      <span class="eyebrow">Áttekintés</span>
+      <h2>Mi az UK ETA?</h2>
+      <p>Az UK ETA (Electronic Travel Authorisation) elektronikus utazási engedély, amelyre a magyar állampolgároknak szükségük van, ha turizmus, üzleti út, rövid tanulmányok vagy tranzit céljából utaznak az Egyesült Királyságba.</p>
+      <a class="textlink" href="/hu/mi-az-eta/">Tudjon meg többet az UK ETA-ról <span class="arrow" aria-hidden="true">→</span></a>
+    </div>
+    <div class="visual"><img src="/home/union-jack.jpg" alt="Az Egyesült Királyság zászlaja kék ég előtt" width="1200" height="840" loading="lazy"></div>
+  </article>
+
+  <article class="block" id="vem">
+    <div class="body">
+      <span class="eyebrow">Kinek kell?</span>
+      <h2>Kinek van szüksége UK ETA-ra?</h2>
+      <p>A magyar állampolgároknak UK ETA-ra van szükségük, ha rövid időre az Egyesült Királyságba – Angliába, Skóciába, Walesbe vagy Észak-Írországba – utaznak.</p>
+      <a class="textlink" href="/hu/mi-az-eta/">Ellenőrizze, szüksége van-e UK ETA-ra <span class="arrow" aria-hidden="true">→</span></a>
+    </div>
+    <div class="visual map"><div class="map-wrap">
+      <img src="/home/uk-map.png" alt="Az Egyesült Királyság térképe Angliával, Skóciával, Walesszel és Észak-Írországgal" width="672" height="900" loading="lazy">
+      <span class="ml ml-sc">Scotland</span>
+      <span class="ml ml-ni">Northern<br>Ireland</span>
+      <span class="ml ml-ie">Ireland</span>
+      <span class="ml ml-wa">Wales</span>
+      <span class="ml ml-en">England</span>
+    </div></div>
+  </article>
+</div></section>
+
+
+<section class="band"><div class="container cols">
+  <div id="krav">
+    <span class="eyebrow">Feltételek</span>
+    <h2>Amire szüksége lesz</h2>
+    <p class="muted" style="margin-top:8px;font-size:14.5px">Az UK ETA igényléséhez a következőkre van szükség:</p>
+    <div class="req-grid">
+      <div class="req-card"><img src="/home/req-passport.png" alt="" width="34" height="34"><div class="num">1</div><div class="t">Érvényes útlevél</div><div class="d">Fénykép vagy szkennelt kép a fényképes oldalról.</div></div>
+      <div class="req-card"><img src="/home/req-photo.png" alt="" width="34" height="34"><div class="num">2</div><div class="t">Arcfénykép</div><div class="d">Egy jól látható fénykép az arcáról.</div></div>
+      <div class="req-card"><img src="/home/req-email.png" alt="" width="34" height="34"><div class="num">3</div><div class="t">E-mail-cím</div><div class="d">A döntés fogadásához.</div></div>
+      <div class="req-card"><img src="/home/req-card.png" alt="" width="34" height="34"><div class="num">4</div><div class="t">Bankkártya</div><div class="d">Az igénylési díj (£20) kifizetéséhez.</div></div>
+    </div>
+  </div>
+
+  <div id="ansokan">
+    <span class="eyebrow">Igénylés</span>
+    <h2>Így igényelheti</h2>
+    <p class="muted" style="margin-top:8px;font-size:14.5px">Az igénylés a hivatalos UK ETA alkalmazásban történik.</p>
+    <div class="app-wrap">
+      <div>
+        <div class="steps">
+          <div class="step"><div class="circle">01</div><div class="d">Töltse le az UK ETA alkalmazást</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">02</div><div class="d">Szkennelje be az útlevelét, és készítsen fényképet</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">03</div><div class="d">Töltse ki az űrlapot, és fizessen (£20)</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">04</div><div class="d">Várja meg a jóváhagyást</div></div>
+        </div>
+        <a class="textlink" href="/hu/hogyan-igenyelheto/" style="margin-top:20px">Részletes, lépésről lépésre szóló útmutató <span class="arrow" aria-hidden="true">→</span></a>
+      </div>
+      <img class="phone" src="/home/phone-mock.png" alt="Az UK ETA alkalmazás egy mobiltelefonon" width="760" height="1497" loading="lazy">
+    </div>
+  </div>
+</div></section>
+
+
+<section class="section lower"><div class="container lower-grid">
+  <div class="lower-main">
+    <div class="row-travel">
+  <div id="resa">
+    <span class="eyebrow">Utazás az Egyesült Királyságba</span>
+    <h2>Utazás az Egyesült Királyságba</h2>
+    <p>Az UK ETA Angliába, Skóciába, Walesbe és Észak-Írországba szóló utazásokra érvényes. Írország nem tartozik ide. A szabályok tranzit esetén is érvényesek, attól függően, hogy a tranzitzónában marad (airside), vagy áthalad a határellenőrzésen (landside).</p>
+    <a class="textlink" href="/hu/tartozkodas-hossza/">Bővebben az utazási szabályokról <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+
+  <div class="photo-cards">
+    <a class="photo-card" href="/hu/tartozkodas-hossza/">
+      <img src="/home/airside.jpg" alt="Repülőtéri indulási csarnok alkonyatkor" width="800" height="600" loading="lazy">
+      <span class="cap"><span class="t">Airside tranzit</span><span class="d">Általában nincs szüksége UK ETA-ra.</span></span>
+      <span class="go" aria-hidden="true">→</span>
+    </a>
+    <a class="photo-card" href="/hu/tartozkodas-hossza/">
+      <img src="/home/landside.jpg" alt="Repülőtéri érkezési csarnok utasokkal" width="800" height="600" loading="lazy">
+      <span class="cap"><span class="t">Landside tranzit</span><span class="d">UK ETA-ra van szüksége.</span></span>
+      <span class="go" aria-hidden="true">→</span>
+    </a>
+  </div>
+
+    </div>
+    <div class="row-sv">
+  <div>
+    <span class="eyebrow">UK ETA magyar állampolgároknak</span>
+    <h2>UK ETA magyar állampolgároknak</h2>
+    <p>Tudnivalók kifejezetten magyar állampolgároknak: érvényességi idő, az engedély által lefedett utazások és a gyakori kérdések.</p>
+    <a class="textlink" href="#svenska">Bővebben magyar állampolgároknak <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+  <img src="/home/city-budapest.jpg" alt="" width="1200" height="600" loading="lazy">
+</div>
+  </div>
+  <aside class="ql">
+    <span class="eyebrow">Gyors linkek</span>
+    <div class="ql-item"><img src="/home/ql-faq.png" alt="" width="26" height="26"><span><span class="t">Gyakori kérdések</span><br><a class="textlink" href="/hu/gyakori-kerdesek/">GYIK megtekintése <span aria-hidden="true">→</span></a></span></div>
+    <div class="ql-item"><img src="/home/ql-news.png" alt="" width="26" height="26"><span><span class="t">Legfrissebb hírek</span><br><a class="textlink" href="/hu/">Hírek megtekintése <span aria-hidden="true">→</span></a></span></div>
+    <div class="ql-item"><img src="/home/ql-links.png" alt="" width="26" height="26"><span><span class="t">Hasznos oldalak</span><br><a class="textlink" href="/hu/">Hasznos oldalak megtekintése <span aria-hidden="true">→</span></a></span></div>
+  </aside>
+</div></section>
+
+
+</div><section class="band xsec"><div class="container"><span class="eyebrow">Érvényesség és határidő</span><h2>Meddig érvényes az ETA, és mikor kell igényelni</h2><p class="xlead">Mikor nyújtsa be az igénylést, és meddig marad érvényes az ETA.</p><div class="xcards x2"><div class="xcard"><h3>Érvényesség</h3><p>Az ETA a kiállítástól számított <strong>2 évig</strong> érvényes, és többszöri beutazásra jogosít az Egyesült Királyságba. Ha az útlevele 2 éven belül lejár, az ETA az útlevéllel együtt megszűnik – ilyenkor először újítsa meg az útlevelét, és csak utána igényeljen ETA-t.</p></div><div class="xcard"><h3>Mikor igényelje</h3><p>A legtöbb igénylő <strong>néhány percen belül</strong> automatikus döntést kap az UK ETA alkalmazásban. Legalább 3 munkanappal az utazás előtt igényelje, mert az igénylések kis része további vizsgálatot igényelhet. A jóváhagyásról visszaigazoló e-mailt kap; a beutazáskor általában nem kell bemutatnia az ETA-számot, de érdemes megőrizni a visszaigazolást (képernyőkép vagy nyomtatott példány).</p></div></div></div></section><section class="section xsec"><div class="container"><span class="eyebrow">Tranzit</span><h2>Tranzit az Egyesült Királyságon keresztül</h2><p class="xlead">Az, hogy átszálláskor kell-e ETA, a tranzit típusától függ.</p><div class="xcards x2"><div class="xcard"><span class="eyebrow">Légi tranzit (airside)</span><h3>Általában ETA nélkül</h3><p>Ha nem halad át a brit határellenőrzésen, és a repülőtér tranzitzónájában marad, általában nincs szükség ETA-ra. Ha azonban elhagyja a tranzitzónát (például éjszakázás vagy egy másik repülőtéren történő átszállás miatt), ETA-ra van szükség.</p></div><div class="xcard"><span class="eyebrow">Szárazföldi tranzit (landside)</span><h3>Általában ETA szükséges</h3><p>Ha áthalad a brit határellenőrzésen – például a La Manche csatorna alatt közlekedő Eurostar vonattal vagy komppal utazva –, általában ETA szükséges.</p></div></div></div></section><section id="svenska" class="band xsec"><div class="container"><span class="eyebrow">Magyaroknak</span><h2>UK ETA magyar állampolgároknak</h2><p class="xlead">Magyarország az Európai Unió tagja, a magyar állampolgárok vízum nélkül utazhatnak az Egyesült Királyságba legfeljebb 6 hónapos tartózkodásra. 2025. április 2. óta azonban minden utazás előtt érvényes UK ETA-val kell rendelkezniük – ez vonatkozik a nyaralásra, az üzleti utakra, a rokonlátogatásra és a tranzitra is.</p><div class="xcards x4"><div class="xcard"><h3>Kinek kell ETA</h3><p>Minden magyar állampolgárnak, aki rövid tartózkodásra utazik az Egyesült Királyságba, a gyermekeket és a csecsemőket is beleértve. Mindenki külön, saját igénylést nyújt be.</p></div><div class="xcard"><h3>Útlevél, nem személyi igazolvány</h3><p>Az Egyesült Királyságba való beutazáshoz érvényes útlevél szükséges – a személyi igazolványt 2021 októbere óta nem fogadják el. Az ETA ehhez az útlevélhez kapcsolódik.</p></div><div class="xcard"><h3>Népszerű úti célok</h3><p>London, Manchester, Edinburgh, Birmingham és más városok. Egyetlen ETA lefedi Angliát, Skóciát, Walest és Észak-Írországot.</p></div><div class="xcard"><h3>Mikor igényelje</h3><p>Legalább 3 munkanappal az indulás előtt. A legtöbb döntés néhány percen belül automatikusan megszületik, de az igénylések kis része további vizsgálatot igényelhet.</p></div></div></div></section><section id="faq" class="section xsec"><div class="container xnarrow"><span class="eyebrow">GYIK</span><h2>Gyakori kérdések</h2><div class="xfaq"><details><summary><span>Szükségük van a magyar állampolgároknak UK ETA-ra?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Igen. 2025. április 2. óta a magyar állampolgároknak (és a többi uniós állampolgárnak) UK ETA-val kell rendelkezniük, mielőtt az Egyesült Királyságba utaznak. Ez a turisztikai, az üzleti és a tranzitutakra egyaránt vonatkozik.</p></details><details><summary><span>Mennyibe kerül az UK ETA, és meddig érvényes?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Az UK ETA díja £20. Az engedély a kiállítástól számított 2 évig érvényes, és többszöri beutazásra jogosít az Egyesült Királyságba, alkalmanként legfeljebb 6 hónapra.</p></details><details><summary><span>Mi a különbség az UK ETA és a vízum között?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Az UK ETA egyszerűsített elektronikus engedély rövid tartózkodásra (legfeljebb 6 hónapra). Díja £20, az igénylés online történik. A brit vízumhoz személyesen kell megjelenni egy vízumközpontban, többe kerül, és hosszabb tartózkodásra vagy munkavállalásra is jogosíthat.</p></details><details><summary><span>A gyerekeknek is kell UK ETA?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Igen. Életkortól függetlenül minden utazónak saját UK ETA-val kell rendelkeznie – a csecsemőknek és a gyermekeknek is. A szülő vagy a törvényes képviselő a gyermek útlevelével igényelheti az engedélyt.</p></details><details><summary><span>Beutazhat magyar állampolgár személyi igazolvánnyal az Egyesült Királyságba?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Nem. 2021 októbere óta az Egyesült Királyságba való beutazáshoz érvényes útlevél szükséges – a személyi igazolványt már nem fogadják el. Az UK ETA éppen ehhez az útlevélhez kapcsolódik.</p></details><details><summary><span>Kell ETA, ha az Egyesült Királyságon keresztül szállok át?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Ha átszálláskor áthalad a határellenőrzésen (például terminált vált vagy felveszi a poggyászát), UK ETA szükséges. Ha a határ átlépése nélkül, a tranzitzónában száll át (airside), általában nincs rá szükség – a szabályokat azonban érdemes egyeztetni a légitársasággal és a repülőtérrel.</p></details></div><a class="textlink xmore" href="/hu/gyakori-kerdesek/">Az összes gyakori kérdés <span class="arrow" aria-hidden="true">→</span></a></div></section><section id="nyheter" class="band xsec"><div class="container"><span class="eyebrow">Hírek</span><h2>Legfrissebb hírek</h2><p class="xlead">A legfontosabb hírek az UK ETA-ról, a díjakról és az Egyesült Királyságba való beutazás szabályairól.</p><div class="xcards x3"><a class="xcard xlink" href="/hu/dij/"><div class="xmeta"><span class="xtag" style="background-color:#8d1812;color:#ffffff">Beutazás és utazás</span><time>2026-04-08</time></div><h3>Magasabb bevándorlási díjak az Egyesült Királyságban 2026 áprilisától</h3><p>Az ETA mellett 2026. április 8-tól a Home Office más díjai is emelkedtek – többek között a beutazási vízumoké, a letelepedésé és az állampolgárságé.</p></a><a class="xcard xlink" href="/hu/dij/"><div class="xmeta"><span class="xtag" style="background-color:#C5A24A;color:#1c1505">Díjak</span><time>2026-04-08</time></div><h3>Az UK ETA díja £20-ra emelkedett (2026. április 8-tól)</h3><p>2026. április 8-tól az UK ETA díja a korábbi £16 helyett £20 (25 százalékos emelés). Az igénylés benyújtásának dátuma a döntő.</p></a><a class="xcard xlink" href="/hu/ervenyesseg/"><div class="xmeta"><span class="xtag" style="background-color:#44403c;color:#ffffff">Biztonság</span><time>2026-03-01</time></div><h3>Biztonság az egyesült királysági úton – mire érdemes figyelni</h3><p>Indulás előtt érdemes megnézni az aktuális biztonsági figyelmeztetéseket, és meggyőződni arról, hogy az útlevél és az ETA is érvényes.</p></a></div><a class="textlink xmore" href="/hu/">Az összes hír <span class="arrow" aria-hidden="true">→</span></a></div></section><section class="section xsec"><div class="container"><span class="eyebrow">Útmutató</span><h2>Hasznos oldalak</h2><div class="xcards x3"><a class="xcard xlink xrow" href="/hu/mi-az-eta/"><span><h3>Mi az UK ETA?</h3><p>Alapvető tudnivalók az ETA-rendszerről</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/hu/hogyan-igenyelheto/"><span><h3>Így igényelheti</h3><p>Lépésről lépésre az űrlapon</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/hu/dij/"><span><h3>Az UK ETA díja</h3><p>A költségek részletei</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/hu/ervenyesseg/"><span><h3>Érvényesség</h3><p>Mikor kell megújítani az ETA-t</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/hu/szukseges-dokumentumok/"><span><h3>Szükséges dokumentumok</h3><p>Mit készítsen elő az igénylés előtt</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/hu/hogyan-igenyelheto/"><span><h3>A hivatalos GOV.UK oldal</h3><p>Hivatkozás a hatóság oldalára</p></span><span class="xgo" aria-hidden="true">→</span></a></div></div></section><div><section class="finalcta">
+  <div class="bg"><img src="/home/cta-bg.jpg" alt="" width="1600" height="500" loading="lazy" aria-hidden="true"></div>
+  <div class="container">
+    <span class="eyebrow">Indulhat az utazás?</span>
+    <h2>Készen áll az egyesült királysági útra?</h2>
+    <p>Igényelje az UK ETA-t, és kapjon gyors döntést.</p>
+    <div class="row"><a class="btn btn--ghost" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">UK ETA igénylésének megkezdése <span class="arrow" aria-hidden="true">→</span></a></div>
+  </div>
+</section>
+
+
+</div></div>
+<!--BLOCK-->
+<div class="etahome"><footer class="footer"><div class="container">
+  <a class="brand" href="/hu/">
+    <img src="/home/crown.png" alt="" width="26" height="26">
+    <span><span class="name">UK ETA</span><span class="sub">Elektronikus utazási engedély az Egyesült Királyságba</span></span>
+  </a>
+  <nav aria-label="Lábléc">
+    <a href="/hu/az-utmutatorol/">Erről a weboldalról</a><a href="/hu/adatvedelem/">Adatvédelem</a><a href="/hu/jogi-informaciok/">Felhasználási feltételek</a><a href="/hu/az-utmutatorol/">Kapcsolat</a>
+  </nav>
+  <p class="note">Ez a weboldal nem a brit kormány hivatalos weboldala.</p>
+</div></footer>
+
+</div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"lang":"hu","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://eta-se.com/hu/#website\",\"url\":\"https://eta-se.com/hu/\",\"name\":\"UK ETA útmutató\",\"description\":\"Magyar nyelvű útmutató az UK ETA-hoz: £20-ba kerül, 2 évig érvényes, és utazásonként legfeljebb 6 hónap tartózkodásra jogosít. Igénylés a GOV.UK oldalán.\",\"inLanguage\":\"hu\",\"publisher\":{\"@id\":\"https://eta-se.com/hu/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https://eta-se.com/hu/#organization\",\"name\":\"UK ETA útmutató\",\"url\":\"https://eta-se.com/\",\"logo\":\"https://eta-se.com/logo-uk-eta.png\"}]}"}}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":""}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap","rel":"stylesheet","precedence":"default"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"T-Gb1HPHP2NkMOSanljng"}
+3:["$","$L5",null,{}]
+4:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

@@ -1,16 +1,17 @@
 1:"$Sreact.fragment"
-2:I[76587,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
-3:I[50617,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
-4:I[3127,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
-5:I[71131,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
-6:I[48959,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
-7:I[72922,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
-9:I[63554,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"OutletBoundary"]
+2:I[76587,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+3:I[50617,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+4:I[3127,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+5:I[71131,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+6:I[48959,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+7:I[72922,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+9:I[63554,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"OutletBoundary"]
 a:"$Sreact.suspense"
-c:I[63554,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"ViewportBoundary"]
-e:I[63554,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"MetadataBoundary"]
-10:I[31654,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default",1]
-:HL["/_next/static/chunks/0b16~3bqc40nl.css","style"]
+c:I[63554,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"ViewportBoundary"]
+e:I[63554,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"MetadataBoundary"]
+10:I[31654,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default",1]
+:HL["/_next/static/chunks/01mi3939m_b_t.css","style"]
+:HL["/_next/static/chunks/0~foo0ce69dok.css","style"]
 :HL["/_next/static/media/2a65768255d6b625-s.p.14by5b4al-y~f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/57dc28f7118abe14-s.p.0~q417~7alp5b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/70e3db2de7f94926-s.p.0~0iy9faq3424.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -18,16 +19,228 @@ e:I[63554,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_h
 :HL["/_next/static/media/ae8872c8a32e309c-s.p.05txd3dlozf45.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/b49b0d9b851e4899-s.p.0yfy_qj1.2qn0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap","style"]
-0:{"P":null,"c":["","he",""],"q":"","i":false,"f":[[["",{"children":[["lang","he","d",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0b16~3bqc40nl.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0qw_am-7qp03n.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/15eih_ht.9_d9.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"sv","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap"}]]}],["$","body",null,{"className":"work_sans_960ee8e1-module__rj2tNa__variable playfair_display_1a3965ef-module__uFa96q__variable playfair_display_fedd1938-module__FumhAa__variable antialiased","children":[["$","$L2",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],{},null,false,null]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lc",null,{"children":"$Ld"}],["$","div",null,{"hidden":true,"children":["$","$Le",null,{"children":["$","$a",null,{"name":"Next.Metadata","children":"$Lf"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$10",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0b16~3bqc40nl.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"liSA_jXBk6FJp8Fyf70iq"}
-11:I[80622,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],""]
-8:["$","div",null,{"lang":"he","dir":"rtl","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://eta-se.com/he/#website\",\"url\":\"https://eta-se.com/he/\",\"name\":\"מדריך UK ETA\",\"description\":\"מדריך בעברית ל‑UK ETA: העלות היא £20, האישור תקף 2 שנים ומאפשר שהייה של עד 6 חודשים בכל כניסה. כך מגישים בקשה באתר הרשמי GOV.UK.\",\"inLanguage\":\"he\",\"publisher\":{\"@id\":\"https://eta-se.com/he/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https://eta-se.com/he/#organization\",\"name\":\"מדריך UK ETA\",\"url\":\"https://eta-se.com/\",\"logo\":\"https://eta-se.com/logo-uk-eta.png\"}]}"}}],["$","section",null,{"className":"sub-hero relative overflow-hidden","children":[["$","div",null,{"className":"absolute inset-0 sub-hero-scrim"}],["$","div",null,{"className":"relative max-w-4xl mx-auto px-6 pt-12 pb-12 md:pt-14 md:pb-16","children":[["$","p",null,{"className":"kicker mb-3 mt-4","children":"עברית"}],["$","h1",null,{"className":"deco-head text-3xl md:text-4xl font-bold text-white mb-6","style":{"fontFamily":"var(--font-noto-serif), serif"},"children":[["$","span",null,{"className":"deco-line"}],"אישור הכניסה לבריטניה, שלב אחר שלב"]}],["$","p",null,{"className":"text-white/90 leading-relaxed","children":"כדי לנסוע לבריטניה דרוש אישור UK ETA. באתר הרשמי הוא עולה £20, התשובה מגיעה בדרך כלל תוך יום, והאישור תקף 2 שנים למספר נסיעות."}]]}]]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-10","children":[["$","div",null,{"className":"grid gap-4 sm:grid-cols-2","children":[["$","$L11","ma-ze-eta",{"href":"/he/ma-ze-eta/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"מה זה UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["את ה‑UK ETA (Electronic Travel Authorisation) מגישים לפני הנסיעה. הוא אינו מחליף את הדרכון ואינו","…"]}]]}],["$","$L11","eich-magishim",{"href":"/he/eich-magishim/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"איך מגישים בקשה ל‑UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["הבקשה מוגשת כולה באינטרנט, באתר הרשמי של GOV.UK או באפליקציה הרשמית. אין צורך להגיע לשום מקום.","…"]}]]}],["$","$L11","alut",{"href":"/he/alut/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"כמה עולה UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["המחיר הרשמי הוא £20 ומשלמים אותו פעם אחת. לאחר מכן האישור תקף 2 שנים למספר נסיעות.","…"]}]]}],["$","$L11","zman-tipul",{"href":"/he/zman-tipul/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"כמה זמן לוקח ה‑UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["ברוב המקרים התשובה מגיעה תוך יום. עם זאת, מומלץ לקחת בחשבון עד 3 ימי עסקים.","…"]}]]}],["$","$L11","bdikat-status",{"href":"/he/bdikat-status/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"בדיקת סטטוס ה‑UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["ההחלטה נמסרת בדוא״ל. אם ההודעה לא הגיעה, אפשר לבדוק את הסטטוס לפי פרטי הדרכון שאיתו הגשתם.","…"]}]]}],["$","$L11","tokef",{"href":"/he/tokef/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"לכמה זמן תקף ה‑UK ETA"}],"$L12"]}],"$L13","$L14","$L15"]}],"$L16","$L17"]}]]}]
-12:["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["האישור תקף 2 שנים — או עד שהדרכון פג, אם זה קורה קודם.","…"]}]
-13:["$","$L11","mismachim",{"href":"/he/mismachim/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"אילו מסמכים נדרשים"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["הבקשה פשוטה: דרכון, תמונה ואמצעי תשלום. אין צורך באישורי נסיעה או בהצהרות.","…"]}]]}]
-14:["$","$L11","meshech-shehiya",{"href":"/he/meshech-shehiya/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"כמה זמן אפשר להישאר"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["בכל נסיעה אפשר לשהות בבריטניה עד 6 חודשים. האישור מכסה תיירות, ביקורי משפחה, עסקים ומעבר.","…"]}]]}]
-15:["$","$L11","shealot-nefotzot",{"href":"/he/shealot-nefotzot/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"שאלות נפוצות על UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["תשובות קצרות לשאלות הנפוצות ביותר. כל סעיף מפנה להסבר המלא.","…"]}]]}]
-16:["$","div",null,{"className":"mt-10 p-5 bg-stone-50 border border-stone-200 rounded-lg","children":[["$","p",null,{"className":"text-sm text-stone-700 mb-3","children":"£20 · 2 · 6"}],["$","a",null,{"href":"https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta","target":"_blank","rel":"noopener noreferrer","className":"inline-block bg-stone-900 text-white px-6 py-2.5 rounded-full text-sm font-medium","children":"להגשת בקשה באתר הרשמי GOV.UK"}]]}]
-17:["$","nav",null,{"className":"mt-10 flex flex-wrap gap-4 text-sm text-stone-600","children":[["$","$L11",null,{"href":"/he/aodot/","className":"underline","children":"אודות המדריך"}],["$","$L11",null,{"href":"/he/pratiyut/","className":"underline","children":"מדיניות פרטיות"}],["$","$L11",null,{"href":"/he/meida-mishpati/","className":"underline","children":"מידע משפטי"}]]}]
+0:{"P":null,"c":["","he",""],"q":"","i":false,"f":[[["",{"children":[["lang","he","d",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/01mi3939m_b_t.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0~foo0ce69dok.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0881spmj3vb_b.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/15eih_ht.9_d9.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"sv","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap"}]]}],["$","body",null,{"className":"work_sans_960ee8e1-module__rj2tNa__variable playfair_display_1a3965ef-module__uFa96q__variable playfair_display_fedd1938-module__FumhAa__variable antialiased","children":[["$","$L2",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],{},null,false,null]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lc",null,{"children":"$Ld"}],["$","div",null,{"hidden":true,"children":["$","$Le",null,{"children":["$","$a",null,{"name":"Next.Metadata","children":"$Lf"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$10",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/01mi3939m_b_t.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0~foo0ce69dok.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"T-Gb1HPHP2NkMOSanljng"}
+11:T5daf,<div class="etahome">
+
+
+<div class="trustbar"><div class="container">
+  <span>אתר מידע עצמאי על UK ETA. איננו קשורים לממשלת בריטניה.</span>
+  <span>מידע רשמי: <a href="https://www.gov.uk/electronic-travel-authorisation" rel="nofollow noopener" target="_blank">GOV.UK ↗</a></span>
+</div></div>
+
+
+<header class="header"><div class="container">
+  <a class="brand" href="/he/">
+    <img src="/home/crown-navy.png" alt="" width="44" height="44">
+    <span>
+      <span class="name">UK ETA</span>
+      <span class="sub">אישור נסיעה אלקטרוני לבריטניה</span>
+    </span>
+  </a>
+  <nav class="nav" aria-label="תפריט ראשי">
+    <a href="/he/ma-ze-eta/">סקירה</a>
+    <a href="/he/ma-ze-eta/">מי צריך?</a>
+    <a href="/he/eich-magishim/">איך מגישים?</a>
+    <a href="/he/mismachim/">דרישות</a>
+    <a href="/he/meshech-shehiya/">נסיעה לבריטניה</a>
+    <a href="/he/shealot-nefotzot/">שאלות נפוצות</a>
+    <a href="/he/">חדשות</a>
+  </nav>
+  <div class="spacer"></div>
+  <div class="tools">
+    <details class="langmenu"><summary class="lang" aria-label="החלפת שפה">HE <span aria-hidden="true">⌄</span></summary><ul><li><a href="/" hreflang="sv" lang="sv">Svenska</a></li><li><a href="/en/" hreflang="en" lang="en">English</a></li><li><a href="/de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="/fr/" hreflang="fr" lang="fr">Français</a></li><li><a href="/it/" hreflang="it" lang="it">Italiano</a></li><li><a href="/es/" hreflang="es" lang="es">Español</a></li><li><a href="/nl/" hreflang="nl" lang="nl">Nederlands</a></li><li><a href="/pt/" hreflang="pt" lang="pt">Português</a></li><li><a href="/da/" hreflang="da" lang="da">Dansk</a></li><li><a href="/no/" hreflang="no" lang="no">Norsk</a></li><li><a href="/fi/" hreflang="fi" lang="fi">Suomi</a></li><li><a href="/cs/" hreflang="cs" lang="cs">Čeština</a></li><li><a href="/hu/" hreflang="hu" lang="hu">Magyar</a></li><li><a href="/ro/" hreflang="ro" lang="ro">Română</a></li><li><a href="/el/" hreflang="el" lang="el">Ελληνικά</a></li><li><a href="/he/" hreflang="he" lang="he">עברית</a></li><li><a href="/ko/" hreflang="ko" lang="ko">한국어</a></li><li><a href="/zh-tw/" hreflang="zh-tw" lang="zh-tw">繁體中文</a></li><li><a href="/zh-cn/" hreflang="zh-cn" lang="zh-cn">简体中文</a></li></ul></details>
+    <a class="iconbtn" href="/he/" aria-label="מפת האתר">
+      <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+    </a>
+    <button class="iconbtn burger" type="button" aria-label="תפריט" aria-expanded="false" aria-controls="nav">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+    </button>
+    <a class="btn" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">הגשת בקשה ל‑UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+</div></header></div>
+<!--BLOCK-->
+<div class="etahome"><div>
+
+
+<section class="hero">
+  <div class="hero-media">
+    <img src="/home/hero-westminster.jpg" alt="ארמון וסטמינסטר והביג בן על גדות התמזה בלונדון" width="2121" height="900" fetchpriority="high">
+  </div>
+  <div class="container">
+    <div class="hero-inner">
+      <span class="hero-pill">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" style="color:#062F55"><path d="M21 16v-2l-8-5V3.5a1.5 1.5 0 0 0-3 0V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L13 19v-5.5z"/></svg>
+        <span>מידע על UK ETA לנוסעים מישראל</span>
+      </span>
+      <h1>UK ETA<span class="sub">אישור נסיעה אלקטרוני לבריטניה</span></h1>
+      <p class="lead">אזרחי ישראל זקוקים ל‑UK ETA לנסיעות קצרות לבריטניה.</p>
+      <div class="hero-actions">
+        <a class="btn" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">הגשת בקשה ל‑UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+        <a class="textlink" href="#oversikt">מידע נוסף על UK ETA <span aria-hidden="true">↓</span></a>
+      </div>
+    </div>
+  </div>
+  <div class="hero-script" aria-hidden="true">Explore<br><span>the UK</span></div>
+  <a class="hero-card" href="/he/ma-ze-eta/" style="text-decoration:none">
+    <p>אנגליה, סקוטלנד, ויילס וצפון אירלנד</p>
+    <span class="round" aria-hidden="true">→</span>
+  </a>
+</section>
+
+
+<div class="keyfacts"><div class="container"><div class="panel">
+  <div class="cell">
+    <img src="/home/fact-fee.png" alt="" width="30" height="30">
+    <span><span class="v">£20</span><span class="k">אגרת בקשה</span></span>
+  </div>
+  <div class="cell">
+    <img src="/home/fact-time.png" alt="" width="30" height="30">
+    <span><span class="v">דקות</span><span class="k">החלטה אוטומטית לרוב המגישים</span></span>
+  </div>
+  <div class="cell">
+    <img src="/home/fact-valid.png" alt="" width="30" height="30">
+    <span><span class="v">שנתיים</span><span class="k">תוקף</span></span>
+  </div>
+</div></div></div>
+
+
+<section class="section"><div class="container two-col">
+  <article class="block" id="oversikt">
+    <div class="body">
+      <span class="eyebrow">סקירה</span>
+      <h2>מה זה UK ETA?</h2>
+      <p>UK ETA (Electronic Travel Authorisation) הוא אישור נסיעה אלקטרוני שאזרחי ישראל זקוקים לו בנסיעה לבריטניה לצורכי תיירות, עסקים, לימודים קצרים או מעבר (טרנזיט).</p>
+      <a class="textlink" href="/he/ma-ze-eta/">מידע נוסף על UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+    </div>
+    <div class="visual"><img src="/home/union-jack.jpg" alt="דגל בריטניה על רקע שמיים כחולים" width="1200" height="840" loading="lazy"></div>
+  </article>
+
+  <article class="block" id="vem">
+    <div class="body">
+      <span class="eyebrow">מי צריך?</span>
+      <h2>מי צריך UK ETA?</h2>
+      <p>אזרחי ישראל זקוקים ל‑UK ETA לשהייה קצרה בבריטניה, כולל אנגליה, סקוטלנד, ויילס וצפון אירלנד.</p>
+      <a class="textlink" href="/he/ma-ze-eta/">בדקו אם אתם צריכים UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+    </div>
+    <div class="visual map"><div class="map-wrap">
+      <img src="/home/uk-map.png" alt="מפת בריטניה עם אנגליה, סקוטלנד, ויילס וצפון אירלנד" width="672" height="900" loading="lazy">
+      <span class="ml ml-sc">Scotland</span>
+      <span class="ml ml-ni">Northern<br>Ireland</span>
+      <span class="ml ml-ie">Ireland</span>
+      <span class="ml ml-wa">Wales</span>
+      <span class="ml ml-en">England</span>
+    </div></div>
+  </article>
+</div></section>
+
+
+<section class="band"><div class="container cols">
+  <div id="krav">
+    <span class="eyebrow">דרישות</span>
+    <h2>מה תצטרכו</h2>
+    <p class="muted" style="margin-top:8px;font-size:14.5px">כדי להגיש בקשה ל‑UK ETA תצטרכו:</p>
+    <div class="req-grid">
+      <div class="req-card"><img src="/home/req-passport.png" alt="" width="34" height="34"><div class="num">1</div><div class="t">דרכון בתוקף</div><div class="d">צילום או סריקה של עמוד התמונה.</div></div>
+      <div class="req-card"><img src="/home/req-photo.png" alt="" width="34" height="34"><div class="num">2</div><div class="t">תמונת פנים</div><div class="d">תמונה ברורה של הפנים שלכם.</div></div>
+      <div class="req-card"><img src="/home/req-email.png" alt="" width="34" height="34"><div class="num">3</div><div class="t">כתובת דוא״ל</div><div class="d">לקבלת ההחלטה.</div></div>
+      <div class="req-card"><img src="/home/req-card.png" alt="" width="34" height="34"><div class="num">4</div><div class="t">כרטיס תשלום</div><div class="d">לתשלום אגרת הבקשה (£20).</div></div>
+    </div>
+  </div>
+
+  <div id="ansokan">
+    <span class="eyebrow">הגשת הבקשה</span>
+    <h2>איך מגישים</h2>
+    <p class="muted" style="margin-top:8px;font-size:14.5px">הבקשה מוגשת באפליקציה הרשמית של UK ETA.</p>
+    <div class="app-wrap">
+      <div>
+        <div class="steps">
+          <div class="step"><div class="circle">01</div><div class="d">הורידו את אפליקציית UK ETA</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">02</div><div class="d">סרקו את הדרכון וצלמו תמונה</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">03</div><div class="d">מלאו את הטופס ושלמו (£20)</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">04</div><div class="d">המתינו לאישור</div></div>
+        </div>
+        <a class="textlink" href="/he/eich-magishim/" style="margin-top:20px">למדריך המפורט שלב אחר שלב <span class="arrow" aria-hidden="true">→</span></a>
+      </div>
+      <img class="phone" src="/home/phone-mock.png" alt="אפליקציית UK ETA על מסך טלפון נייד" width="760" height="1497" loading="lazy">
+    </div>
+  </div>
+</div></section>
+
+
+<section class="section lower"><div class="container lower-grid">
+  <div class="lower-main">
+    <div class="row-travel">
+  <div id="resa">
+    <span class="eyebrow">נסיעה לבריטניה</span>
+    <h2>נסיעה לבריטניה</h2>
+    <p>UK ETA תקף לנסיעות לאנגליה, סקוטלנד, ויילס וצפון אירלנד. אירלנד אינה כלולה. הכללים חלים גם במעבר (טרנזיט), בהתאם לשאלה אם אתם נשארים באזור המעבר (airside) או עוברים ביקורת גבולות (landside).</p>
+    <a class="textlink" href="/he/meshech-shehiya/">עוד על כללי הנסיעה <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+
+  <div class="photo-cards">
+    <a class="photo-card" href="/he/meshech-shehiya/">
+      <img src="/home/airside.jpg" alt="אולם יציאה בשדה תעופה בשעת דמדומים" width="800" height="600" loading="lazy">
+      <span class="cap"><span class="t">מעבר airside</span><span class="d">בדרך כלל אין צורך ב‑UK ETA.</span></span>
+      <span class="go" aria-hidden="true">→</span>
+    </a>
+    <a class="photo-card" href="/he/meshech-shehiya/">
+      <img src="/home/landside.jpg" alt="אולם נוסעים נכנסים בשדה תעופה" width="800" height="600" loading="lazy">
+      <span class="cap"><span class="t">מעבר landside</span><span class="d">נדרש UK ETA.</span></span>
+      <span class="go" aria-hidden="true">→</span>
+    </a>
+  </div>
+
+    </div>
+    <div class="row-sv">
+  <div>
+    <span class="eyebrow">UK ETA לאזרחי ישראל</span>
+    <h2>UK ETA לאזרחי ישראל</h2>
+    <p>מידע על מה שחל במיוחד על אזרחי ישראל, כולל תקופת התוקף, הנסיעות שהאישור מכסה ושאלות נפוצות.</p>
+    <a class="textlink" href="#svenska">מידע נוסף לאזרחי ישראל <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+  <img src="/home/city-telaviv.jpg" alt="" width="1200" height="600" loading="lazy">
+</div>
+  </div>
+  <aside class="ql">
+    <span class="eyebrow">קישורים מהירים</span>
+    <div class="ql-item"><img src="/home/ql-faq.png" alt="" width="26" height="26"><span><span class="t">שאלות נפוצות</span><br><a class="textlink" href="/he/shealot-nefotzot/">לשאלות הנפוצות <span aria-hidden="true">→</span></a></span></div>
+    <div class="ql-item"><img src="/home/ql-news.png" alt="" width="26" height="26"><span><span class="t">עדכונים אחרונים</span><br><a class="textlink" href="/he/">לחדשות <span aria-hidden="true">→</span></a></span></div>
+    <div class="ql-item"><img src="/home/ql-links.png" alt="" width="26" height="26"><span><span class="t">דפים שימושיים</span><br><a class="textlink" href="/he/">לדפים השימושיים <span aria-hidden="true">→</span></a></span></div>
+  </aside>
+</div></section>
+
+
+</div><section class="band xsec"><div class="container"><span class="eyebrow">תוקף ומועד הגשה</span><h2>תוקף ה‑ETA ומתי להגיש בקשה</h2><p class="xlead">מתי להגיש את הבקשה וכמה זמן ה‑ETA נשאר בתוקף.</p><div class="xcards x2"><div class="xcard"><h3>תוקף</h3><p>ה‑ETA תקף למשך <strong>שנתיים</strong> ממועד ההנפקה ומאפשר כניסות מרובות לבריטניה. אם הדרכון שלכם פג בתוך שנתיים, ה‑ETA פג יחד איתו — במקרה כזה חדשו קודם את הדרכון ורק אחר כך הגישו בקשה ל‑ETA.</p></div><div class="xcard"><h3>מתי להגיש</h3><p>רוב המגישים מקבלים החלטה אוטומטית בתוך <strong>דקות ספורות</strong> דרך אפליקציית UK ETA. הגישו את הבקשה לפחות 3 ימי עסקים לפני הנסיעה, משום שמספר קטן של בקשות עשוי לדרוש בדיקה נוספת. לאחר האישור תקבלו הודעת אישור בדוא״ל; בכניסה לבריטניה בדרך כלל אין צורך להציג את מספר ה‑ETA, אך כדאי לשמור את האישור (צילום מסך או הדפסה).</p></div></div></div></section><section class="section xsec"><div class="container"><span class="eyebrow">מעבר</span><h2>מעבר (טרנזיט) דרך בריטניה</h2><p class="xlead">הצורך ב‑ETA בעת החלפת טיסה תלוי בסוג המעבר.</p><div class="xcards x2"><div class="xcard"><span class="eyebrow">מעבר אווירי (airside)</span><h3>בדרך כלל ללא ETA</h3><p>אם אינכם עוברים את ביקורת הגבולות הבריטית ונשארים באזור המעבר של שדה התעופה, בדרך כלל אין צורך ב‑ETA. אולם אם אתם יוצאים מאזור המעבר (למשל ללינת לילה או להחלפת טיסה בשדה תעופה אחר), נדרש ETA.</p></div><div class="xcard"><span class="eyebrow">מעבר יבשתי (landside)</span><h3>בדרך כלל נדרש ETA</h3><p>במעבר דרך ביקורת הגבולות הבריטית — למשל ברכבת Eurostar דרך התעלה האנגלית או במעבורת — נדרש בדרך כלל ETA.</p></div></div></div></section><section id="svenska" class="band xsec"><div class="container"><span class="eyebrow">לישראלים</span><h2>UK ETA לאזרחי ישראל</h2><p class="xlead">אזרחי ישראל יכולים לנסוע לבריטניה ללא ויזה לשהייה של עד 6 חודשים. עם זאת, מאז 8 בינואר 2025 יש להחזיק UK ETA בתוקף לפני כל נסיעה — לחופשה, לנסיעת עסקים, לביקור משפחה ולמעבר.</p><div class="xcards x4"><div class="xcard"><h3>מי חייב ETA</h3><p>כל אזרחי ישראל הנוסעים לבריטניה לשהייה קצרה, כולל ילדים ותינוקות. כל אדם מגיש בקשה נפרדת משלו.</p></div><div class="xcard"><h3>ה‑ETA צמוד לדרכון</h3><p>לכניסה לבריטניה נדרש דרכון בתוקף, וה‑ETA משויך לדרכון שאיתו הגשתם את הבקשה. אם תחליפו דרכון, תצטרכו להגיש בקשה חדשה ל‑ETA.</p></div><div class="xcard"><h3>יעדים פופולריים</h3><p>לונדון, מנצ׳סטר, אדינבורו, בירמינגהם וערים נוספות. ETA אחד מכסה את אנגליה, סקוטלנד, ויילס וצפון אירלנד.</p></div><div class="xcard"><h3>מתי להגיש</h3><p>לפחות 3 ימי עסקים לפני היציאה. רוב ההחלטות מתקבלות אוטומטית בתוך דקות ספורות, אך מספר קטן של בקשות עשוי לדרוש בדיקה נוספת.</p></div></div></div></section><section id="faq" class="section xsec"><div class="container xnarrow"><span class="eyebrow">שאלות נפוצות</span><h2>שאלות נפוצות</h2><div class="xfaq"><details><summary><span>האם אזרחי ישראל צריכים UK ETA?</span><span class="xplus" aria-hidden="true">+</span></summary><p>כן. מאז 8 בינואר 2025 אזרחי ישראל חייבים להחזיק UK ETA לפני נסיעה לבריטניה. הדבר חל על נסיעות תיירות, עסקים ומעבר.</p></details><details><summary><span>כמה עולה UK ETA ולכמה זמן הוא תקף?</span><span class="xplus" aria-hidden="true">+</span></summary><p>האגרה עבור UK ETA היא £20. האישור תקף שנתיים ממועד ההנפקה ומאפשר כניסות מרובות לבריטניה, כל אחת לשהייה של עד 6 חודשים.</p></details><details><summary><span>מה ההבדל בין UK ETA לבין ויזה?</span><span class="xplus" aria-hidden="true">+</span></summary><p>UK ETA הוא אישור אלקטרוני פשוט לשהייה קצרה (עד 6 חודשים). הוא עולה £20 והבקשה מוגשת באינטרנט. ויזה בריטית מחייבת הגעה למרכז ויזות, עולה יותר ומאפשרת שהייה ארוכה יותר או עבודה.</p></details><details><summary><span>האם גם ילדים צריכים UK ETA?</span><span class="xplus" aria-hidden="true">+</span></summary><p>כן. כל נוסע, ללא קשר לגילו, חייב UK ETA משלו — גם תינוקות וילדים. הורה או אפוטרופוס יכול להגיש את הבקשה עבור הילד עם הדרכון של הילד.</p></details><details><summary><span>מה קורה אם אני מחליף דרכון?</span><span class="xplus" aria-hidden="true">+</span></summary><p>ה‑UK ETA משויך לדרכון שאיתו הגשתם את הבקשה. אם הונפק לכם דרכון חדש, יש להגיש בקשה חדשה ל‑ETA — גם אם נותר עוד זמן מתוך שנתיים התוקף.</p></details><details><summary><span>האם אני צריך ETA בטיסת מעבר דרך בריטניה?</span><span class="xplus" aria-hidden="true">+</span></summary><p>אם אתם עוברים את ביקורת הגבולות במהלך המעבר (למשל מחליפים טרמינל או אוספים מזוודות), נדרש UK ETA. במעבר ללא מעבר גבול (airside) בדרך כלל אין בו צורך — מומלץ לוודא את הכללים מול חברת התעופה ושדה התעופה.</p></details></div><a class="textlink xmore" href="/he/shealot-nefotzot/">לכל השאלות הנפוצות <span class="arrow" aria-hidden="true">→</span></a></div></section><section id="nyheter" class="band xsec"><div class="container"><span class="eyebrow">חדשות</span><h2>החדשות האחרונות</h2><p class="xlead">החדשות החשובות ביותר על UK ETA, האגרות וכללי הכניסה לבריטניה.</p><div class="xcards x3"><a class="xcard xlink" href="/he/alut/"><div class="xmeta"><span class="xtag" style="background-color:#8d1812;color:#ffffff">כניסה ונסיעה</span><time>2026-04-08</time></div><h3>העלאת אגרות ההגירה בבריטניה מאפריל 2026</h3><p>יחד עם ה‑ETA, מ‑8 באפריל 2026 הועלו גם אגרות נוספות של משרד הפנים הבריטי (Home Office) — בין היתר לוויזות כניסה, לתושבות קבע ולאזרחות.</p></a><a class="xcard xlink" href="/he/alut/"><div class="xmeta"><span class="xtag" style="background-color:#C5A24A;color:#1c1505">אגרות</span><time>2026-04-08</time></div><h3>אגרת ה‑UK ETA הועלתה ל‑£20 (מ‑8 באפריל 2026)</h3><p>החל מ‑8 באפריל 2026 אגרת ה‑UK ETA היא £20 במקום £16 קודם לכן (עלייה של 25%). המועד הקובע הוא תאריך הגשת הבקשה.</p></a><a class="xcard xlink" href="/he/tokef/"><div class="xmeta"><span class="xtag" style="background-color:#44403c;color:#ffffff">בטיחות</span><time>2026-03-01</time></div><h3>בטיחות בנסיעה לבריטניה — על מה כדאי לחשוב</h3><p>לפני היציאה כדאי לבדוק את הודעות הבטיחות העדכניות ולוודא שהדרכון וה‑ETA בתוקף.</p></a></div><a class="textlink xmore" href="/he/">לכל החדשות <span class="arrow" aria-hidden="true">→</span></a></div></section><section class="section xsec"><div class="container"><span class="eyebrow">מדריך</span><h2>דפים שימושיים</h2><div class="xcards x3"><a class="xcard xlink xrow" href="/he/ma-ze-eta/"><span><h3>מה זה UK ETA?</h3><p>מידע בסיסי על מערכת ה‑ETA</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/he/eich-magishim/"><span><h3>איך מגישים</h3><p>שלב אחר שלב בטופס</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/he/alut/"><span><h3>אגרות UK ETA</h3><p>פירוט העלויות</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/he/tokef/"><span><h3>תוקף</h3><p>מתי צריך לחדש את ה‑ETA</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/he/mismachim/"><span><h3>מסמכים נדרשים</h3><p>מה להכין לפני הגשת הבקשה</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/he/eich-magishim/"><span><h3>האתר הרשמי GOV.UK</h3><p>קישור לאתר הרשות</p></span><span class="xgo" aria-hidden="true">→</span></a></div></div></section><div><section class="finalcta">
+  <div class="bg"><img src="/home/cta-bg.jpg" alt="" width="1600" height="500" loading="lazy" aria-hidden="true"></div>
+  <div class="container">
+    <span class="eyebrow">מוכנים לנסיעה?</span>
+    <h2>מוכנים לנסוע לבריטניה?</h2>
+    <p>הגישו בקשה ל‑UK ETA וקבלו החלטה מהירה.</p>
+    <div class="row"><a class="btn btn--ghost" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">התחילו את בקשת ה‑UK ETA <span class="arrow" aria-hidden="true">→</span></a></div>
+  </div>
+</section>
+
+
+</div></div>
+<!--BLOCK-->
+<div class="etahome"><footer class="footer"><div class="container">
+  <a class="brand" href="/he/">
+    <img src="/home/crown.png" alt="" width="26" height="26">
+    <span><span class="name">UK ETA</span><span class="sub">אישור נסיעה אלקטרוני לבריטניה</span></span>
+  </a>
+  <nav aria-label="כותרת תחתונה">
+    <a href="/he/aodot/">אודות האתר</a><a href="/he/pratiyut/">פרטיות</a><a href="/he/meida-mishpati/">תנאי שימוש</a><a href="/he/aodot/">צור קשר</a>
+  </nav>
+  <p class="note">אתר זה אינו אתר רשמי של ממשלת בריטניה.</p>
+</div></footer>
+
+</div>8:["$","div",null,{"lang":"he","dir":"rtl","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://eta-se.com/he/#website\",\"url\":\"https://eta-se.com/he/\",\"name\":\"מדריך UK ETA\",\"description\":\"מדריך בעברית ל‑UK ETA: העלות היא £20, האישור תקף 2 שנים ומאפשר שהייה של עד 6 חודשים בכל כניסה. כך מגישים בקשה באתר הרשמי GOV.UK.\",\"inLanguage\":\"he\",\"publisher\":{\"@id\":\"https://eta-se.com/he/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https://eta-se.com/he/#organization\",\"name\":\"מדריך UK ETA\",\"url\":\"https://eta-se.com/\",\"logo\":\"https://eta-se.com/logo-uk-eta.png\"}]}"}}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":""}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap","rel":"stylesheet","precedence":"default"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$11"}}],"$L12"]}]
+13:I[61574,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+12:["$","$L13",null,{}]
 d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-18:I[61352,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"IconMark"]
+14:I[61352,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"IconMark"]
 b:null
-f:[["$","title","0",{"children":"UK ETA: £20 ותשובה בדרך כלל תוך יום | מדריך בעברית 2026 | מדריך UK ETA"}],["$","meta","1",{"name":"description","content":"מדריך בעברית ל‑UK ETA: העלות היא £20, האישור תקף 2 שנים ומאפשר שהייה של עד 6 חודשים בכל כניסה. כך מגישים בקשה באתר הרשמי GOV.UK."}],["$","meta","2",{"name":"keywords","content":"UK ETA, UK ETA 2026, Storbritannien, reseauktorisering, Electronic Travel Authorisation, ETA-ansökan, Sverige, avgift £20"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://eta-se.com/he/"}],["$","meta","5",{"property":"og:title","content":"UK ETA: £20 ותשובה בדרך כלל תוך יום | מדריך בעברית 2026"}],["$","meta","6",{"property":"og:description","content":"מדריך בעברית ל‑UK ETA: העלות היא £20, האישור תקף 2 שנים ומאפשר שהייה של עד 6 חודשים בכל כניסה. כך מגישים בקשה באתר הרשמי GOV.UK."}],["$","meta","7",{"property":"og:site_name","content":"מדריך UK ETA"}],["$","meta","8",{"property":"og:locale","content":"he"}],["$","meta","9",{"property":"og:image","content":"https://eta-se.com/og-image.jpg"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"מדריך UK ETA"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"UK ETA: £20 ותשובה בדרך כלל תוך יום | מדריך בעברית 2026"}],["$","meta","16",{"name":"twitter:description","content":"מדריך בעברית ל‑UK ETA: העלות היא £20, האישור תקף 2 שנים ומאפשר שהייה של עד 6 חודשים בכל כניסה. כך מגישים בקשה באתר הרשמי GOV.UK."}],["$","meta","17",{"name":"twitter:image","content":"https://eta-se.com/og-image.jpg"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.0v_gq8cr8iscb.png","sizes":"256x256","type":"image/png"}],["$","link","19",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.147.6d2c-k_4-.png","sizes":"256x256","type":"image/png"}],["$","$L18","20",{}]]
+f:[["$","title","0",{"children":"UK ETA: £20 ותשובה בדרך כלל תוך יום | מדריך בעברית 2026 | מדריך UK ETA"}],["$","meta","1",{"name":"description","content":"מדריך בעברית ל‑UK ETA: העלות היא £20, האישור תקף 2 שנים ומאפשר שהייה של עד 6 חודשים בכל כניסה. כך מגישים בקשה באתר הרשמי GOV.UK."}],["$","meta","2",{"name":"keywords","content":"UK ETA, UK ETA 2026, Storbritannien, reseauktorisering, Electronic Travel Authorisation, ETA-ansökan, Sverige, avgift £20"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://eta-se.com/he/"}],["$","meta","5",{"property":"og:title","content":"UK ETA: £20 ותשובה בדרך כלל תוך יום | מדריך בעברית 2026"}],["$","meta","6",{"property":"og:description","content":"מדריך בעברית ל‑UK ETA: העלות היא £20, האישור תקף 2 שנים ומאפשר שהייה של עד 6 חודשים בכל כניסה. כך מגישים בקשה באתר הרשמי GOV.UK."}],["$","meta","7",{"property":"og:site_name","content":"מדריך UK ETA"}],["$","meta","8",{"property":"og:locale","content":"he"}],["$","meta","9",{"property":"og:image","content":"https://eta-se.com/og-image.jpg"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"מדריך UK ETA"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"UK ETA: £20 ותשובה בדרך כלל תוך יום | מדריך בעברית 2026"}],["$","meta","16",{"name":"twitter:description","content":"מדריך בעברית ל‑UK ETA: העלות היא £20, האישור תקף 2 שנים ומאפשר שהייה של עד 6 חודשים בכל כניסה. כך מגישים בקשה באתר הרשמי GOV.UK."}],["$","meta","17",{"name":"twitter:image","content":"https://eta-se.com/og-image.jpg"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.0v_gq8cr8iscb.png","sizes":"256x256","type":"image/png"}],["$","link","19",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.147.6d2c-k_4-.png","sizes":"256x256","type":"image/png"}],["$","$L14","20",{}]]

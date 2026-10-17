@@ -1,13 +1,227 @@
 1:"$Sreact.fragment"
-2:I[80622,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],""]
-a:I[63554,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"OutletBoundary"]
-b:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"lang":"nl","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://eta-se.com/nl/#website\",\"url\":\"https://eta-se.com/nl/\",\"name\":\"UK ETA Gids\",\"description\":\"Nederlandstalige gids over de UK ETA: het kost £20, is 2 jaar geldig en geeft recht op verblijf van maximaal 6 maanden per reis. Aanvragen via GOV.UK.\",\"inLanguage\":\"nl\",\"publisher\":{\"@id\":\"https://eta-se.com/nl/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https://eta-se.com/nl/#organization\",\"name\":\"UK ETA Gids\",\"url\":\"https://eta-se.com/\",\"logo\":\"https://eta-se.com/logo-uk-eta.png\"}]}"}}],["$","section",null,{"className":"sub-hero relative overflow-hidden","children":[["$","div",null,{"className":"absolute inset-0 sub-hero-scrim"}],["$","div",null,{"className":"relative max-w-4xl mx-auto px-6 pt-12 pb-12 md:pt-14 md:pb-16","children":[["$","p",null,{"className":"kicker mb-3 mt-4","children":"Nederlands"}],["$","h1",null,{"className":"deco-head text-3xl md:text-4xl font-bold text-white mb-6","style":{"fontFamily":"var(--font-noto-serif), serif"},"children":[["$","span",null,{"className":"deco-line"}],"De reistoestemming voor het Verenigd Koninkrijk, stap voor stap"]}],["$","p",null,{"className":"text-white/90 leading-relaxed","children":"Reist u naar het Verenigd Koninkrijk, dan heeft u een UK ETA nodig. De aanvraag kost £20 op de officiële site, het antwoord komt meestal binnen 1 dag en de toestemming geldt 2 jaar voor meerdere reizen."}]]}]]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-10","children":[["$","div",null,{"className":"grid gap-4 sm:grid-cols-2","children":[["$","$L2","wat-is-de-eta",{"href":"/nl/wat-is-de-eta/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Wat is de UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["De UK ETA (Electronic Travel Authorisation) vraagt u aan vóór uw reis. Het vervangt uw paspoort ","…"]}]]}],["$","$L2","hoe-aanvragen",{"href":"/nl/hoe-aanvragen/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Hoe vraagt u de UK ETA aan"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["De aanvraag gaat volledig online, via de officiële website van GOV.UK of de officiële app. U hoe","…"]}]]}],["$","$L2","kosten",{"href":"/nl/kosten/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Wat kost de UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["De officiële prijs is £20 en u betaalt die één keer. Daarmee is de toestemming 2 jaar geldig, vo","…"]}]]}],["$","$L2","doorlooptijd",{"href":"/nl/doorlooptijd/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Hoe lang duurt de UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["In de meeste gevallen komt het antwoord binnen 1 dag. Toch is het advies om rekening te houden m","…"]}]]}],["$","$L2","status-controleren",{"href":"/nl/status-controleren/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"De status van uw UK ETA controleren"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["De beslissing wordt per e-mail meegedeeld. Is die niet aangekomen, dan kunt u de status opvragen","…"]}]]}],"$L3","$L4","$L5","$L6"]}],"$L7","$L8"]}]]}],null,"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"liSA_jXBk6FJp8Fyf70iq"}
-3:["$","$L2","geldigheid",{"href":"/nl/geldigheid/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Hoe lang is de UK ETA geldig"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["De toestemming is 2 jaar geldig, of tot de vervaldatum van uw paspoort als die eerder valt.","…"]}]]}]
-4:["$","$L2","benodigde-documenten",{"href":"/nl/benodigde-documenten/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Welke documenten heeft u nodig"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["De aanvraag is eenvoudig: paspoort, een foto en een betaalmiddel. Reisbewijzen of verklaringen z","…"]}]]}]
-5:["$","$L2","verblijfsduur",{"href":"/nl/verblijfsduur/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Hoe lang mag u blijven"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Per reis mag u maximaal 6 maanden in het Verenigd Koninkrijk blijven. De toestemming geldt voor ","…"]}]]}]
-6:["$","$L2","veelgestelde-vragen",{"href":"/nl/veelgestelde-vragen/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Veelgestelde vragen over de UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Korte antwoorden op de meest gestelde vragen. Elk onderdeel verwijst naar de volledige uitleg.","…"]}]]}]
-7:["$","div",null,{"className":"mt-10 p-5 bg-stone-50 border border-stone-200 rounded-lg","children":[["$","p",null,{"className":"text-sm text-stone-700 mb-3","children":"£20 · 2 · 6"}],["$","a",null,{"href":"https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta","target":"_blank","rel":"noopener noreferrer","className":"inline-block bg-stone-900 text-white px-6 py-2.5 rounded-full text-sm font-medium","children":"Aanvragen op de officiële site van GOV.UK"}]]}]
-8:["$","nav",null,{"className":"mt-10 flex flex-wrap gap-4 text-sm text-stone-600","children":[["$","$L2",null,{"href":"/nl/over-deze-gids/","className":"underline","children":"Over deze gids"}],["$","$L2",null,{"href":"/nl/privacy/","className":"underline","children":"Privacyverklaring"}],["$","$L2",null,{"href":"/nl/juridische-informatie/","className":"underline","children":"Juridische informatie"}]]}]
-9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
-c:null
+5:I[61574,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+6:I[63554,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap","style"]
+2:T57eb,<div class="etahome">
+
+
+<div class="trustbar"><div class="container">
+  <span>Onafhankelijke informatiesite over de UK ETA. Wij zijn niet verbonden aan de Britse overheid.</span>
+  <span>Officiële informatie: <a href="https://www.gov.uk/electronic-travel-authorisation" rel="nofollow noopener" target="_blank">GOV.UK ↗</a></span>
+</div></div>
+
+
+<header class="header"><div class="container">
+  <a class="brand" href="/nl/">
+    <img src="/home/crown-navy.png" alt="" width="44" height="44">
+    <span>
+      <span class="name">UK ETA</span>
+      <span class="sub">Elektronische reistoestemming voor het Verenigd Koninkrijk</span>
+    </span>
+  </a>
+  <nav class="nav" aria-label="Hoofdmenu">
+    <a href="/nl/wat-is-de-eta/">Overzicht</a>
+    <a href="/nl/wat-is-de-eta/">Wie heeft hem nodig?</a>
+    <a href="/nl/hoe-aanvragen/">Hoe aanvragen?</a>
+    <a href="/nl/benodigde-documenten/">Vereisten</a>
+    <a href="/nl/verblijfsduur/">Reizen naar het VK</a>
+    <a href="/nl/veelgestelde-vragen/">Veelgestelde vragen</a>
+    <a href="/nl/#nyheter">Nieuws</a>
+  </nav>
+  <div class="spacer"></div>
+  <div class="tools">
+    <details class="langmenu"><summary class="lang" aria-label="Taal wijzigen">NL <span aria-hidden="true">⌄</span></summary><ul><li><a href="/" hreflang="sv" lang="sv">Svenska</a></li><li><a href="/en/" hreflang="en" lang="en">English</a></li><li><a href="/de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="/fr/" hreflang="fr" lang="fr">Français</a></li><li><a href="/it/" hreflang="it" lang="it">Italiano</a></li><li><a href="/es/" hreflang="es" lang="es">Español</a></li><li><a href="/nl/" hreflang="nl" lang="nl">Nederlands</a></li><li><a href="/pt/" hreflang="pt" lang="pt">Português</a></li><li><a href="/da/" hreflang="da" lang="da">Dansk</a></li><li><a href="/no/" hreflang="no" lang="no">Norsk</a></li><li><a href="/fi/" hreflang="fi" lang="fi">Suomi</a></li><li><a href="/cs/" hreflang="cs" lang="cs">Čeština</a></li><li><a href="/hu/" hreflang="hu" lang="hu">Magyar</a></li><li><a href="/ro/" hreflang="ro" lang="ro">Română</a></li><li><a href="/el/" hreflang="el" lang="el">Ελληνικά</a></li><li><a href="/he/" hreflang="he" lang="he">עברית</a></li><li><a href="/ko/" hreflang="ko" lang="ko">한국어</a></li><li><a href="/zh-tw/" hreflang="zh-tw" lang="zh-tw">繁體中文</a></li><li><a href="/zh-cn/" hreflang="zh-cn" lang="zh-cn">简体中文</a></li></ul></details>
+    <a class="iconbtn" href="/nl/veelgestelde-vragen/" aria-label="Overzicht van de gids">
+      <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+    </a>
+    <button class="iconbtn burger" type="button" aria-label="Menu" aria-expanded="false" aria-controls="nav">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+    </button>
+    <a class="btn" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">UK ETA aanvragen <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+</div></header></div>
+<!--BLOCK-->
+<div class="etahome"><div>
+
+
+<section class="hero">
+  <div class="hero-media">
+    <img src="/home/hero-westminster.jpg" alt="Het Palace of Westminster en de Big Ben aan de Theems in Londen" width="2121" height="900" fetchpriority="high">
+  </div>
+  <div class="container">
+    <div class="hero-inner">
+      <span class="hero-pill">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" style="color:#062F55"><path d="M21 16v-2l-8-5V3.5a1.5 1.5 0 0 0-3 0V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L13 19v-5.5z"/></svg>
+        <span>Informatie over de UK ETA voor Nederlandse en Belgische reizigers</span>
+      </span>
+      <h1>UK ETA<span class="sub">Elektronische reistoestemming voor het Verenigd Koninkrijk</span></h1>
+      <p class="lead">Nederlanders en Belgen hebben een UK ETA nodig voor een kort verblijf in het Verenigd Koninkrijk.</p>
+      <div class="hero-actions">
+        <a class="btn" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">UK ETA aanvragen <span class="arrow" aria-hidden="true">→</span></a>
+        <a class="textlink" href="#oversikt">Meer over de UK ETA <span aria-hidden="true">↓</span></a>
+      </div>
+    </div>
+  </div>
+  <div class="hero-script" aria-hidden="true">Explore<br><span>the UK</span></div>
+  <a class="hero-card" href="/nl/wat-is-de-eta/" style="text-decoration:none">
+    <p>Engeland, Schotland, Wales en Noord-Ierland</p>
+    <span class="round" aria-hidden="true">→</span>
+  </a>
+</section>
+
+
+<div class="keyfacts"><div class="container"><div class="panel">
+  <div class="cell">
+    <img src="/home/fact-fee.png" alt="" width="30" height="30">
+    <span><span class="v">£20</span><span class="k">Aanvraagkosten</span></span>
+  </div>
+  <div class="cell">
+    <img src="/home/fact-time.png" alt="" width="30" height="30">
+    <span><span class="v">Minuten</span><span class="k">Automatisch besluit voor de meeste aanvragers</span></span>
+  </div>
+  <div class="cell">
+    <img src="/home/fact-valid.png" alt="" width="30" height="30">
+    <span><span class="v">2 jaar</span><span class="k">Geldigheid</span></span>
+  </div>
+</div></div></div>
+
+
+<section class="section"><div class="container two-col">
+  <article class="block" id="oversikt">
+    <div class="body">
+      <span class="eyebrow">Overzicht</span>
+      <h2>Wat is de UK ETA?</h2>
+      <p>De UK ETA (Electronic Travel Authorisation) is een elektronische reistoestemming die Nederlanders en Belgen nodig hebben voor reizen naar het Verenigd Koninkrijk voor toerisme, zaken, een korte studie of transit.</p>
+      <a class="textlink" href="/nl/wat-is-de-eta/">Meer over de UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+    </div>
+    <div class="visual"><img src="/home/union-jack.jpg" alt="De Britse vlag tegen een blauwe lucht" width="1200" height="840" loading="lazy"></div>
+  </article>
+
+  <article class="block" id="vem">
+    <div class="body">
+      <span class="eyebrow">Wie heeft hem nodig?</span>
+      <h2>Wie heeft de UK ETA nodig?</h2>
+      <p>Nederlanders en Belgen hebben een UK ETA nodig voor een kort verblijf in het Verenigd Koninkrijk, dus in Engeland, Schotland, Wales en Noord-Ierland.</p>
+      <a class="textlink" href="/nl/wat-is-de-eta/">Bekijk of u de UK ETA nodig heeft <span class="arrow" aria-hidden="true">→</span></a>
+    </div>
+    <div class="visual map"><div class="map-wrap">
+      <img src="/home/uk-map.png" alt="Kaart van het Verenigd Koninkrijk met Engeland, Schotland, Wales en Noord-Ierland" width="672" height="900" loading="lazy">
+      <span class="ml ml-sc">Schotland</span>
+      <span class="ml ml-ni">Noord-<br>Ierland</span>
+      <span class="ml ml-ie">Ierland</span>
+      <span class="ml ml-wa">Wales</span>
+      <span class="ml ml-en">Engeland</span>
+    </div></div>
+  </article>
+</div></section>
+
+
+<section class="band"><div class="container cols">
+  <div id="krav">
+    <span class="eyebrow">Vereisten</span>
+    <h2>Wat u nodig heeft</h2>
+    <p class="muted" style="margin-top:8px;font-size:14.5px">Voor de aanvraag van een UK ETA heeft u het volgende nodig:</p>
+    <div class="req-grid">
+      <div class="req-card"><img src="/home/req-passport.png" alt="" width="34" height="34"><div class="num">1</div><div class="t">Geldig paspoort</div><div class="d">Een foto of scan van de pagina met uw pasfoto.</div></div>
+      <div class="req-card"><img src="/home/req-photo.png" alt="" width="34" height="34"><div class="num">2</div><div class="t">Gezichtsfoto</div><div class="d">Een duidelijke foto van uw gezicht.</div></div>
+      <div class="req-card"><img src="/home/req-email.png" alt="" width="34" height="34"><div class="num">3</div><div class="t">E-mailadres</div><div class="d">Om het besluit te ontvangen.</div></div>
+      <div class="req-card"><img src="/home/req-card.png" alt="" width="34" height="34"><div class="num">4</div><div class="t">Betaalkaart</div><div class="d">Om de aanvraagkosten (£20) te betalen.</div></div>
+    </div>
+  </div>
+
+  <div id="ansokan">
+    <span class="eyebrow">Aanvraag</span>
+    <h2>Zo vraagt u hem aan</h2>
+    <p class="muted" style="margin-top:8px;font-size:14.5px">De aanvraag doet u via de officiële UK ETA-app.</p>
+    <div class="app-wrap">
+      <div>
+        <div class="steps">
+          <div class="step"><div class="circle">01</div><div class="d">Download de app UK ETA</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">02</div><div class="d">Scan uw paspoort en maak een foto</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">03</div><div class="d">Vul het formulier in en betaal (£20)</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">04</div><div class="d">Wacht op goedkeuring</div></div>
+        </div>
+        <a class="textlink" href="/nl/hoe-aanvragen/" style="margin-top:20px">Bekijk de uitgebreide stap-voor-stapuitleg <span class="arrow" aria-hidden="true">→</span></a>
+      </div>
+      <img class="phone" src="/home/phone-mock.png" alt="De UK ETA-app op het scherm van een mobiele telefoon" width="760" height="1497" loading="lazy">
+    </div>
+  </div>
+</div></section>
+
+
+<section class="section lower"><div class="container lower-grid">
+  <div class="lower-main">
+    <div class="row-travel">
+  <div id="resa">
+    <span class="eyebrow">Reizen naar het VK</span>
+    <h2>Reizen naar het Verenigd Koninkrijk</h2>
+    <p>De UK ETA geldt voor reizen naar Engeland, Schotland, Wales en Noord-Ierland. Ierland valt er niet onder. De regels gelden ook bij transit, afhankelijk van of u airside blijft of landside door de grenscontrole gaat.</p>
+    <a class="textlink" href="/nl/verblijfsduur/">Meer over de reisregels <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+
+  <div class="photo-cards">
+    <a class="photo-card" href="/nl/verblijfsduur/">
+      <img src="/home/airside.jpg" alt="Vertrekhal op een luchthaven bij schemering" width="800" height="600" loading="lazy">
+      <span class="cap"><span class="t">Airside transit</span><span class="d">Meestal heeft u geen UK ETA nodig.</span></span>
+      <span class="go" aria-hidden="true">→</span>
+    </a>
+    <a class="photo-card" href="/nl/verblijfsduur/">
+      <img src="/home/landside.jpg" alt="Aankomsthal op een luchthaven met reizigers" width="800" height="600" loading="lazy">
+      <span class="cap"><span class="t">Landside transit</span><span class="d">U heeft een UK ETA nodig.</span></span>
+      <span class="go" aria-hidden="true">→</span>
+    </a>
+  </div>
+
+    </div>
+    <div class="row-sv">
+  <div>
+    <span class="eyebrow">UK ETA voor Nederlanders en Belgen</span>
+    <h2>UK ETA voor Nederlanders en Belgen</h2>
+    <p>Wat er specifiek geldt voor Nederlanders en Belgen, zoals de geldigheidsduur, welke reizen eronder vallen en veelgestelde vragen.</p>
+    <a class="textlink" href="#svenska">Meer voor Nederlanders en Belgen <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+  <img src="/home/city-amsterdam.jpg" alt="" width="1200" height="600" loading="lazy">
+</div>
+  </div>
+  <aside class="ql">
+    <span class="eyebrow">Snelle links</span>
+    <div class="ql-item"><img src="/home/ql-faq.png" alt="" width="26" height="26"><span><span class="t">Veelgestelde vragen</span><br><a class="textlink" href="/nl/veelgestelde-vragen/">Bekijk de veelgestelde vragen <span aria-hidden="true">→</span></a></span></div>
+    <div class="ql-item"><img src="/home/ql-news.png" alt="" width="26" height="26"><span><span class="t">Laatste nieuws</span><br><a class="textlink" href="/nl/#nyheter">Bekijk het nieuws <span aria-hidden="true">→</span></a></span></div>
+    <div class="ql-item"><img src="/home/ql-links.png" alt="" width="26" height="26"><span><span class="t">Handige pagina&#x27;s</span><br><a class="textlink" href="/nl/veelgestelde-vragen/">Bekijk handige pagina&#x27;s <span aria-hidden="true">→</span></a></span></div>
+  </aside>
+</div></section>
+
+
+</div><section class="band xsec"><div class="container"><span class="eyebrow">Geldigheid en planning</span><h2>Hoe lang de ETA geldig is en wanneer u aanvraagt</h2><p class="xlead">Wanneer u de aanvraag doet en hoe lang uw ETA geldig blijft.</p><div class="xcards x2"><div class="xcard"><h3>Geldigheid</h3><p>De ETA is <strong>2 jaar</strong> geldig vanaf de afgifte en geldt voor meerdere reizen naar het Verenigd Koninkrijk. Verloopt uw paspoort binnen die 2 jaar, dan vervalt de ETA tegelijk met het paspoort. Vernieuw in dat geval eerst uw paspoort en vraag daarna de ETA aan.</p></div><div class="xcard"><h3>Wanneer aanvragen</h3><p>De meeste aanvragers krijgen via de UK ETA-app binnen <strong>enkele minuten</strong> een automatisch besluit. Vraag de ETA minstens 3 werkdagen voor vertrek aan, want een klein deel van de aanvragen wordt nader beoordeeld. Na goedkeuring ontvangt u een bevestigingsmail. Bij aankomst hoeft u het ETA-nummer meestal niet te laten zien, maar het is verstandig de bevestiging te bewaren (schermafbeelding of afdruk).</p></div></div></div></section><section class="section xsec"><div class="container"><span class="eyebrow">Transit</span><h2>Transit via het Verenigd Koninkrijk</h2><p class="xlead">Of u bij een overstap een ETA nodig heeft, hangt af van het soort transit.</p><div class="xcards x2"><div class="xcard"><span class="eyebrow">Transit op de luchthaven (airside)</span><h3>Meestal zonder ETA</h3><p>Gaat u niet door de Britse grenscontrole en blijft u in de transitzone van de luchthaven, dan is een ETA meestal niet nodig. Verlaat u de transitzone wel (bijvoorbeeld voor een overnachting of een overstap op een andere luchthaven), dan heeft u een ETA nodig.</p></div><div class="xcard"><span class="eyebrow">Transit over land (landside)</span><h3>Meestal met ETA</h3><p>Gaat u door de Britse grenscontrole, bijvoorbeeld met de Eurostar (de trein onder het Kanaal) of met de veerboot, dan is een ETA in de regel verplicht.</p></div></div></div></section><section id="svenska" class="band xsec"><div class="container"><span class="eyebrow">Voor Nederlanders en Belgen</span><h2>UK ETA voor Nederlanders en Belgen</h2><p class="xlead">Nederland en België zijn lid van de Europese Unie, en Nederlanders en Belgen kunnen zonder visum naar het Verenigd Koninkrijk reizen voor een verblijf van maximaal 6 maanden. Sinds 2 april 2025 heeft u daarvoor wel een geldige UK ETA nodig, of het nu gaat om vakantie, een zakenreis, familiebezoek of transit.</p><div class="xcards x4"><div class="xcard"><h3>Wie een ETA nodig heeft</h3><p>Alle Nederlanders en Belgen die voor een kort verblijf naar het VK reizen, ook kinderen en baby&#x27;s. Iedereen dient een eigen aanvraag in.</p></div><div class="xcard"><h3>Paspoort, geen identiteitskaart</h3><p>Voor toegang tot het Verenigd Koninkrijk is een geldig paspoort nodig: de identiteitskaart wordt sinds oktober 2021 niet meer geaccepteerd. De ETA is aan dat paspoort gekoppeld.</p></div><div class="xcard"><h3>Populaire bestemmingen vanuit Nederland en België</h3><p>Londen, Manchester, Edinburgh, Birmingham en andere steden. Eén ETA geldt voor Engeland, Schotland, Wales en Noord-Ierland.</p></div><div class="xcard"><h3>Wanneer aanvragen</h3><p>Minstens 3 werkdagen voor vertrek. De meeste besluiten volgen automatisch binnen enkele minuten, maar een klein deel van de aanvragen wordt nader beoordeeld.</p></div></div></div></section><section id="faq" class="section xsec"><div class="container xnarrow"><span class="eyebrow">FAQ</span><h2>Veelgestelde vragen</h2><div class="xfaq"><details><summary><span>Hebben Nederlanders en Belgen een UK ETA nodig?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Ja. Sinds 2 april 2025 moeten Nederlanders en Belgen (net als andere EU-burgers) een UK ETA hebben voordat zij naar het Verenigd Koninkrijk reizen. Dat geldt voor toeristische reizen, zakenreizen en transit.</p></details><details><summary><span>Wat kost de UK ETA en hoe lang is hij geldig?</span><span class="xplus" aria-hidden="true">+</span></summary><p>De UK ETA kost £20. De toestemming is 2 jaar geldig vanaf de afgifte en geldt voor meerdere reizen naar het VK, telkens voor maximaal 6 maanden.</p></details><details><summary><span>Wat is het verschil tussen de UK ETA en een visum?</span><span class="xplus" aria-hidden="true">+</span></summary><p>De UK ETA is een vereenvoudigde elektronische toestemming voor een kort verblijf (maximaal 6 maanden). Hij kost £20 en u vraagt hem online aan. Voor een Brits visum moet u naar een visumaanvraagcentrum; een visum kost vanaf £100 en is bedoeld voor een langer verblijf of werk.</p></details><details><summary><span>Hebben kinderen uit Nederland en België een UK ETA nodig?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Ja. Elke reiziger, ongeacht de leeftijd, moet een eigen UK ETA hebben, ook baby&#x27;s en kinderen. Een ouder of voogd kan de aanvraag voor het kind indienen met het paspoort van het kind.</p></details><details><summary><span>Kan ik met mijn identiteitskaart naar het VK reizen?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Nee. Sinds oktober 2021 is een geldig paspoort nodig om het Verenigd Koninkrijk in te reizen; de identiteitskaart wordt niet meer geaccepteerd. De UK ETA is juist aan dat paspoort gekoppeld.</p></details><details><summary><span>Heb ik een ETA nodig voor een overstap in het VK?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Gaat u tijdens de overstap door de grenscontrole (bijvoorbeeld om van terminal te wisselen of uw bagage op te halen), dan heeft u een UK ETA nodig. Blijft u airside zonder de grens te passeren, dan is hij meestal niet nodig. Controleer de regels voor de zekerheid bij de luchtvaartmaatschappij en de luchthaven.</p></details></div><a class="textlink xmore" href="/nl/veelgestelde-vragen/">Alle veelgestelde vragen <span class="arrow" aria-hidden="true">→</span></a></div></section><section id="nyheter" class="band xsec"><div class="container"><span class="eyebrow">Nieuws</span><h2>Laatste nieuws</h2><p class="xlead">Het belangrijkste nieuws over de UK ETA, de kosten en de inreisregels voor het Verenigd Koninkrijk.</p><div class="xcards x3"><a class="xcard xlink" href="/nl/kosten/"><div class="xmeta"><span class="xtag" style="background-color:#8d1812;color:#ffffff">Inreizen en reizen</span><time>2026-04-08</time></div><h3>Hogere immigratiekosten in het VK vanaf april 2026</h3><p>Naast de ETA heeft de Home Office per 8 april 2026 ook andere tarieven verhoogd, onder meer voor inreisvisa, vestiging en staatsburgerschap.</p></a><a class="xcard xlink" href="/nl/kosten/"><div class="xmeta"><span class="xtag" style="background-color:#C5A24A;color:#1c1505">Kosten</span><time>2026-04-08</time></div><h3>UK ETA kost vanaf 8 april 2026 £20</h3><p>Vanaf 8 april 2026 kost de UK ETA £20 in plaats van £16 (een stijging van 25 %). De datum van de aanvraag is bepalend.</p></a><a class="xcard xlink" href="/nl/geldigheid/"><div class="xmeta"><span class="xtag" style="background-color:#44403c;color:#ffffff">Veiligheid</span><time>2026-03-01</time></div><h3>Veilig reizen naar het Verenigd Koninkrijk: waar u op let</h3><p>Controleer voor vertrek de actuele veiligheidsberichten en zorg dat uw paspoort en ETA geldig zijn.</p></a></div><a class="textlink xmore" href="/nl/veelgestelde-vragen/">Meer informatie bij de veelgestelde vragen <span class="arrow" aria-hidden="true">→</span></a></div></section><section class="section xsec"><div class="container"><span class="eyebrow">Gids</span><h2>Handige pagina&#x27;s</h2><div class="xcards x3"><a class="xcard xlink xrow" href="/nl/wat-is-de-eta/"><span><h3>Wat is de UK ETA?</h3><p>Basisinformatie over het ETA-systeem</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/nl/hoe-aanvragen/"><span><h3>Zo vraagt u hem aan</h3><p>Stap voor stap door het formulier</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/nl/kosten/"><span><h3>Kosten van de UK ETA</h3><p>De kosten op een rij</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/nl/geldigheid/"><span><h3>Geldigheid</h3><p>Wanneer u uw ETA moet vernieuwen</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/nl/benodigde-documenten/"><span><h3>Benodigde documenten</h3><p>Wat u klaarlegt voor de aanvraag</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/nl/hoe-aanvragen/"><span><h3>Aanvragen via GOV.UK</h3><p>De officiële website en app</p></span><span class="xgo" aria-hidden="true">→</span></a></div></div></section><div><section class="finalcta">
+  <div class="bg"><img src="/home/cta-bg.jpg" alt="" width="1600" height="500" loading="lazy" aria-hidden="true"></div>
+  <div class="container">
+    <span class="eyebrow">Klaar voor vertrek?</span>
+    <h2>Klaar om naar het Verenigd Koninkrijk te reizen?</h2>
+    <p>Vraag de UK ETA aan en ontvang snel een besluit.</p>
+    <div class="row"><a class="btn btn--ghost" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">Start uw UK ETA-aanvraag <span class="arrow" aria-hidden="true">→</span></a></div>
+  </div>
+</section>
+
+
+</div></div>
+<!--BLOCK-->
+<div class="etahome"><footer class="footer"><div class="container">
+  <a class="brand" href="/nl/">
+    <img src="/home/crown.png" alt="" width="26" height="26">
+    <span><span class="name">UK ETA</span><span class="sub">Elektronische reistoestemming voor het Verenigd Koninkrijk</span></span>
+  </a>
+  <nav aria-label="Voettekst">
+    <a href="/nl/over-deze-gids/">Over deze website</a><a href="/nl/privacy/">Privacy</a><a href="/nl/juridische-informatie/">Juridische informatie</a><a href="/nl/over-deze-gids/">Contact</a>
+  </nav>
+  <p class="note">Deze website is geen officiële website van de Britse overheid.</p>
+</div></footer>
+
+</div>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"lang":"nl","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://eta-se.com/nl/#website\",\"url\":\"https://eta-se.com/nl/\",\"name\":\"UK ETA Gids\",\"description\":\"Nederlandstalige gids over de UK ETA: het kost £20, is 2 jaar geldig en geeft recht op verblijf van maximaal 6 maanden per reis. Aanvragen via GOV.UK.\",\"inLanguage\":\"nl\",\"publisher\":{\"@id\":\"https://eta-se.com/nl/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https://eta-se.com/nl/#organization\",\"name\":\"UK ETA Gids\",\"url\":\"https://eta-se.com/\",\"logo\":\"https://eta-se.com/logo-uk-eta.png\"}]}"}}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":""}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap","rel":"stylesheet","precedence":"default"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"T-Gb1HPHP2NkMOSanljng"}
+3:["$","$L5",null,{}]
+4:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

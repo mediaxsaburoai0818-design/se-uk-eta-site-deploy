@@ -1,16 +1,17 @@
 1:"$Sreact.fragment"
-2:I[76587,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
-3:I[50617,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
-4:I[3127,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
-5:I[71131,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
-6:I[48959,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
-7:I[72922,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
-9:I[63554,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"OutletBoundary"]
+2:I[76587,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+3:I[50617,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+4:I[3127,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+5:I[71131,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+6:I[48959,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+7:I[72922,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+9:I[63554,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"OutletBoundary"]
 a:"$Sreact.suspense"
-c:I[63554,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"ViewportBoundary"]
-e:I[63554,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"MetadataBoundary"]
-10:I[31654,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default",1]
-:HL["/_next/static/chunks/0b16~3bqc40nl.css","style"]
+c:I[63554,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"ViewportBoundary"]
+e:I[63554,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"MetadataBoundary"]
+10:I[31654,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default",1]
+:HL["/_next/static/chunks/01mi3939m_b_t.css","style"]
+:HL["/_next/static/chunks/0~foo0ce69dok.css","style"]
 :HL["/_next/static/media/2a65768255d6b625-s.p.14by5b4al-y~f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/57dc28f7118abe14-s.p.0~q417~7alp5b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/70e3db2de7f94926-s.p.0~0iy9faq3424.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -18,16 +19,229 @@ e:I[63554,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_h
 :HL["/_next/static/media/ae8872c8a32e309c-s.p.05txd3dlozf45.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/b49b0d9b851e4899-s.p.0yfy_qj1.2qn0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap","style"]
-0:{"P":null,"c":["","no",""],"q":"","i":false,"f":[[["",{"children":[["lang","no","d",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0b16~3bqc40nl.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0qw_am-7qp03n.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/15eih_ht.9_d9.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"sv","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap"}]]}],["$","body",null,{"className":"work_sans_960ee8e1-module__rj2tNa__variable playfair_display_1a3965ef-module__uFa96q__variable playfair_display_fedd1938-module__FumhAa__variable antialiased","children":[["$","$L2",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],{},null,false,null]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lc",null,{"children":"$Ld"}],["$","div",null,{"hidden":true,"children":["$","$Le",null,{"children":["$","$a",null,{"name":"Next.Metadata","children":"$Lf"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$10",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0b16~3bqc40nl.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"liSA_jXBk6FJp8Fyf70iq"}
-11:I[80622,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],""]
-8:["$","div",null,{"lang":"nb","dir":"$undefined","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://eta-se.com/no/#website\",\"url\":\"https://eta-se.com/no/\",\"name\":\"UK ETA Guide\",\"description\":\"Norsk guide til UK ETA: den koster £20, varer i 2 år og gir opphold på inntil 6 måneder per reise. Slik søker du på GOV.UK sine offisielle sider.\",\"inLanguage\":\"nb\",\"publisher\":{\"@id\":\"https://eta-se.com/no/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https://eta-se.com/no/#organization\",\"name\":\"UK ETA Guide\",\"url\":\"https://eta-se.com/\",\"logo\":\"https://eta-se.com/logo-uk-eta.png\"}]}"}}],["$","section",null,{"className":"sub-hero relative overflow-hidden","children":[["$","div",null,{"className":"absolute inset-0 sub-hero-scrim"}],["$","div",null,{"className":"relative max-w-4xl mx-auto px-6 pt-12 pb-12 md:pt-14 md:pb-16","children":[["$","p",null,{"className":"kicker mb-3 mt-4","children":"Norsk"}],["$","h1",null,{"className":"deco-head text-3xl md:text-4xl font-bold text-white mb-6","style":{"fontFamily":"var(--font-noto-serif), serif"},"children":[["$","span",null,{"className":"deco-line"}],"Reisetillatelsen til Storbritannia, steg for steg"]}],["$","p",null,{"className":"text-white/90 leading-relaxed","children":"Skal du til Storbritannia, trenger du en UK ETA. Den koster £20 på den offisielle siden, svaret kommer som regel innen 1 dag, og tillatelsen varer i 2 år for flere reiser."}]]}]]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-10","children":[["$","div",null,{"className":"grid gap-4 sm:grid-cols-2","children":[["$","$L11","hva-er-eta",{"href":"/no/hva-er-eta/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Hva er UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["UK ETA (Electronic Travel Authorisation) søker du om før reisen. Den erstatter ikke passet, og d","…"]}]]}],["$","$L11","slik-soker-du",{"href":"/no/slik-soker-du/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Slik søker du om UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Søknaden gjøres i sin helhet på nett, enten på GOV.UK sine offisielle sider eller i den offisiel","…"]}]]}],["$","$L11","pris",{"href":"/no/pris/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Hva koster UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Den offisielle prisen er £20, og du betaler den én gang. Deretter varer tillatelsen i 2 år for f","…"]}]]}],["$","$L11","behandlingstid",{"href":"/no/behandlingstid/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Hvor lang tid tar UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["I de fleste tilfeller kommer svaret innen 1 dag. Likevel er rådet å regne med inntil 3 virkedage","…"]}]]}],["$","$L11","sjekk-status",{"href":"/no/sjekk-status/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Sjekk status på UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Avgjørelsen meddeles på e-post. Har den ikke kommet, kan du slå opp status med opplysningene fra","…"]}]]}],"$L12","$L13","$L14","$L15"]}],"$L16","$L17"]}]]}]
-12:["$","$L11","gyldighet",{"href":"/no/gyldighet/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Hvor lenge varer UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Tillatelsen varer i 2 år — eller til passet går ut, om det skjer først.","…"]}]]}]
-13:["$","$L11","dokumenter",{"href":"/no/dokumenter/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Hvilke dokumenter trenger du"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Søknaden er enkel: pass, et bilde og et betalingsmiddel. Reisedokumentasjon eller erklæringer er","…"]}]]}]
-14:["$","$L11","oppholdets-lengde",{"href":"/no/oppholdets-lengde/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Hvor lenge kan du bli"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Per reise kan du oppholde deg i Storbritannia i inntil 6 måneder. Tillatelsen dekker turisme, fa","…"]}]]}]
-15:["$","$L11","ofte-stilte-sporsmal",{"href":"/no/ofte-stilte-sporsmal/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Ofte stilte spørsmål om UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Korte svar på de vanligste spørsmålene. Hvert punkt viser til den fullstendige forklaringen.","…"]}]]}]
-16:["$","div",null,{"className":"mt-10 p-5 bg-stone-50 border border-stone-200 rounded-lg","children":[["$","p",null,{"className":"text-sm text-stone-700 mb-3","children":"£20 · 2 · 6"}],["$","a",null,{"href":"https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta","target":"_blank","rel":"noopener noreferrer","className":"inline-block bg-stone-900 text-white px-6 py-2.5 rounded-full text-sm font-medium","children":"Søk på GOV.UK sine offisielle sider"}]]}]
-17:["$","nav",null,{"className":"mt-10 flex flex-wrap gap-4 text-sm text-stone-600","children":[["$","$L11",null,{"href":"/no/om-denne-guiden/","className":"underline","children":"Om denne guiden"}],["$","$L11",null,{"href":"/no/personvern/","className":"underline","children":"Personvernerklæring"}],["$","$L11",null,{"href":"/no/juridisk-informasjon/","className":"underline","children":"Juridisk informasjon"}]]}]
+0:{"P":null,"c":["","no",""],"q":"","i":false,"f":[[["",{"children":[["lang","no","d",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/01mi3939m_b_t.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0~foo0ce69dok.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0881spmj3vb_b.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/15eih_ht.9_d9.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"sv","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap"}]]}],["$","body",null,{"className":"work_sans_960ee8e1-module__rj2tNa__variable playfair_display_1a3965ef-module__uFa96q__variable playfair_display_fedd1938-module__FumhAa__variable antialiased","children":[["$","$L2",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],{},null,false,null]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lc",null,{"children":"$Ld"}],["$","div",null,{"hidden":true,"children":["$","$Le",null,{"children":["$","$a",null,{"name":"Next.Metadata","children":"$Lf"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$10",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/01mi3939m_b_t.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0~foo0ce69dok.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"T-Gb1HPHP2NkMOSanljng"}
+11:T54a2,<div class="etahome">
+
+
+<div class="trustbar"><div class="container">
+  <span>Uavhengig informasjonsside om UK ETA. Vi er ikke tilknyttet britiske myndigheter.</span>
+  <span>Offisiell informasjon: <a href="https://www.gov.uk/electronic-travel-authorisation" rel="nofollow noopener" target="_blank">GOV.UK ↗</a></span>
+</div></div>
+
+
+<header class="header"><div class="container">
+  <a class="brand" href="/no/">
+    <img src="/home/crown-navy.png" alt="" width="44" height="44">
+    <span>
+      <span class="name">UK ETA</span>
+      <span class="sub">Elektronisk reisetillatelse til Storbritannia</span>
+    </span>
+  </a>
+  <nav class="nav" aria-label="Hovedmeny">
+    <a href="/no/hva-er-eta/">Oversikt</a>
+    <a href="/no/hva-er-eta/">Hvem trenger den?</a>
+    <a href="/no/slik-soker-du/">Slik søker du</a>
+    <a href="/no/dokumenter/">Krav</a>
+    <a href="/no/oppholdets-lengde/">Reise til Storbritannia</a>
+    <a href="/no/ofte-stilte-sporsmal/">FAQ</a>
+    <a href="/no/#nyheter">Nyheter</a>
+  </nav>
+  <div class="spacer"></div>
+  <div class="tools">
+    <details class="langmenu"><summary class="lang" aria-label="Bytt språk">NO <span aria-hidden="true">⌄</span></summary><ul><li><a href="/" hreflang="sv" lang="sv">Svenska</a></li><li><a href="/en/" hreflang="en" lang="en">English</a></li><li><a href="/de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="/fr/" hreflang="fr" lang="fr">Français</a></li><li><a href="/it/" hreflang="it" lang="it">Italiano</a></li><li><a href="/es/" hreflang="es" lang="es">Español</a></li><li><a href="/nl/" hreflang="nl" lang="nl">Nederlands</a></li><li><a href="/pt/" hreflang="pt" lang="pt">Português</a></li><li><a href="/da/" hreflang="da" lang="da">Dansk</a></li><li><a href="/no/" hreflang="no" lang="no">Norsk</a></li><li><a href="/fi/" hreflang="fi" lang="fi">Suomi</a></li><li><a href="/cs/" hreflang="cs" lang="cs">Čeština</a></li><li><a href="/hu/" hreflang="hu" lang="hu">Magyar</a></li><li><a href="/ro/" hreflang="ro" lang="ro">Română</a></li><li><a href="/el/" hreflang="el" lang="el">Ελληνικά</a></li><li><a href="/he/" hreflang="he" lang="he">עברית</a></li><li><a href="/ko/" hreflang="ko" lang="ko">한국어</a></li><li><a href="/zh-tw/" hreflang="zh-tw" lang="zh-tw">繁體中文</a></li><li><a href="/zh-cn/" hreflang="zh-cn" lang="zh-cn">简体中文</a></li></ul></details>
+    <a class="iconbtn" href="/no/ofte-stilte-sporsmal/" aria-label="Oversikt over guiden">
+      <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+    </a>
+    <button class="iconbtn burger" type="button" aria-label="Meny" aria-expanded="false" aria-controls="nav">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+    </button>
+    <a class="btn" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">Søk om UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+</div></header></div>
+<!--BLOCK-->
+<div class="etahome"><div>
+
+
+<section class="hero">
+  <div class="hero-media">
+    <img src="/home/hero-westminster.jpg" alt="Westminster-palasset og Big Ben ved Themsen i London" width="2121" height="900" fetchpriority="high">
+  </div>
+  <div class="container">
+    <div class="hero-inner">
+      <span class="hero-pill">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" style="color:#062F55"><path d="M21 16v-2l-8-5V3.5a1.5 1.5 0 0 0-3 0V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L13 19v-5.5z"/></svg>
+        <span>Informasjon om UK ETA for norske reisende</span>
+      </span>
+      <h1>UK ETA<span class="sub">Elektronisk reisetillatelse til Storbritannia</span></h1>
+      <p class="lead">Norske statsborgere trenger UK ETA for å reise til Storbritannia på kortere opphold.</p>
+      <div class="hero-actions">
+        <a class="btn" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">Søk om UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+        <a class="textlink" href="#oversikt">Les mer om UK ETA <span aria-hidden="true">↓</span></a>
+      </div>
+    </div>
+  </div>
+  <div class="hero-script" aria-hidden="true">Explore<br><span>the UK</span></div>
+  <a class="hero-card" href="/no/hva-er-eta/" style="text-decoration:none">
+    <p>England, Skottland, Wales og Nord-Irland</p>
+    <span class="round" aria-hidden="true">→</span>
+  </a>
+</section>
+
+
+<div class="keyfacts"><div class="container"><div class="panel">
+  <div class="cell">
+    <img src="/home/fact-fee.png" alt="" width="30" height="30">
+    <span><span class="v">£20</span><span class="k">Søknadsgebyr</span></span>
+  </div>
+  <div class="cell">
+    <img src="/home/fact-time.png" alt="" width="30" height="30">
+    <span><span class="v">Minutter</span><span class="k">Automatisk avgjørelse for de fleste</span></span>
+  </div>
+  <div class="cell">
+    <img src="/home/fact-valid.png" alt="" width="30" height="30">
+    <span><span class="v">2 år</span><span class="k">Gyldighet</span></span>
+  </div>
+</div></div></div>
+
+
+<section class="section"><div class="container two-col">
+  <article class="block" id="oversikt">
+    <div class="body">
+      <span class="eyebrow">Oversikt</span>
+      <h2>Hva er UK ETA?</h2>
+      <p>UK ETA (Electronic Travel Authorisation) er en elektronisk reisetillatelse som norske statsborgere trenger for å reise til Storbritannia i forbindelse med turisme, forretningsreiser, kortere studieopphold eller transitt.</p>
+      <a class="textlink" href="/no/hva-er-eta/">Les mer om UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+    </div>
+    <div class="visual"><img src="/home/union-jack.jpg" alt="Storbritannias flagg mot blå himmel" width="1200" height="840" loading="lazy"></div>
+  </article>
+
+  <article class="block" id="vem">
+    <div class="body">
+      <span class="eyebrow">Hvem trenger den?</span>
+      <h2>Hvem trenger UK ETA?</h2>
+      <p>Norske statsborgere trenger UK ETA for å reise til Storbritannia, det vil si England, Skottland, Wales og Nord-Irland, på kortere opphold.</p>
+      <a class="textlink" href="/no/hva-er-eta/">Se om du trenger UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+    </div>
+    <div class="visual map"><div class="map-wrap">
+      <img src="/home/uk-map.png" alt="Kart over Storbritannia med England, Skottland, Wales og Nord-Irland" width="672" height="900" loading="lazy">
+      <span class="ml ml-sc">Skottland</span>
+      <span class="ml ml-ni">Nord-<br>Irland</span>
+      <span class="ml ml-ie">Irland</span>
+      <span class="ml ml-wa">Wales</span>
+      <span class="ml ml-en">England</span>
+    </div></div>
+  </article>
+</div></section>
+
+
+<section class="band"><div class="container cols">
+  <div id="krav">
+    <span class="eyebrow">Krav</span>
+    <h2>Dette trenger du</h2>
+    <p class="muted" style="margin-top:8px;font-size:14.5px">For å søke om UK ETA trenger du følgende:</p>
+    <div class="req-grid">
+      <div class="req-card"><img src="/home/req-passport.png" alt="" width="34" height="34"><div class="num">1</div><div class="t">Gyldig pass</div><div class="d">Foto eller skanning av siden med bilde.</div></div>
+      <div class="req-card"><img src="/home/req-photo.png" alt="" width="34" height="34"><div class="num">2</div><div class="t">Ansiktsfoto</div><div class="d">Et tydelig bilde av ansiktet ditt.</div></div>
+      <div class="req-card"><img src="/home/req-email.png" alt="" width="34" height="34"><div class="num">3</div><div class="t">E-postadresse</div><div class="d">For å motta avgjørelsen.</div></div>
+      <div class="req-card"><img src="/home/req-card.png" alt="" width="34" height="34"><div class="num">4</div><div class="t">Betalingskort</div><div class="d">For å betale søknadsgebyret (£20).</div></div>
+    </div>
+  </div>
+
+  <div id="ansokan">
+    <span class="eyebrow">Søknad</span>
+    <h2>Slik søker du</h2>
+    <p class="muted" style="margin-top:8px;font-size:14.5px">Søknaden sendes via den offisielle UK ETA-appen.</p>
+    <div class="app-wrap">
+      <div>
+        <div class="steps">
+          <div class="step"><div class="circle">01</div><div class="d">Last ned appen UK ETA</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">02</div><div class="d">Skann passet og ta et bilde</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">03</div><div class="d">Fyll ut skjemaet og betal (£20)</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">04</div><div class="d">Vent på godkjenning</div></div>
+        </div>
+        <a class="textlink" href="/no/slik-soker-du/" style="margin-top:20px">Se den detaljerte steg-for-steg-guiden <span class="arrow" aria-hidden="true">→</span></a>
+      </div>
+      <img class="phone" src="/home/phone-mock.png" alt="UK ETA-appen vist på en mobiltelefon" width="760" height="1497" loading="lazy">
+    </div>
+  </div>
+</div></section>
+
+
+<section class="section lower"><div class="container lower-grid">
+  <div class="lower-main">
+    <div class="row-travel">
+  <div id="resa">
+    <span class="eyebrow">Reise til Storbritannia</span>
+    <h2>Reise til Storbritannia</h2>
+    <p>UK ETA gjelder for reiser til England, Skottland, Wales og Nord-Irland. Irland er ikke omfattet. Reglene gjelder også ved transitt, avhengig av om du blir airside eller passerer grensekontrollen (landside).</p>
+    <a class="textlink" href="/no/oppholdets-lengde/">Mer om reisereglene <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+
+  <div class="photo-cards">
+    <a class="photo-card" href="/no/oppholdets-lengde/">
+      <img src="/home/airside.jpg" alt="Avgangshall på en flyplass i skumringen" width="800" height="600" loading="lazy">
+      <span class="cap"><span class="t">Airside-transitt</span><span class="d">Du trenger vanligvis ikke UK ETA.</span></span>
+      <span class="go" aria-hidden="true">→</span>
+    </a>
+    <a class="photo-card" href="/no/oppholdets-lengde/">
+      <img src="/home/landside.jpg" alt="Ankomsthall på en flyplass med reisende" width="800" height="600" loading="lazy">
+      <span class="cap"><span class="t">Landside-transitt</span><span class="d">Du trenger UK ETA.</span></span>
+      <span class="go" aria-hidden="true">→</span>
+    </a>
+  </div>
+
+    </div>
+    <div class="row-sv">
+  <div>
+    <span class="eyebrow">UK ETA for norske statsborgere</span>
+    <h2>UK ETA for norske statsborgere</h2>
+    <p>Informasjon om hva som gjelder spesielt for norske statsborgere, blant annet gyldighet, hvilke reiser som omfattes og vanlige spørsmål.</p>
+    <a class="textlink" href="#svenska">Les mer for norske statsborgere <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+  <img src="/home/city-oslo.jpg" alt="" width="1200" height="600" loading="lazy">
+</div>
+  </div>
+  <aside class="ql">
+    <span class="eyebrow">Snarveier</span>
+    <div class="ql-item"><img src="/home/ql-faq.png" alt="" width="26" height="26"><span><span class="t">Ofte stilte spørsmål</span><br><a class="textlink" href="/no/ofte-stilte-sporsmal/">Se FAQ <span aria-hidden="true">→</span></a></span></div>
+    <div class="ql-item"><img src="/home/ql-news.png" alt="" width="26" height="26"><span><span class="t">Siste nytt</span><br><a class="textlink" href="/no/#nyheter">Se nyheter <span aria-hidden="true">→</span></a></span></div>
+    <div class="ql-item"><img src="/home/ql-links.png" alt="" width="26" height="26"><span><span class="t">Nyttige sider</span><br><a class="textlink" href="/no/ofte-stilte-sporsmal/">Se nyttige sider <span aria-hidden="true">→</span></a></span></div>
+  </aside>
+</div></section>
+
+
+</div><section class="band xsec"><div class="container"><span class="eyebrow">Gyldighet og frister</span><h2>Hvor lenge ETA-en gjelder og når du bør søke</h2><p class="xlead">Når du bør søke, og hvor lenge ETA-en din er gyldig.</p><div class="xcards x2"><div class="xcard"><h3>Gyldighet</h3><p>ETA er gyldig i <strong>2 år</strong> fra utstedelsen og gir mulighet for flere innreiser til Storbritannia. Hvis passet ditt utløper innen 2 år, opphører ETA samtidig med passet. Forny i så fall passet først, og søk deretter om ETA.</p></div><div class="xcard"><h3>Når du bør søke</h3><p>De fleste søkere får en automatisk avgjørelse i løpet av <strong>noen få minutter</strong> via UK ETA-appen. Søk minst 3 virkedager før reisen, siden et lite antall søknader kan kreve ytterligere behandling. Når søknaden er godkjent, får du en bekreftelse på e-post. Ved innreise trenger du som regel ikke vise ETA-nummeret, men det er lurt å ta vare på bekreftelsen (skjermbilde eller utskrift).</p></div></div></div></section><section class="section xsec"><div class="container"><span class="eyebrow">Transitt</span><h2>Transitt gjennom Storbritannia</h2><p class="xlead">Om du trenger ETA ved et bytte, avhenger av hvilken type transitt det gjelder.</p><div class="xcards x2"><div class="xcard"><span class="eyebrow">Flytransitt (airside)</span><h3>Som regel uten ETA</h3><p>Hvis du ikke passerer den britiske grensekontrollen og blir i flyplassens transittområde, kreves det som regel ikke ETA. Forlater du derimot transittområdet (for eksempel ved overnatting eller bytte til en annen flyplass), trenger du ETA.</p></div><div class="xcard"><span class="eyebrow">Landtransitt (landside)</span><h3>Krever som regel ETA</h3><p>Når du passerer den britiske grensekontrollen, for eksempel med Eurostar (toget gjennom Kanaltunnelen) eller ferje, kreves det som regel ETA.</p></div></div></div></section><section id="svenska" class="band xsec"><div class="container"><span class="eyebrow">For nordmenn</span><h2>UK ETA for norske statsborgere</h2><p class="xlead">Norske statsborgere kan reise til Storbritannia uten visum for opphold på inntil 6 måneder. Siden 2. april 2025 må du likevel ha en gyldig UK ETA for å reise, enten det gjelder ferie, jobbreise, familiebesøk eller transitt.</p><div class="xcards x4"><div class="xcard"><h3>Hvem må ha ETA</h3><p>Alle norske statsborgere som reiser til Storbritannia på kortere opphold, også barn og spedbarn. Hver person sender sin egen søknad.</p></div><div class="xcard"><h3>Pass, ikke nasjonalt ID-kort</h3><p>Innreise til Storbritannia krever gyldig pass. Nasjonalt ID-kort godtas ikke lenger (siden oktober 2021). ETA er knyttet til passet.</p></div><div class="xcard"><h3>Populære reisemål fra Norge</h3><p>London, Manchester, Edinburgh, Birmingham og andre byer. Én ETA dekker England, Skottland, Wales og Nord-Irland.</p></div><div class="xcard"><h3>Når du bør søke</h3><p>Minst 3 virkedager før avreise. De fleste avgjørelser tas automatisk i løpet av noen få minutter, men et lite antall søknader kan kreve ytterligere behandling.</p></div></div></div></section><section id="faq" class="section xsec"><div class="container xnarrow"><span class="eyebrow">FAQ</span><h2>Ofte stilte spørsmål</h2><div class="xfaq"><details><summary><span>Trenger norske statsborgere UK ETA?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Ja. Siden 2. april 2025 må norske statsborgere (og andre europeiske borgere) ha UK ETA før de reiser til Storbritannia. Det gjelder turistreiser, forretningsreiser og transitt.</p></details><details><summary><span>Hva koster UK ETA, og hvor lenge er den gyldig?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Gebyret for UK ETA er £20. Tillatelsen er gyldig i 2 år fra utstedelsen og gir mulighet for flere innreiser til Storbritannia, hver på inntil 6 måneder.</p></details><details><summary><span>Hva er forskjellen på UK ETA og visum?</span><span class="xplus" aria-hidden="true">+</span></summary><p>UK ETA er en forenklet elektronisk tillatelse for korte opphold (inntil 6 måneder). Den koster £20, og du søker på nett. Et britisk visum krever oppmøte på et visumsenter, koster fra £100 og gir mulighet for lengre opphold eller arbeid.</p></details><details><summary><span>Trenger barn fra Norge UK ETA?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Ja. Alle reisende, uansett alder, må ha sin egen UK ETA, også spedbarn og barn. En forelder eller verge kan søke på vegne av barnet med barnets pass.</p></details><details><summary><span>Kan en norsk statsborger reise inn i Storbritannia med nasjonalt ID-kort?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Nei. Siden oktober 2021 kreves gyldig pass for innreise til Storbritannia. Nasjonalt ID-kort godtas ikke lenger. UK ETA er knyttet nettopp til passet.</p></details><details><summary><span>Trenger jeg ETA ved flybytte i Storbritannia?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Hvis du passerer grensekontrollen under byttet (for eksempel bytter terminal eller henter bagasje), trenger du UK ETA. Ved transitt uten å passere grensen (airside) trengs den som regel ikke. Bekreft gjerne reglene med flyselskapet og flyplassen.</p></details></div><a class="textlink xmore" href="/no/ofte-stilte-sporsmal/">Se alle ofte stilte spørsmål <span class="arrow" aria-hidden="true">→</span></a></div></section><section id="nyheter" class="band xsec"><div class="container"><span class="eyebrow">Nyheter</span><h2>Siste nyheter</h2><p class="xlead">De viktigste nyhetene om UK ETA, gebyrer og innreiseregler for Storbritannia.</p><div class="xcards x3"><a class="xcard xlink" href="/no/pris/"><div class="xmeta"><span class="xtag" style="background-color:#8d1812;color:#ffffff">Innreise og reise</span><time>2026-04-08</time></div><h3>Høyere immigrasjonsgebyrer i Storbritannia fra april 2026</h3><p>Sammen med ETA økte Home Office fra 8. april 2026 også andre gebyrer, blant annet for innreisevisum, bosetting og statsborgerskap.</p></a><a class="xcard xlink" href="/no/pris/"><div class="xmeta"><span class="xtag" style="background-color:#C5A24A;color:#1c1505">Gebyrer</span><time>2026-04-08</time></div><h3>Gebyret for UK ETA økte til £20 (fra 8. april 2026)</h3><p>Fra og med 8. april 2026 koster UK ETA £20 i stedet for tidligere £16 (en økning på 25 %). Det er søknadsdatoen som avgjør.</p></a><a class="xcard xlink" href="/no/gyldighet/"><div class="xmeta"><span class="xtag" style="background-color:#44403c;color:#ffffff">Sikkerhet</span><time>2026-03-01</time></div><h3>Sikkerhet på reisen til Storbritannia: dette bør du tenke på</h3><p>Før avreise er det lurt å sjekke gjeldende sikkerhetsmeldinger og forsikre seg om at passet og ETA er gyldige.</p></a></div><a class="textlink xmore" href="/no/ofte-stilte-sporsmal/">Mer informasjon under ofte stilte spørsmål <span class="arrow" aria-hidden="true">→</span></a></div></section><section class="section xsec"><div class="container"><span class="eyebrow">Guide</span><h2>Nyttige sider</h2><div class="xcards x3"><a class="xcard xlink xrow" href="/no/hva-er-eta/"><span><h3>Hva er UK ETA?</h3><p>Grunnleggende informasjon om ETA-ordningen</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/no/slik-soker-du/"><span><h3>Slik søker du</h3><p>Steg for steg gjennom skjemaet</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/no/pris/"><span><h3>Gebyrer for UK ETA</h3><p>Detaljer om kostnadene</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/no/gyldighet/"><span><h3>Gyldighet</h3><p>Når du må fornye ETA-en</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/no/dokumenter/"><span><h3>Nødvendige dokumenter</h3><p>Hva du bør ha klart før du søker</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/no/slik-soker-du/"><span><h3>Søk på GOV.UK</h3><p>Det offisielle nettstedet og appen</p></span><span class="xgo" aria-hidden="true">→</span></a></div></div></section><div><section class="finalcta">
+  <div class="bg"><img src="/home/cta-bg.jpg" alt="" width="1600" height="500" loading="lazy" aria-hidden="true"></div>
+  <div class="container">
+    <span class="eyebrow">Klar for reisen?</span>
+    <h2>Klar til å reise til Storbritannia?</h2>
+    <p>Søk om UK ETA og få en rask avgjørelse.</p>
+    <div class="row"><a class="btn btn--ghost" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">Start søknaden om UK ETA <span class="arrow" aria-hidden="true">→</span></a></div>
+  </div>
+</section>
+
+
+</div></div>
+<!--BLOCK-->
+<div class="etahome"><footer class="footer"><div class="container">
+  <a class="brand" href="/no/">
+    <img src="/home/crown.png" alt="" width="26" height="26">
+    <span><span class="name">UK ETA</span><span class="sub">Elektronisk reisetillatelse til Storbritannia</span></span>
+  </a>
+  <nav aria-label="Bunntekst">
+    <a href="/no/om-denne-guiden/">Om dette nettstedet</a><a href="/no/personvern/">Personvern</a><a href="/no/juridisk-informasjon/">Juridisk informasjon</a><a href="/no/om-denne-guiden/">Kontakt oss</a>
+  </nav>
+  <p class="note">Dette nettstedet er ikke et offisielt nettsted fra britiske myndigheter.</p>
+</div></footer>
+
+</div>
+8:["$","div",null,{"lang":"nb","dir":"$undefined","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://eta-se.com/no/#website\",\"url\":\"https://eta-se.com/no/\",\"name\":\"UK ETA Guide\",\"description\":\"Norsk guide til UK ETA: den koster £20, varer i 2 år og gir opphold på inntil 6 måneder per reise. Slik søker du på GOV.UK sine offisielle sider.\",\"inLanguage\":\"nb\",\"publisher\":{\"@id\":\"https://eta-se.com/no/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https://eta-se.com/no/#organization\",\"name\":\"UK ETA Guide\",\"url\":\"https://eta-se.com/\",\"logo\":\"https://eta-se.com/logo-uk-eta.png\"}]}"}}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":""}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap","rel":"stylesheet","precedence":"default"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$11"}}],"$L12"]}]
+13:I[61574,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+12:["$","$L13",null,{}]
 d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-18:I[61352,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"IconMark"]
+14:I[61352,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"IconMark"]
 b:null
-f:[["$","title","0",{"children":"UK ETA: £20 og svar som regel innen 1 dag | Guide på norsk 2026 | UK ETA Guide"}],["$","meta","1",{"name":"description","content":"Norsk guide til UK ETA: den koster £20, varer i 2 år og gir opphold på inntil 6 måneder per reise. Slik søker du på GOV.UK sine offisielle sider."}],["$","meta","2",{"name":"keywords","content":"UK ETA, UK ETA 2026, Storbritannien, reseauktorisering, Electronic Travel Authorisation, ETA-ansökan, Sverige, avgift £20"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://eta-se.com/no/"}],["$","meta","5",{"property":"og:title","content":"UK ETA: £20 og svar som regel innen 1 dag | Guide på norsk 2026"}],["$","meta","6",{"property":"og:description","content":"Norsk guide til UK ETA: den koster £20, varer i 2 år og gir opphold på inntil 6 måneder per reise. Slik søker du på GOV.UK sine offisielle sider."}],["$","meta","7",{"property":"og:site_name","content":"UK ETA Guide"}],["$","meta","8",{"property":"og:locale","content":"nb"}],["$","meta","9",{"property":"og:image","content":"https://eta-se.com/og-image.jpg"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"UK ETA Guide"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"UK ETA: £20 og svar som regel innen 1 dag | Guide på norsk 2026"}],["$","meta","16",{"name":"twitter:description","content":"Norsk guide til UK ETA: den koster £20, varer i 2 år og gir opphold på inntil 6 måneder per reise. Slik søker du på GOV.UK sine offisielle sider."}],["$","meta","17",{"name":"twitter:image","content":"https://eta-se.com/og-image.jpg"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.0v_gq8cr8iscb.png","sizes":"256x256","type":"image/png"}],["$","link","19",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.147.6d2c-k_4-.png","sizes":"256x256","type":"image/png"}],["$","$L18","20",{}]]
+f:[["$","title","0",{"children":"UK ETA: £20 og svar som regel innen 1 dag | Guide på norsk 2026 | UK ETA Guide"}],["$","meta","1",{"name":"description","content":"Norsk guide til UK ETA: den koster £20, varer i 2 år og gir opphold på inntil 6 måneder per reise. Slik søker du på GOV.UK sine offisielle sider."}],["$","meta","2",{"name":"keywords","content":"UK ETA, UK ETA 2026, Storbritannien, reseauktorisering, Electronic Travel Authorisation, ETA-ansökan, Sverige, avgift £20"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://eta-se.com/no/"}],["$","meta","5",{"property":"og:title","content":"UK ETA: £20 og svar som regel innen 1 dag | Guide på norsk 2026"}],["$","meta","6",{"property":"og:description","content":"Norsk guide til UK ETA: den koster £20, varer i 2 år og gir opphold på inntil 6 måneder per reise. Slik søker du på GOV.UK sine offisielle sider."}],["$","meta","7",{"property":"og:site_name","content":"UK ETA Guide"}],["$","meta","8",{"property":"og:locale","content":"nb"}],["$","meta","9",{"property":"og:image","content":"https://eta-se.com/og-image.jpg"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"UK ETA Guide"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"UK ETA: £20 og svar som regel innen 1 dag | Guide på norsk 2026"}],["$","meta","16",{"name":"twitter:description","content":"Norsk guide til UK ETA: den koster £20, varer i 2 år og gir opphold på inntil 6 måneder per reise. Slik søker du på GOV.UK sine offisielle sider."}],["$","meta","17",{"name":"twitter:image","content":"https://eta-se.com/og-image.jpg"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.0v_gq8cr8iscb.png","sizes":"256x256","type":"image/png"}],["$","link","19",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.147.6d2c-k_4-.png","sizes":"256x256","type":"image/png"}],["$","$L14","20",{}]]

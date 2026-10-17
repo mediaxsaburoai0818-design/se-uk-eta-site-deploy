@@ -1,13 +1,226 @@
 1:"$Sreact.fragment"
-2:I[80622,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],""]
-a:I[63554,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"OutletBoundary"]
-b:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"lang":"cs","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://eta-se.com/cs/#website\",\"url\":\"https://eta-se.com/cs/\",\"name\":\"Průvodce UK ETA\",\"description\":\"Český průvodce UK ETA: stojí £20, platí 2 roky a umožňuje pobyt až 6 měsíců na jednu cestu. Jak o něj požádat na oficiálních stránkách GOV.UK.\",\"inLanguage\":\"cs\",\"publisher\":{\"@id\":\"https://eta-se.com/cs/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https://eta-se.com/cs/#organization\",\"name\":\"Průvodce UK ETA\",\"url\":\"https://eta-se.com/\",\"logo\":\"https://eta-se.com/logo-uk-eta.png\"}]}"}}],["$","section",null,{"className":"sub-hero relative overflow-hidden","children":[["$","div",null,{"className":"absolute inset-0 sub-hero-scrim"}],["$","div",null,{"className":"relative max-w-4xl mx-auto px-6 pt-12 pb-12 md:pt-14 md:pb-16","children":[["$","p",null,{"className":"kicker mb-3 mt-4","children":"Čeština"}],["$","h1",null,{"className":"deco-head text-3xl md:text-4xl font-bold text-white mb-6","style":{"fontFamily":"var(--font-noto-serif), serif"},"children":[["$","span",null,{"className":"deco-line"}],"Cestovní povolení do Spojeného království, krok za krokem"]}],["$","p",null,{"className":"text-white/90 leading-relaxed","children":"Cestujete-li do Spojeného království, potřebujete UK ETA. Na oficiálních stránkách stojí £20, odpověď přijde obvykle do 1 dne a povolení platí 2 roky na opakované cesty."}]]}]]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-10","children":[["$","div",null,{"className":"grid gap-4 sm:grid-cols-2","children":[["$","$L2","co-je-eta",{"href":"/cs/co-je-eta/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Co je UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["O UK ETA (Electronic Travel Authorisation) žádáte před cestou. Nenahrazuje pas a není to vízum.","…"]}]]}],["$","$L2","jak-zadat",{"href":"/cs/jak-zadat/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Jak požádat o UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Žádost probíhá celá online, buď na oficiálních stránkách GOV.UK, nebo v oficiální aplikaci. Nika","…"]}]]}],["$","$L2","cena",{"href":"/cs/cena/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Kolik stojí UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Oficiální cena je £20 a platíte ji jednou. Povolení pak platí 2 roky na opakované cesty.","…"]}]]}],["$","$L2","doba-vyrizeni",{"href":"/cs/doba-vyrizeni/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Jak dlouho trvá vyřízení UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Ve většině případů přijde odpověď do 1 dne. Přesto doporučujeme počítat až s 3 pracovními dny.","…"]}]]}],["$","$L2","overeni-stavu",{"href":"/cs/overeni-stavu/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Jak ověřit stav UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Rozhodnutí se oznamuje e-mailem. Pokud nedorazilo, můžete si stav ověřit podle údajů z pasu, se ","…"]}]]}],"$L3","$L4","$L5","$L6"]}],"$L7","$L8"]}]]}],null,"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"liSA_jXBk6FJp8Fyf70iq"}
-3:["$","$L2","platnost",{"href":"/cs/platnost/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Jak dlouho platí UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Povolení platí 2 roky — nebo do vypršení pasu, pokud nastane dřív.","…"]}]]}]
-4:["$","$L2","potrebne-doklady",{"href":"/cs/potrebne-doklady/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Jaké doklady potřebujete"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Žádost je jednoduchá: pas, fotografie a platební prostředek. Doklady o cestě ani potvrzení nejso","…"]}]]}]
-5:["$","$L2","delka-pobytu",{"href":"/cs/delka-pobytu/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Jak dlouho můžete zůstat"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Na jednu cestu můžete ve Spojeném království zůstat až 6 měsíců. Povolení pokrývá turistiku, náv","…"]}]]}]
-6:["$","$L2","caste-dotazy",{"href":"/cs/caste-dotazy/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Časté dotazy k UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Stručné odpovědi na nejčastější otázky. Každý bod odkazuje na podrobné vysvětlení.","…"]}]]}]
-7:["$","div",null,{"className":"mt-10 p-5 bg-stone-50 border border-stone-200 rounded-lg","children":[["$","p",null,{"className":"text-sm text-stone-700 mb-3","children":"£20 · 2 · 6"}],["$","a",null,{"href":"https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta","target":"_blank","rel":"noopener noreferrer","className":"inline-block bg-stone-900 text-white px-6 py-2.5 rounded-full text-sm font-medium","children":"Požádat na oficiálních stránkách GOV.UK"}]]}]
-8:["$","nav",null,{"className":"mt-10 flex flex-wrap gap-4 text-sm text-stone-600","children":[["$","$L2",null,{"href":"/cs/o-tomto-pruvodci/","className":"underline","children":"O tomto průvodci"}],["$","$L2",null,{"href":"/cs/ochrana-osobnich-udaju/","className":"underline","children":"Ochrana osobních údajů"}],["$","$L2",null,{"href":"/cs/pravni-informace/","className":"underline","children":"Právní informace"}]]}]
-9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
-c:null
+5:I[61574,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+6:I[63554,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap","style"]
+2:T56bf,<div class="etahome">
+
+
+<div class="trustbar"><div class="container">
+  <span>Nezávislý informační web o UK ETA. Nejsme napojeni na britskou vládu.</span>
+  <span>Oficiální informace: <a href="https://www.gov.uk/electronic-travel-authorisation" rel="nofollow noopener" target="_blank">GOV.UK ↗</a></span>
+</div></div>
+
+
+<header class="header"><div class="container">
+  <a class="brand" href="/cs/">
+    <img src="/home/crown-navy.png" alt="" width="44" height="44">
+    <span>
+      <span class="name">UK ETA</span>
+      <span class="sub">Elektronické cestovní povolení do Spojeného království</span>
+    </span>
+  </a>
+  <nav class="nav" aria-label="Hlavní menu">
+    <a href="/cs/co-je-eta/">Přehled</a>
+    <a href="/cs/co-je-eta/">Kdo ji potřebuje?</a>
+    <a href="/cs/jak-zadat/">Jak požádat?</a>
+    <a href="/cs/potrebne-doklady/">Požadavky</a>
+    <a href="/cs/delka-pobytu/">Cesta do Spojeného království</a>
+    <a href="/cs/caste-dotazy/">Časté dotazy</a>
+    <a href="/cs/">Novinky</a>
+  </nav>
+  <div class="spacer"></div>
+  <div class="tools">
+    <details class="langmenu"><summary class="lang" aria-label="Změnit jazyk">CS <span aria-hidden="true">⌄</span></summary><ul><li><a href="/" hreflang="sv" lang="sv">Svenska</a></li><li><a href="/en/" hreflang="en" lang="en">English</a></li><li><a href="/de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="/fr/" hreflang="fr" lang="fr">Français</a></li><li><a href="/it/" hreflang="it" lang="it">Italiano</a></li><li><a href="/es/" hreflang="es" lang="es">Español</a></li><li><a href="/nl/" hreflang="nl" lang="nl">Nederlands</a></li><li><a href="/pt/" hreflang="pt" lang="pt">Português</a></li><li><a href="/da/" hreflang="da" lang="da">Dansk</a></li><li><a href="/no/" hreflang="no" lang="no">Norsk</a></li><li><a href="/fi/" hreflang="fi" lang="fi">Suomi</a></li><li><a href="/cs/" hreflang="cs" lang="cs">Čeština</a></li><li><a href="/hu/" hreflang="hu" lang="hu">Magyar</a></li><li><a href="/ro/" hreflang="ro" lang="ro">Română</a></li><li><a href="/el/" hreflang="el" lang="el">Ελληνικά</a></li><li><a href="/he/" hreflang="he" lang="he">עברית</a></li><li><a href="/ko/" hreflang="ko" lang="ko">한국어</a></li><li><a href="/zh-tw/" hreflang="zh-tw" lang="zh-tw">繁體中文</a></li><li><a href="/zh-cn/" hreflang="zh-cn" lang="zh-cn">简体中文</a></li></ul></details>
+    <a class="iconbtn" href="/cs/" aria-label="Mapa webu">
+      <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+    </a>
+    <button class="iconbtn burger" type="button" aria-label="Menu" aria-expanded="false" aria-controls="nav">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+    </button>
+    <a class="btn" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">Požádat o UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+</div></header></div>
+<!--BLOCK-->
+<div class="etahome"><div>
+
+
+<section class="hero">
+  <div class="hero-media">
+    <img src="/home/hero-westminster.jpg" alt="Westminsterský palác a Big Ben u Temže v Londýně" width="2121" height="900" fetchpriority="high">
+  </div>
+  <div class="container">
+    <div class="hero-inner">
+      <span class="hero-pill">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" style="color:#062F55"><path d="M21 16v-2l-8-5V3.5a1.5 1.5 0 0 0-3 0V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L13 19v-5.5z"/></svg>
+        <span>Informace o UK ETA pro české cestující</span>
+      </span>
+      <h1>UK ETA<span class="sub">Elektronické cestovní povolení do Spojeného království</span></h1>
+      <p class="lead">Čeští občané potřebují UK ETA pro krátkodobé cesty do Spojeného království.</p>
+      <div class="hero-actions">
+        <a class="btn" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">Požádat o UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+        <a class="textlink" href="#oversikt">Více o UK ETA <span aria-hidden="true">↓</span></a>
+      </div>
+    </div>
+  </div>
+  <div class="hero-script" aria-hidden="true">Explore<br><span>the UK</span></div>
+  <a class="hero-card" href="/cs/co-je-eta/" style="text-decoration:none">
+    <p>Anglie, Skotsko, Wales a Severní Irsko</p>
+    <span class="round" aria-hidden="true">→</span>
+  </a>
+</section>
+
+
+<div class="keyfacts"><div class="container"><div class="panel">
+  <div class="cell">
+    <img src="/home/fact-fee.png" alt="" width="30" height="30">
+    <span><span class="v">£20</span><span class="k">Poplatek za žádost</span></span>
+  </div>
+  <div class="cell">
+    <img src="/home/fact-time.png" alt="" width="30" height="30">
+    <span><span class="v">Minuty</span><span class="k">Automatické rozhodnutí pro většinu žadatelů</span></span>
+  </div>
+  <div class="cell">
+    <img src="/home/fact-valid.png" alt="" width="30" height="30">
+    <span><span class="v">2 roky</span><span class="k">Doba platnosti</span></span>
+  </div>
+</div></div></div>
+
+
+<section class="section"><div class="container two-col">
+  <article class="block" id="oversikt">
+    <div class="body">
+      <span class="eyebrow">Přehled</span>
+      <h2>Co je UK ETA?</h2>
+      <p>UK ETA (Electronic Travel Authorisation) je elektronické cestovní povolení, které čeští občané potřebují pro cesty do Spojeného království za účelem turistiky, obchodu, krátkodobého studia nebo tranzitu.</p>
+      <a class="textlink" href="/cs/co-je-eta/">Více o UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+    </div>
+    <div class="visual"><img src="/home/union-jack.jpg" alt="Vlajka Spojeného království na pozadí modré oblohy" width="1200" height="840" loading="lazy"></div>
+  </article>
+
+  <article class="block" id="vem">
+    <div class="body">
+      <span class="eyebrow">Kdo ji potřebuje?</span>
+      <h2>Kdo potřebuje UK ETA?</h2>
+      <p>Čeští občané potřebují UK ETA pro krátkodobé cesty do Spojeného království, tedy do Anglie, Skotska, Walesu i Severního Irska.</p>
+      <a class="textlink" href="/cs/co-je-eta/">Zjistěte, zda UK ETA potřebujete <span class="arrow" aria-hidden="true">→</span></a>
+    </div>
+    <div class="visual map"><div class="map-wrap">
+      <img src="/home/uk-map.png" alt="Mapa Spojeného království s Anglií, Skotskem, Walesem a Severním Irskem" width="672" height="900" loading="lazy">
+      <span class="ml ml-sc">Scotland</span>
+      <span class="ml ml-ni">Northern<br>Ireland</span>
+      <span class="ml ml-ie">Ireland</span>
+      <span class="ml ml-wa">Wales</span>
+      <span class="ml ml-en">England</span>
+    </div></div>
+  </article>
+</div></section>
+
+
+<section class="band"><div class="container cols">
+  <div id="krav">
+    <span class="eyebrow">Požadavky</span>
+    <h2>Co budete potřebovat</h2>
+    <p class="muted" style="margin-top:8px;font-size:14.5px">K žádosti o UK ETA budete potřebovat:</p>
+    <div class="req-grid">
+      <div class="req-card"><img src="/home/req-passport.png" alt="" width="34" height="34"><div class="num">1</div><div class="t">Platný pas</div><div class="d">Fotografie nebo sken stránky s fotografií.</div></div>
+      <div class="req-card"><img src="/home/req-photo.png" alt="" width="34" height="34"><div class="num">2</div><div class="t">Fotografie obličeje</div><div class="d">Zřetelná fotografie vašeho obličeje.</div></div>
+      <div class="req-card"><img src="/home/req-email.png" alt="" width="34" height="34"><div class="num">3</div><div class="t">E-mailová adresa</div><div class="d">Pro doručení rozhodnutí.</div></div>
+      <div class="req-card"><img src="/home/req-card.png" alt="" width="34" height="34"><div class="num">4</div><div class="t">Platební karta</div><div class="d">K úhradě poplatku za žádost (£20).</div></div>
+    </div>
+  </div>
+
+  <div id="ansokan">
+    <span class="eyebrow">Žádost</span>
+    <h2>Jak požádat</h2>
+    <p class="muted" style="margin-top:8px;font-size:14.5px">Žádost se podává v oficiální aplikaci UK ETA.</p>
+    <div class="app-wrap">
+      <div>
+        <div class="steps">
+          <div class="step"><div class="circle">01</div><div class="d">Stáhněte si aplikaci UK ETA</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">02</div><div class="d">Naskenujte pas a pořiďte fotografii</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">03</div><div class="d">Vyplňte formulář a zaplaťte (£20)</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">04</div><div class="d">Vyčkejte na schválení</div></div>
+        </div>
+        <a class="textlink" href="/cs/jak-zadat/" style="margin-top:20px">Podrobný postup krok za krokem <span class="arrow" aria-hidden="true">→</span></a>
+      </div>
+      <img class="phone" src="/home/phone-mock.png" alt="Aplikace UK ETA na mobilním telefonu" width="760" height="1497" loading="lazy">
+    </div>
+  </div>
+</div></section>
+
+
+<section class="section lower"><div class="container lower-grid">
+  <div class="lower-main">
+    <div class="row-travel">
+  <div id="resa">
+    <span class="eyebrow">Cesta do Spojeného království</span>
+    <h2>Cesta do Spojeného království</h2>
+    <p>UK ETA platí pro cesty do Anglie, Skotska, Walesu a Severního Irska. Irsko do ní nespadá. Pravidla se týkají i tranzitu, a to podle toho, zda zůstáváte v tranzitní zóně (airside), nebo procházíte hraniční kontrolou (landside).</p>
+    <a class="textlink" href="/cs/delka-pobytu/">Více o pravidlech cestování <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+
+  <div class="photo-cards">
+    <a class="photo-card" href="/cs/delka-pobytu/">
+      <img src="/home/airside.jpg" alt="Odletová hala letiště za soumraku" width="800" height="600" loading="lazy">
+      <span class="cap"><span class="t">Tranzit airside</span><span class="d">UK ETA obvykle nepotřebujete.</span></span>
+      <span class="go" aria-hidden="true">→</span>
+    </a>
+    <a class="photo-card" href="/cs/delka-pobytu/">
+      <img src="/home/landside.jpg" alt="Příletová hala letiště s cestujícími" width="800" height="600" loading="lazy">
+      <span class="cap"><span class="t">Tranzit landside</span><span class="d">UK ETA potřebujete.</span></span>
+      <span class="go" aria-hidden="true">→</span>
+    </a>
+  </div>
+
+    </div>
+    <div class="row-sv">
+  <div>
+    <span class="eyebrow">UK ETA pro české občany</span>
+    <h2>UK ETA pro české občany</h2>
+    <p>Informace o tom, co platí konkrétně pro české občany: doba platnosti, na jaké cesty se povolení vztahuje a nejčastější dotazy.</p>
+    <a class="textlink" href="#svenska">Více pro české občany <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+  <img src="/home/city-prague.jpg" alt="" width="1200" height="600" loading="lazy">
+</div>
+  </div>
+  <aside class="ql">
+    <span class="eyebrow">Rychlé odkazy</span>
+    <div class="ql-item"><img src="/home/ql-faq.png" alt="" width="26" height="26"><span><span class="t">Časté dotazy</span><br><a class="textlink" href="/cs/caste-dotazy/">Zobrazit časté dotazy <span aria-hidden="true">→</span></a></span></div>
+    <div class="ql-item"><img src="/home/ql-news.png" alt="" width="26" height="26"><span><span class="t">Aktuality</span><br><a class="textlink" href="/cs/">Zobrazit novinky <span aria-hidden="true">→</span></a></span></div>
+    <div class="ql-item"><img src="/home/ql-links.png" alt="" width="26" height="26"><span><span class="t">Užitečné stránky</span><br><a class="textlink" href="/cs/">Zobrazit užitečné stránky <span aria-hidden="true">→</span></a></span></div>
+  </aside>
+</div></section>
+
+
+</div><section class="band xsec"><div class="container"><span class="eyebrow">Platnost a termín žádosti</span><h2>Jak dlouho ETA platí a kdy o ni požádat</h2><p class="xlead">Kdy podat žádost a jak dlouho zůstane vaše ETA platná.</p><div class="xcards x2"><div class="xcard"><h3>Doba platnosti</h3><p>ETA platí <strong>2 roky</strong> od vydání a umožňuje opakované vstupy do Spojeného království. Pokud vám pas vyprší dříve než za 2 roky, skončí platnost ETA současně s pasem — v takovém případě si nejprve obnovte pas a teprve poté požádejte o ETA.</p></div><div class="xcard"><h3>Kdy požádat</h3><p>Většina žadatelů obdrží automatické rozhodnutí během <strong>několika minut</strong> prostřednictvím aplikace UK ETA. Požádejte alespoň 3 pracovní dny před cestou, protože malá část žádostí může vyžadovat další posouzení. Po schválení obdržíte potvrzovací e-mail; při vstupu obvykle číslo ETA předkládat nemusíte, potvrzení si však doporučujeme uschovat (snímek obrazovky nebo výtisk).</p></div></div></div></section><section class="section xsec"><div class="container"><span class="eyebrow">Tranzit</span><h2>Tranzit přes Spojené království</h2><p class="xlead">Zda při přestupu potřebujete ETA, závisí na druhu tranzitu.</p><div class="xcards x2"><div class="xcard"><span class="eyebrow">Letecký tranzit (airside)</span><h3>Zpravidla bez ETA</h3><p>Pokud neprocházíte britskou hraniční kontrolou a zůstáváte v tranzitní zóně letiště, ETA obvykle nepotřebujete. Jestliže však tranzitní zónu opouštíte (například kvůli přenocování nebo přestupu na jiném letišti), ETA potřebujete.</p></div><div class="xcard"><span class="eyebrow">Pozemní tranzit (landside)</span><h3>Zpravidla s ETA</h3><p>Při průchodu britskou hraniční kontrolou — například při cestě vlakem Eurostar pod Lamanšským průlivem nebo trajektem — je ETA zpravidla nutná.</p></div></div></div></section><section id="svenska" class="band xsec"><div class="container"><span class="eyebrow">Pro Čechy</span><h2>UK ETA pro české občany</h2><p class="xlead">Česko je členským státem Evropské unie a čeští občané mohou do Spojeného království cestovat bez víza na pobyty do 6 měsíců. Od 2. dubna 2025 však musíte mít před každou cestou platnou UK ETA — týká se to dovolené, služebních cest, návštěv příbuzných i tranzitu.</p><div class="xcards x4"><div class="xcard"><h3>Kdo musí mít ETA</h3><p>Všichni čeští občané, kteří cestují do Spojeného království na krátkodobý pobyt, včetně dětí a kojenců. Každá osoba podává vlastní samostatnou žádost.</p></div><div class="xcard"><h3>Pas, nikoli občanský průkaz</h3><p>Pro vstup do Spojeného království je nutný platný pas — občanský průkaz se od října 2021 již nepřijímá. ETA je vázána právě na tento pas.</p></div><div class="xcard"><h3>Oblíbené cíle</h3><p>Londýn, Manchester, Edinburgh, Birmingham a další města. Jediná ETA pokrývá Anglii, Skotsko, Wales i Severní Irsko.</p></div><div class="xcard"><h3>Kdy požádat</h3><p>Alespoň 3 pracovní dny před odjezdem. Většina rozhodnutí přichází automaticky během několika minut, malá část žádostí však může vyžadovat další posouzení.</p></div></div></div></section><section id="faq" class="section xsec"><div class="container xnarrow"><span class="eyebrow">Časté dotazy</span><h2>Časté dotazy</h2><div class="xfaq"><details><summary><span>Potřebují čeští občané UK ETA?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Ano. Od 2. dubna 2025 musí mít čeští občané (stejně jako ostatní občané EU) před cestou do Spojeného království UK ETA. Platí to pro turistické, obchodní i tranzitní cesty.</p></details><details><summary><span>Kolik UK ETA stojí a jak dlouho platí?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Poplatek za UK ETA činí £20. Povolení platí 2 roky od vydání a umožňuje opakované vstupy do Spojeného království, každý na pobyt až 6 měsíců.</p></details><details><summary><span>Jaký je rozdíl mezi UK ETA a vízem?</span><span class="xplus" aria-hidden="true">+</span></summary><p>UK ETA je zjednodušené elektronické povolení pro krátkodobé pobyty (až 6 měsíců). Stojí £20 a žádá se online. Britské vízum vyžaduje návštěvu vízového centra, je dražší a umožňuje delší pobyty nebo práci.</p></details><details><summary><span>Potřebují UK ETA i děti?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Ano. Každý cestující bez ohledu na věk musí mít vlastní UK ETA — včetně kojenců a dětí. Rodič nebo zákonný zástupce může za dítě požádat s použitím jeho pasu.</p></details><details><summary><span>Mohu jako občan ČR vstoupit do Spojeného království na občanský průkaz?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Ne. Od října 2021 je pro vstup do Spojeného království nutný platný pas — občanský průkaz se již nepřijímá. UK ETA je vázána právě na tento pas.</p></details><details><summary><span>Potřebuji ETA při tranzitním letu přes Spojené království?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Pokud při přestupu procházíte hraniční kontrolou (například měníte terminál nebo si vyzvedáváte zavazadla), UK ETA potřebujete. Při tranzitu bez průchodu hranicí (airside) ji obvykle nepotřebujete — pravidla si však ověřte u letecké společnosti a letiště.</p></details></div><a class="textlink xmore" href="/cs/caste-dotazy/">Všechny časté dotazy <span class="arrow" aria-hidden="true">→</span></a></div></section><section id="nyheter" class="band xsec"><div class="container"><span class="eyebrow">Novinky</span><h2>Nejnovější zprávy</h2><p class="xlead">Nejdůležitější novinky o UK ETA, poplatcích a pravidlech vstupu do Spojeného království.</p><div class="xcards x3"><a class="xcard xlink" href="/cs/cena/"><div class="xmeta"><span class="xtag" style="background-color:#8d1812;color:#ffffff">Vstup a cestování</span><time>2026-04-08</time></div><h3>Vyšší imigrační poplatky ve Spojeném království od dubna 2026</h3><p>Spolu s ETA se od 8. dubna 2026 zvýšily i další poplatky Home Office — mimo jiné za vstupní víza, trvalý pobyt a občanství.</p></a><a class="xcard xlink" href="/cs/cena/"><div class="xmeta"><span class="xtag" style="background-color:#C5A24A;color:#1c1505">Poplatky</span><time>2026-04-08</time></div><h3>Poplatek za UK ETA se zvýšil na £20 (od 8. dubna 2026)</h3><p>Od 8. dubna 2026 činí poplatek za UK ETA £20 místo dřívějších £16 (nárůst o 25 %). Rozhoduje datum podání žádosti.</p></a><a class="xcard xlink" href="/cs/platnost/"><div class="xmeta"><span class="xtag" style="background-color:#44403c;color:#ffffff">Bezpečnost</span><time>2026-03-01</time></div><h3>Bezpečnost na cestě do Spojeného království — na co pamatovat</h3><p>Před odjezdem je rozumné zkontrolovat aktuální bezpečnostní upozornění a ověřit si, že pas i ETA jsou platné.</p></a></div><a class="textlink xmore" href="/cs/">Všechny novinky <span class="arrow" aria-hidden="true">→</span></a></div></section><section class="section xsec"><div class="container"><span class="eyebrow">Průvodce</span><h2>Užitečné stránky</h2><div class="xcards x3"><a class="xcard xlink xrow" href="/cs/co-je-eta/"><span><h3>Co je UK ETA?</h3><p>Základní informace o systému ETA</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/cs/jak-zadat/"><span><h3>Jak požádat</h3><p>Krok za krokem formulářem</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/cs/cena/"><span><h3>Poplatky za UK ETA</h3><p>Podrobnosti o nákladech</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/cs/platnost/"><span><h3>Doba platnosti</h3><p>Kdy je třeba ETA obnovit</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/cs/potrebne-doklady/"><span><h3>Potřebné doklady</h3><p>Co si připravit před podáním žádosti</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/cs/jak-zadat/"><span><h3>Oficiální stránky GOV.UK</h3><p>Odkaz na stránky úřadu</p></span><span class="xgo" aria-hidden="true">→</span></a></div></div></section><div><section class="finalcta">
+  <div class="bg"><img src="/home/cta-bg.jpg" alt="" width="1600" height="500" loading="lazy" aria-hidden="true"></div>
+  <div class="container">
+    <span class="eyebrow">Připraveni na cestu?</span>
+    <h2>Chystáte se do Spojeného království?</h2>
+    <p>Požádejte o UK ETA a získejte rychlé rozhodnutí.</p>
+    <div class="row"><a class="btn btn--ghost" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">Zahájit žádost o UK ETA <span class="arrow" aria-hidden="true">→</span></a></div>
+  </div>
+</section>
+
+
+</div></div>
+<!--BLOCK-->
+<div class="etahome"><footer class="footer"><div class="container">
+  <a class="brand" href="/cs/">
+    <img src="/home/crown.png" alt="" width="26" height="26">
+    <span><span class="name">UK ETA</span><span class="sub">Elektronické cestovní povolení do Spojeného království</span></span>
+  </a>
+  <nav aria-label="Zápatí">
+    <a href="/cs/o-tomto-pruvodci/">O tomto webu</a><a href="/cs/ochrana-osobnich-udaju/">Ochrana osobních údajů</a><a href="/cs/pravni-informace/">Podmínky užívání</a><a href="/cs/o-tomto-pruvodci/">Kontakt</a>
+  </nav>
+  <p class="note">Tento web není oficiálním webem britské vlády.</p>
+</div></footer>
+
+</div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"lang":"cs","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://eta-se.com/cs/#website\",\"url\":\"https://eta-se.com/cs/\",\"name\":\"Průvodce UK ETA\",\"description\":\"Český průvodce UK ETA: stojí £20, platí 2 roky a umožňuje pobyt až 6 měsíců na jednu cestu. Jak o něj požádat na oficiálních stránkách GOV.UK.\",\"inLanguage\":\"cs\",\"publisher\":{\"@id\":\"https://eta-se.com/cs/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https://eta-se.com/cs/#organization\",\"name\":\"Průvodce UK ETA\",\"url\":\"https://eta-se.com/\",\"logo\":\"https://eta-se.com/logo-uk-eta.png\"}]}"}}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":""}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap","rel":"stylesheet","precedence":"default"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"T-Gb1HPHP2NkMOSanljng"}
+3:["$","$L5",null,{}]
+4:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

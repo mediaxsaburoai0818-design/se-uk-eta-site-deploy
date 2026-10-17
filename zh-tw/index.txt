@@ -1,16 +1,17 @@
 1:"$Sreact.fragment"
-2:I[76587,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
-3:I[50617,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
-4:I[3127,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
-5:I[71131,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
-6:I[48959,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
-7:I[72922,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
-9:I[63554,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"OutletBoundary"]
+2:I[76587,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+3:I[50617,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+4:I[3127,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+5:I[71131,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+6:I[48959,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+7:I[72922,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+9:I[63554,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"OutletBoundary"]
 a:"$Sreact.suspense"
-c:I[63554,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"ViewportBoundary"]
-e:I[63554,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"MetadataBoundary"]
-10:I[31654,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default",1]
-:HL["/_next/static/chunks/0b16~3bqc40nl.css","style"]
+c:I[63554,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"ViewportBoundary"]
+e:I[63554,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"MetadataBoundary"]
+10:I[31654,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default",1]
+:HL["/_next/static/chunks/01mi3939m_b_t.css","style"]
+:HL["/_next/static/chunks/0~foo0ce69dok.css","style"]
 :HL["/_next/static/media/2a65768255d6b625-s.p.14by5b4al-y~f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/57dc28f7118abe14-s.p.0~q417~7alp5b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/70e3db2de7f94926-s.p.0~0iy9faq3424.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -18,15 +19,228 @@ e:I[63554,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_h
 :HL["/_next/static/media/ae8872c8a32e309c-s.p.05txd3dlozf45.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/b49b0d9b851e4899-s.p.0yfy_qj1.2qn0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap","style"]
-0:{"P":null,"c":["","zh-tw",""],"q":"","i":false,"f":[[["",{"children":[["lang","zh-tw","d",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0b16~3bqc40nl.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0qw_am-7qp03n.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/15eih_ht.9_d9.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"sv","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap"}]]}],["$","body",null,{"className":"work_sans_960ee8e1-module__rj2tNa__variable playfair_display_1a3965ef-module__uFa96q__variable playfair_display_fedd1938-module__FumhAa__variable antialiased","children":[["$","$L2",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],{},null,false,null]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lc",null,{"children":"$Ld"}],["$","div",null,{"hidden":true,"children":["$","$Le",null,{"children":["$","$a",null,{"name":"Next.Metadata","children":"$Lf"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$10",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0b16~3bqc40nl.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"liSA_jXBk6FJp8Fyf70iq"}
-11:I[80622,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],""]
-8:["$","div",null,{"lang":"zh-Hant","dir":"$undefined","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://eta-se.com/zh-tw/#website\",\"url\":\"https://eta-se.com/zh-tw/\",\"name\":\"UK ETA 指南\",\"description\":\"台灣護照的 UK ETA 繁體中文指南。官方費用 £20，效期 2 年，每次最多停留 6 個月。申請條件、GOV.UK 官方管道與常見錯誤。\",\"inLanguage\":\"zh-Hant\",\"publisher\":{\"@id\":\"https://eta-se.com/zh-tw/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https://eta-se.com/zh-tw/#organization\",\"name\":\"UK ETA 指南\",\"url\":\"https://eta-se.com/\",\"logo\":\"https://eta-se.com/logo-uk-eta.png\"}]}"}}],["$","section",null,{"className":"sub-hero relative overflow-hidden","children":[["$","div",null,{"className":"absolute inset-0 sub-hero-scrim"}],["$","div",null,{"className":"relative max-w-4xl mx-auto px-6 pt-12 pb-12 md:pt-14 md:pb-16","children":[["$","p",null,{"className":"kicker mb-3 mt-4","children":"繁體中文"}],["$","h1",null,{"className":"deco-head text-3xl md:text-4xl font-bold text-white mb-6","style":{"fontFamily":"var(--font-noto-serif), serif"},"children":[["$","span",null,{"className":"deco-line"}],"英國電子旅行許可，一步一步說明"]}],["$","p",null,{"className":"text-white/90 leading-relaxed","children":"持台灣護照前往英國需要 UK ETA。官方網站費用 £20，通常 1 天內就會有結果，核准後 2 年內可多次前往。⚠️ 但有一個前提：護照上必須載有台灣的國民身分證統一編號。"}]]}]]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-10","children":[["$","div",null,{"className":"grid gap-4 sm:grid-cols-2","children":[["$","$L11","what-is-eta",{"href":"/zh-tw/what-is-eta/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"UK ETA 是什麼"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["UK ETA（Electronic Travel Authorisation）是出發前申請的事前許可。它不取代護照，也不是簽證。","…"]}]]}],["$","$L11","how-to-apply",{"href":"/zh-tw/how-to-apply/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"UK ETA 怎麼申請"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["申請全程線上完成，管道是 GOV.UK 官方網站或官方應用程式。不需要親自跑任何地方。","…"]}]]}],["$","$L11","fee",{"href":"/zh-tw/fee/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"UK ETA 要多少錢"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["官方費用是 £20，只付一次。核准後 2 年內可多次前往英國。","…"]}]]}],["$","$L11","processing-time",{"href":"/zh-tw/processing-time/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"UK ETA 要等多久"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["多數情況下 1 天內就會有結果。不過還是建議預留最多 3 個工作天。","…"]}]]}],["$","$L11","status-check",{"href":"/zh-tw/status-check/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"查詢 UK ETA 的狀態"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["結果會以電子郵件通知。若沒有收到，可以用申請時使用的護照資料查詢狀態。","…"]}]]}],["$","$L11","validity",{"href":"/zh-tw/validity/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"UK ETA 的效期有多久"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["效期為 2 年，若護照較早到期，則以護照為準。","…"]}]]}],["$","$L11","required-documents",{"href":"/zh-tw/required-documents/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"需要準備哪些資料"}],"$L12"]}],"$L13","$L14"]}],"$L15","$L16"]}]]}]
-12:["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["申請很單純：護照、照片與付款方式。不需要提出旅行相關的證明文件。","…"]}]
-13:["$","$L11","stay-duration",{"href":"/zh-tw/stay-duration/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"可以停留多久"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["每次旅行最多可在英國停留 6 個月。許可涵蓋觀光、探親訪友、商務訪問與轉機。","…"]}]]}]
-14:["$","$L11","faq",{"href":"/zh-tw/faq/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"UK ETA 常見問題"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["以下是最常被問到的問題的簡短回答。各項都有完整說明可以延伸閱讀。","…"]}]]}]
-15:["$","div",null,{"className":"mt-10 p-5 bg-stone-50 border border-stone-200 rounded-lg","children":[["$","p",null,{"className":"text-sm text-stone-700 mb-3","children":"£20 · 2 · 6"}],["$","a",null,{"href":"https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta","target":"_blank","rel":"noopener noreferrer","className":"inline-block bg-stone-900 text-white px-6 py-2.5 rounded-full text-sm font-medium","children":"前往 GOV.UK 官方網站申請"}]]}]
-16:["$","nav",null,{"className":"mt-10 flex flex-wrap gap-4 text-sm text-stone-600","children":[["$","$L11",null,{"href":"/zh-tw/about/","className":"underline","children":"關於本指南"}],["$","$L11",null,{"href":"/zh-tw/privacy/","className":"underline","children":"隱私權政策"}],["$","$L11",null,{"href":"/zh-tw/terms/","className":"underline","children":"使用條款"}]]}]
+0:{"P":null,"c":["","zh-tw",""],"q":"","i":false,"f":[[["",{"children":[["lang","zh-tw","d",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/01mi3939m_b_t.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0~foo0ce69dok.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0881spmj3vb_b.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/15eih_ht.9_d9.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"sv","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap"}]]}],["$","body",null,{"className":"work_sans_960ee8e1-module__rj2tNa__variable playfair_display_1a3965ef-module__uFa96q__variable playfair_display_fedd1938-module__FumhAa__variable antialiased","children":[["$","$L2",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],{},null,false,null]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lc",null,{"children":"$Ld"}],["$","div",null,{"hidden":true,"children":["$","$Le",null,{"children":["$","$a",null,{"name":"Next.Metadata","children":"$Lf"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$10",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/01mi3939m_b_t.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0~foo0ce69dok.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"T-Gb1HPHP2NkMOSanljng"}
+11:T51f4,<div class="etahome">
+
+
+<div class="trustbar"><div class="container">
+  <span>關於 UK ETA 的獨立資訊網站，與英國政府並無關聯。</span>
+  <span>官方資訊： <a href="https://www.gov.uk/electronic-travel-authorisation" rel="nofollow noopener" target="_blank">GOV.UK ↗</a></span>
+</div></div>
+
+
+<header class="header"><div class="container">
+  <a class="brand" href="/zh-tw/">
+    <img src="/home/crown-navy.png" alt="" width="44" height="44">
+    <span>
+      <span class="name">UK ETA</span>
+      <span class="sub">英國電子旅行許可</span>
+    </span>
+  </a>
+  <nav class="nav" aria-label="主選單">
+    <a href="/zh-tw/what-is-eta/">概要</a>
+    <a href="/zh-tw/what-is-eta/">誰需要申請？</a>
+    <a href="/zh-tw/how-to-apply/">如何申請？</a>
+    <a href="/zh-tw/required-documents/">申請條件</a>
+    <a href="/zh-tw/stay-duration/">前往英國</a>
+    <a href="/zh-tw/faq/">常見問題</a>
+    <a href="/zh-tw/">最新消息</a>
+  </nav>
+  <div class="spacer"></div>
+  <div class="tools">
+    <details class="langmenu"><summary class="lang" aria-label="切換語言">繁中 <span aria-hidden="true">⌄</span></summary><ul><li><a href="/" hreflang="sv" lang="sv">Svenska</a></li><li><a href="/en/" hreflang="en" lang="en">English</a></li><li><a href="/de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="/fr/" hreflang="fr" lang="fr">Français</a></li><li><a href="/it/" hreflang="it" lang="it">Italiano</a></li><li><a href="/es/" hreflang="es" lang="es">Español</a></li><li><a href="/nl/" hreflang="nl" lang="nl">Nederlands</a></li><li><a href="/pt/" hreflang="pt" lang="pt">Português</a></li><li><a href="/da/" hreflang="da" lang="da">Dansk</a></li><li><a href="/no/" hreflang="no" lang="no">Norsk</a></li><li><a href="/fi/" hreflang="fi" lang="fi">Suomi</a></li><li><a href="/cs/" hreflang="cs" lang="cs">Čeština</a></li><li><a href="/hu/" hreflang="hu" lang="hu">Magyar</a></li><li><a href="/ro/" hreflang="ro" lang="ro">Română</a></li><li><a href="/el/" hreflang="el" lang="el">Ελληνικά</a></li><li><a href="/he/" hreflang="he" lang="he">עברית</a></li><li><a href="/ko/" hreflang="ko" lang="ko">한국어</a></li><li><a href="/zh-tw/" hreflang="zh-tw" lang="zh-tw">繁體中文</a></li><li><a href="/zh-cn/" hreflang="zh-cn" lang="zh-cn">简体中文</a></li></ul></details>
+    <a class="iconbtn" href="/zh-tw/" aria-label="網站地圖">
+      <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+    </a>
+    <button class="iconbtn burger" type="button" aria-label="選單" aria-expanded="false" aria-controls="nav">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+    </button>
+    <a class="btn" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">申請 UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+</div></header></div>
+<!--BLOCK-->
+<div class="etahome"><div>
+
+
+<section class="hero">
+  <div class="hero-media">
+    <img src="/home/hero-westminster.jpg" alt="倫敦泰晤士河畔的西敏宮與大笨鐘" width="2121" height="900" fetchpriority="high">
+  </div>
+  <div class="container">
+    <div class="hero-inner">
+      <span class="hero-pill">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" style="color:#062F55"><path d="M21 16v-2l-8-5V3.5a1.5 1.5 0 0 0-3 0V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L13 19v-5.5z"/></svg>
+        <span>給台灣旅客的 UK ETA 資訊</span>
+      </span>
+      <h1>UK ETA<span class="sub">英國電子旅行許可</span></h1>
+      <p class="lead">持台灣護照前往英國短期停留需要 UK ETA，前提是護照上載有國民身分證統一編號。</p>
+      <div class="hero-actions">
+        <a class="btn" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">申請 UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+        <a class="textlink" href="#oversikt">進一步了解 UK ETA <span aria-hidden="true">↓</span></a>
+      </div>
+    </div>
+  </div>
+  <div class="hero-script" aria-hidden="true">Explore<br><span>the UK</span></div>
+  <a class="hero-card" href="/zh-tw/what-is-eta/" style="text-decoration:none">
+    <p>英格蘭、蘇格蘭、威爾斯與北愛爾蘭</p>
+    <span class="round" aria-hidden="true">→</span>
+  </a>
+</section>
+
+
+<div class="keyfacts"><div class="container"><div class="panel">
+  <div class="cell">
+    <img src="/home/fact-fee.png" alt="" width="30" height="30">
+    <span><span class="v">£20</span><span class="k">申請費用</span></span>
+  </div>
+  <div class="cell">
+    <img src="/home/fact-time.png" alt="" width="30" height="30">
+    <span><span class="v">數分鐘</span><span class="k">多數申請可自動取得結果</span></span>
+  </div>
+  <div class="cell">
+    <img src="/home/fact-valid.png" alt="" width="30" height="30">
+    <span><span class="v">2 年</span><span class="k">效期</span></span>
+  </div>
+</div></div></div>
+
+
+<section class="section"><div class="container two-col">
+  <article class="block" id="oversikt">
+    <div class="body">
+      <span class="eyebrow">概要</span>
+      <h2>UK ETA 是什麼？</h2>
+      <p>UK ETA（Electronic Travel Authorisation）是電子旅行許可，持台灣護照以觀光、商務、短期進修或轉機目的前往英國時需要申請。</p>
+      <a class="textlink" href="/zh-tw/what-is-eta/">進一步了解 UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+    </div>
+    <div class="visual"><img src="/home/union-jack.jpg" alt="藍天下的英國國旗" width="1200" height="840" loading="lazy"></div>
+  </article>
+
+  <article class="block" id="vem">
+    <div class="body">
+      <span class="eyebrow">誰需要申請？</span>
+      <h2>誰需要 UK ETA？</h2>
+      <p>護照上載有國民身分證統一編號的台灣旅客，前往英國（包括英格蘭、蘇格蘭、威爾斯與北愛爾蘭）短期停留時需要 UK ETA。護照上沒有這個號碼者須改辦簽證。</p>
+      <a class="textlink" href="/zh-tw/what-is-eta/">確認您是否需要 UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+    </div>
+    <div class="visual map"><div class="map-wrap">
+      <img src="/home/uk-map.png" alt="標示英格蘭、蘇格蘭、威爾斯與北愛爾蘭的英國地圖" width="672" height="900" loading="lazy">
+      <span class="ml ml-sc">Scotland</span>
+      <span class="ml ml-ni">Northern<br>Ireland</span>
+      <span class="ml ml-ie">Ireland</span>
+      <span class="ml ml-wa">Wales</span>
+      <span class="ml ml-en">England</span>
+    </div></div>
+  </article>
+</div></section>
+
+
+<section class="band"><div class="container cols">
+  <div id="krav">
+    <span class="eyebrow">申請條件</span>
+    <h2>需要準備的項目</h2>
+    <p class="muted" style="margin-top:8px;font-size:14.5px">申請 UK ETA 需要準備以下項目：</p>
+    <div class="req-grid">
+      <div class="req-card"><img src="/home/req-passport.png" alt="" width="34" height="34"><div class="num">1</div><div class="t">有效護照</div><div class="d">拍攝或掃描護照的照片頁。</div></div>
+      <div class="req-card"><img src="/home/req-photo.png" alt="" width="34" height="34"><div class="num">2</div><div class="t">臉部照片</div><div class="d">一張清楚的臉部照片。</div></div>
+      <div class="req-card"><img src="/home/req-email.png" alt="" width="34" height="34"><div class="num">3</div><div class="t">電子郵件地址</div><div class="d">用來接收審核結果。</div></div>
+      <div class="req-card"><img src="/home/req-card.png" alt="" width="34" height="34"><div class="num">4</div><div class="t">付款用卡片</div><div class="d">用來支付申請費用（£20）。</div></div>
+    </div>
+  </div>
+
+  <div id="ansokan">
+    <span class="eyebrow">申請</span>
+    <h2>申請方式</h2>
+    <p class="muted" style="margin-top:8px;font-size:14.5px">透過官方 UK ETA 應用程式申請。</p>
+    <div class="app-wrap">
+      <div>
+        <div class="steps">
+          <div class="step"><div class="circle">01</div><div class="d">下載 UK ETA 應用程式</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">02</div><div class="d">掃描護照並拍攝臉部照片</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">03</div><div class="d">填寫表格並付款（£20）</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">04</div><div class="d">等待核准</div></div>
+        </div>
+        <a class="textlink" href="/zh-tw/how-to-apply/" style="margin-top:20px">查看詳細的申請步驟 <span class="arrow" aria-hidden="true">→</span></a>
+      </div>
+      <img class="phone" src="/home/phone-mock.png" alt="手機上顯示的 UK ETA 應用程式" width="760" height="1497" loading="lazy">
+    </div>
+  </div>
+</div></section>
+
+
+<section class="section lower"><div class="container lower-grid">
+  <div class="lower-main">
+    <div class="row-travel">
+  <div id="resa">
+    <span class="eyebrow">前往英國</span>
+    <h2>前往英國</h2>
+    <p>UK ETA 適用於前往英格蘭、蘇格蘭、威爾斯與北愛爾蘭的旅行，不包括愛爾蘭。轉機時同樣適用，是否需要取決於您是留在管制區內（airside）還是通過入境審查（landside）。</p>
+    <a class="textlink" href="/zh-tw/stay-duration/">進一步了解入境規定 <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+
+  <div class="photo-cards">
+    <a class="photo-card" href="/zh-tw/stay-duration/">
+      <img src="/home/airside.jpg" alt="黃昏時分的機場出境大廳" width="800" height="600" loading="lazy">
+      <span class="cap"><span class="t">管制區內轉機（airside）</span><span class="d">通常不需要 UK ETA。</span></span>
+      <span class="go" aria-hidden="true">→</span>
+    </a>
+    <a class="photo-card" href="/zh-tw/stay-duration/">
+      <img src="/home/landside.jpg" alt="有旅客往來的機場入境大廳" width="800" height="600" loading="lazy">
+      <span class="cap"><span class="t">入境轉機（landside）</span><span class="d">需要 UK ETA。</span></span>
+      <span class="go" aria-hidden="true">→</span>
+    </a>
+  </div>
+
+    </div>
+    <div class="row-sv">
+  <div>
+    <span class="eyebrow">台灣旅客的 UK ETA</span>
+    <h2>台灣旅客的 UK ETA</h2>
+    <p>整理台灣護照持有人需要注意的事項，包括效期、適用的旅行類型與常見問題。</p>
+    <a class="textlink" href="#svenska">查看台灣旅客須知 <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+  <img src="/home/city-taipei.jpg" alt="" width="1200" height="600" loading="lazy">
+</div>
+  </div>
+  <aside class="ql">
+    <span class="eyebrow">快速連結</span>
+    <div class="ql-item"><img src="/home/ql-faq.png" alt="" width="26" height="26"><span><span class="t">常見問題</span><br><a class="textlink" href="/zh-tw/faq/">查看常見問題 <span aria-hidden="true">→</span></a></span></div>
+    <div class="ql-item"><img src="/home/ql-news.png" alt="" width="26" height="26"><span><span class="t">最新消息</span><br><a class="textlink" href="/zh-tw/">查看最新消息 <span aria-hidden="true">→</span></a></span></div>
+    <div class="ql-item"><img src="/home/ql-links.png" alt="" width="26" height="26"><span><span class="t">實用頁面</span><br><a class="textlink" href="/zh-tw/">查看實用頁面 <span aria-hidden="true">→</span></a></span></div>
+  </aside>
+</div></section>
+
+
+</div><section class="band xsec"><div class="container"><span class="eyebrow">效期與申請時機</span><h2>ETA 的效期與申請時機</h2><p class="xlead">何時申請，以及 ETA 的有效期間。</p><div class="xcards x2"><div class="xcard"><h3>效期</h3><p>ETA 自核發日起 <strong>2 年內</strong> 有效，期間可多次入境英國。若護照在 2 年內到期，ETA 會與護照同時失效。這種情況請先換發護照，再申請 ETA。</p></div><div class="xcard"><h3>何時申請</h3><p>多數申請人透過 UK ETA 應用程式， <strong>數分鐘內</strong> 即可自動取得結果。少數申請可能需要進一步審查，請至少在出發前 3 個工作天申請。核准後會收到確認電子郵件；入境時通常不需要出示 ETA 號碼，但建議保存確認內容（截圖或列印）。</p></div></div></div></section><section class="section xsec"><div class="container"><span class="eyebrow">轉機</span><h2>經英國轉機</h2><p class="xlead">轉機時是否需要 ETA，取決於轉機的方式。</p><div class="xcards x2"><div class="xcard"><span class="eyebrow">航空轉機（airside）</span><h3>原則上不需要 ETA</h3><p>若不通過英國入境審查、全程留在機場的轉機管制區內，通常不需要 ETA。但若離開管制區（例如過夜或到另一座機場轉機），則需要 ETA。</p></div><div class="xcard"><span class="eyebrow">入境轉機（landside）</span><h3>原則上需要 ETA</h3><p>若需通過英國入境審查，例如搭乘歐洲之星（穿越英吉利海峽的列車）或渡輪，原則上需要 ETA。</p></div></div></div></section><section id="svenska" class="band xsec"><div class="container"><span class="eyebrow">台灣旅客</span><h2>台灣旅客的 UK ETA</h2><p class="xlead">持載有國民身分證統一編號的台灣護照，可免簽證前往英國停留最多 6 個月。不過自 2025 年 1 月 8 日起，每次出發前都必須持有有效的 UK ETA，度假、商務、探親與轉機都適用。</p><div class="xcards x4"><div class="xcard"><h3>誰需要 ETA</h3><p>所有前往英國短期停留的台灣旅客，包括兒童與嬰兒。每個人都要各自申請。</p></div><div class="xcard"><h3>護照須載有身分證統一編號</h3><p>台灣護照可以申請 UK ETA 的條件，是護照上載有國民身分證統一編號。沒有記載者在英國規定上會被視為需要簽證，必須改辦簽證。ETA 與申請時使用的護照綁定。</p></div><div class="xcard"><h3>熱門目的地</h3><p>倫敦、曼徹斯特、愛丁堡、伯明罕等城市。一份 ETA 即涵蓋英格蘭、蘇格蘭、威爾斯與北愛爾蘭。</p></div><div class="xcard"><h3>何時申請</h3><p>至少在出發前 3 個工作天申請。多數申請會在數分鐘內自動取得結果，但少數申請可能需要進一步審查。</p></div></div></div></section><section id="faq" class="section xsec"><div class="container xnarrow"><span class="eyebrow">常見問題</span><h2>常見問題</h2><div class="xfaq"><details><summary><span>台灣旅客需要 UK ETA 嗎？</span><span class="xplus" aria-hidden="true">+</span></summary><p>需要。自 2025 年 1 月 8 日起，持載有國民身分證統一編號的台灣護照前往英國前，必須先取得 UK ETA。觀光、商務與轉機都適用。</p></details><details><summary><span>UK ETA 要多少錢？效期多久？</span><span class="xplus" aria-hidden="true">+</span></summary><p>UK ETA 的費用為 £20。許可自核發日起 2 年內有效，期間可多次入境英國，每次最多停留 6 個月。</p></details><details><summary><span>UK ETA 與簽證有什麼不同？</span><span class="xplus" aria-hidden="true">+</span></summary><p>UK ETA 是適用於短期停留（最多 6 個月）的簡化電子許可，費用 £20，線上即可申請。英國簽證則須前往簽證申請中心，費用較高，並可能允許較長期的停留或工作。</p></details><details><summary><span>兒童也需要 UK ETA 嗎？</span><span class="xplus" aria-hidden="true">+</span></summary><p>需要。無論年齡，每位旅客都必須有自己的 UK ETA，嬰兒與兒童也不例外。父母或監護人可以用孩子的護照代為申請。</p></details><details><summary><span>所有台灣護照都可以申請嗎？</span><span class="xplus" aria-hidden="true">+</span></summary><p>護照上載有國民身分證統一編號者才可以申請。沒有記載的話，在英國規定上會被視為需要簽證，必須改辦簽證。出發前請先翻開護照資料頁確認。</p></details><details><summary><span>經英國轉機需要 ETA 嗎？</span><span class="xplus" aria-hidden="true">+</span></summary><p>若轉機時需通過入境審查（例如更換航廈或提領行李），就需要 UK ETA。不通過入境審查的轉機（airside）通常不需要，但仍建議向航空公司與機場確認相關規定。</p></details></div><a class="textlink xmore" href="/zh-tw/faq/">查看所有常見問題 <span class="arrow" aria-hidden="true">→</span></a></div></section><section id="nyheter" class="band xsec"><div class="container"><span class="eyebrow">最新消息</span><h2>最新消息</h2><p class="xlead">關於 UK ETA、費用與英國入境規定的重要消息。</p><div class="xcards x3"><a class="xcard xlink" href="/zh-tw/fee/"><div class="xmeta"><span class="xtag" style="background-color:#8d1812;color:#ffffff">入境與旅行</span><time>2026-04-08</time></div><h3>英國自 2026 年 4 月起調漲移民相關費用</h3><p>自 2026 年 4 月 8 日起，除了 ETA 之外，英國內政部（Home Office）的其他費用也一併調漲，包括入境簽證、定居與入籍等。</p></a><a class="xcard xlink" href="/zh-tw/fee/"><div class="xmeta"><span class="xtag" style="background-color:#C5A24A;color:#1c1505">費用</span><time>2026-04-08</time></div><h3>UK ETA 費用調漲為 £20（自 2026 年 4 月 8 日起）</h3><p>自 2026 年 4 月 8 日起，UK ETA 的費用由原本的 £16 調整為 £20（漲幅 25%），以申請日期為準。</p></a><a class="xcard xlink" href="/zh-tw/validity/"><div class="xmeta"><span class="xtag" style="background-color:#44403c;color:#ffffff">旅行安全</span><time>2026-03-01</time></div><h3>前往英國的旅行安全注意事項</h3><p>出發前建議確認最新的安全資訊，並確認護照與 ETA 都在有效期間內。</p></a></div><a class="textlink xmore" href="/zh-tw/">查看所有消息 <span class="arrow" aria-hidden="true">→</span></a></div></section><section class="section xsec"><div class="container"><span class="eyebrow">指南</span><h2>實用頁面</h2><div class="xcards x3"><a class="xcard xlink xrow" href="/zh-tw/what-is-eta/"><span><h3>UK ETA 是什麼？</h3><p>ETA 制度的基本資訊</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/zh-tw/how-to-apply/"><span><h3>申請方式</h3><p>逐步說明表格填寫</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/zh-tw/fee/"><span><h3>UK ETA 的費用</h3><p>費用的詳細說明</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/zh-tw/validity/"><span><h3>效期</h3><p>何時需要重新申請 ETA</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/zh-tw/required-documents/"><span><h3>所需文件</h3><p>申請前需要準備的項目</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/zh-tw/how-to-apply/"><span><h3>GOV.UK 官方網站</h3><p>前往政府官方頁面</p></span><span class="xgo" aria-hidden="true">→</span></a></div></div></section><div><section class="finalcta">
+  <div class="bg"><img src="/home/cta-bg.jpg" alt="" width="1600" height="500" loading="lazy" aria-hidden="true"></div>
+  <div class="container">
+    <span class="eyebrow">準備出發了嗎？</span>
+    <h2>準備好前往英國了嗎？</h2>
+    <p>申請 UK ETA，快速取得結果。</p>
+    <div class="row"><a class="btn btn--ghost" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">開始申請 UK ETA <span class="arrow" aria-hidden="true">→</span></a></div>
+  </div>
+</section>
+
+
+</div></div>
+<!--BLOCK-->
+<div class="etahome"><footer class="footer"><div class="container">
+  <a class="brand" href="/zh-tw/">
+    <img src="/home/crown.png" alt="" width="26" height="26">
+    <span><span class="name">UK ETA</span><span class="sub">英國電子旅行許可</span></span>
+  </a>
+  <nav aria-label="頁尾">
+    <a href="/zh-tw/about/">關於本網站</a><a href="/zh-tw/privacy/">隱私權政策</a><a href="/zh-tw/terms/">使用條款</a><a href="/zh-tw/about/">聯絡我們</a>
+  </nav>
+  <p class="note">本網站並非英國政府的官方網站。</p>
+</div></footer>
+
+</div>8:["$","div",null,{"lang":"zh-Hant","dir":"$undefined","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://eta-se.com/zh-tw/#website\",\"url\":\"https://eta-se.com/zh-tw/\",\"name\":\"UK ETA 指南\",\"description\":\"台灣護照的 UK ETA 繁體中文指南。官方費用 £20，效期 2 年，每次最多停留 6 個月。申請條件、GOV.UK 官方管道與常見錯誤。\",\"inLanguage\":\"zh-Hant\",\"publisher\":{\"@id\":\"https://eta-se.com/zh-tw/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https://eta-se.com/zh-tw/#organization\",\"name\":\"UK ETA 指南\",\"url\":\"https://eta-se.com/\",\"logo\":\"https://eta-se.com/logo-uk-eta.png\"}]}"}}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":""}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap","rel":"stylesheet","precedence":"default"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$11"}}],"$L12"]}]
+13:I[61574,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+12:["$","$L13",null,{}]
 d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-17:I[61352,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"IconMark"]
+14:I[61352,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"IconMark"]
 b:null
-f:[["$","title","0",{"children":"UK ETA：£20、通常 1 天內有結果｜台灣護照適用指南 2026 | UK ETA 指南"}],["$","meta","1",{"name":"description","content":"台灣護照的 UK ETA 繁體中文指南。官方費用 £20，效期 2 年，每次最多停留 6 個月。申請條件、GOV.UK 官方管道與常見錯誤。"}],["$","meta","2",{"name":"keywords","content":"UK ETA, UK ETA 2026, Storbritannien, reseauktorisering, Electronic Travel Authorisation, ETA-ansökan, Sverige, avgift £20"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://eta-se.com/zh-tw/"}],["$","meta","5",{"property":"og:title","content":"UK ETA：£20、通常 1 天內有結果｜台灣護照適用指南 2026"}],["$","meta","6",{"property":"og:description","content":"台灣護照的 UK ETA 繁體中文指南。官方費用 £20，效期 2 年，每次最多停留 6 個月。申請條件、GOV.UK 官方管道與常見錯誤。"}],["$","meta","7",{"property":"og:site_name","content":"UK ETA 指南"}],["$","meta","8",{"property":"og:locale","content":"zh_Hant"}],["$","meta","9",{"property":"og:image","content":"https://eta-se.com/og-image.jpg"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"UK ETA 指南"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"UK ETA：£20、通常 1 天內有結果｜台灣護照適用指南 2026"}],["$","meta","16",{"name":"twitter:description","content":"台灣護照的 UK ETA 繁體中文指南。官方費用 £20，效期 2 年，每次最多停留 6 個月。申請條件、GOV.UK 官方管道與常見錯誤。"}],["$","meta","17",{"name":"twitter:image","content":"https://eta-se.com/og-image.jpg"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.0v_gq8cr8iscb.png","sizes":"256x256","type":"image/png"}],["$","link","19",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.147.6d2c-k_4-.png","sizes":"256x256","type":"image/png"}],["$","$L17","20",{}]]
+f:[["$","title","0",{"children":"UK ETA：£20、通常 1 天內有結果｜台灣護照適用指南 2026 | UK ETA 指南"}],["$","meta","1",{"name":"description","content":"台灣護照的 UK ETA 繁體中文指南。官方費用 £20，效期 2 年，每次最多停留 6 個月。申請條件、GOV.UK 官方管道與常見錯誤。"}],["$","meta","2",{"name":"keywords","content":"UK ETA, UK ETA 2026, Storbritannien, reseauktorisering, Electronic Travel Authorisation, ETA-ansökan, Sverige, avgift £20"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://eta-se.com/zh-tw/"}],["$","meta","5",{"property":"og:title","content":"UK ETA：£20、通常 1 天內有結果｜台灣護照適用指南 2026"}],["$","meta","6",{"property":"og:description","content":"台灣護照的 UK ETA 繁體中文指南。官方費用 £20，效期 2 年，每次最多停留 6 個月。申請條件、GOV.UK 官方管道與常見錯誤。"}],["$","meta","7",{"property":"og:site_name","content":"UK ETA 指南"}],["$","meta","8",{"property":"og:locale","content":"zh_Hant"}],["$","meta","9",{"property":"og:image","content":"https://eta-se.com/og-image.jpg"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"UK ETA 指南"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"UK ETA：£20、通常 1 天內有結果｜台灣護照適用指南 2026"}],["$","meta","16",{"name":"twitter:description","content":"台灣護照的 UK ETA 繁體中文指南。官方費用 £20，效期 2 年，每次最多停留 6 個月。申請條件、GOV.UK 官方管道與常見錯誤。"}],["$","meta","17",{"name":"twitter:image","content":"https://eta-se.com/og-image.jpg"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.0v_gq8cr8iscb.png","sizes":"256x256","type":"image/png"}],["$","link","19",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.147.6d2c-k_4-.png","sizes":"256x256","type":"image/png"}],["$","$L14","20",{}]]

@@ -1,16 +1,17 @@
 1:"$Sreact.fragment"
-2:I[76587,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
-3:I[50617,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
-4:I[3127,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
-5:I[71131,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
-6:I[48959,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
-7:I[72922,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
-9:I[63554,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"OutletBoundary"]
+2:I[76587,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+3:I[50617,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+4:I[3127,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+5:I[71131,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+6:I[48959,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+7:I[72922,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+9:I[63554,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"OutletBoundary"]
 a:"$Sreact.suspense"
-c:I[63554,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"ViewportBoundary"]
-e:I[63554,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"MetadataBoundary"]
-10:I[31654,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default",1]
-:HL["/_next/static/chunks/0b16~3bqc40nl.css","style"]
+c:I[63554,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"ViewportBoundary"]
+e:I[63554,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"MetadataBoundary"]
+10:I[31654,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default",1]
+:HL["/_next/static/chunks/01mi3939m_b_t.css","style"]
+:HL["/_next/static/chunks/0~foo0ce69dok.css","style"]
 :HL["/_next/static/media/2a65768255d6b625-s.p.14by5b4al-y~f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/57dc28f7118abe14-s.p.0~q417~7alp5b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/70e3db2de7f94926-s.p.0~0iy9faq3424.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -18,16 +19,229 @@ e:I[63554,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_h
 :HL["/_next/static/media/ae8872c8a32e309c-s.p.05txd3dlozf45.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/b49b0d9b851e4899-s.p.0yfy_qj1.2qn0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap","style"]
-0:{"P":null,"c":["","fi",""],"q":"","i":false,"f":[[["",{"children":[["lang","fi","d",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0b16~3bqc40nl.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0qw_am-7qp03n.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/15eih_ht.9_d9.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"sv","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap"}]]}],["$","body",null,{"className":"work_sans_960ee8e1-module__rj2tNa__variable playfair_display_1a3965ef-module__uFa96q__variable playfair_display_fedd1938-module__FumhAa__variable antialiased","children":[["$","$L2",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],{},null,false,null]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lc",null,{"children":"$Ld"}],["$","div",null,{"hidden":true,"children":["$","$Le",null,{"children":["$","$a",null,{"name":"Next.Metadata","children":"$Lf"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$10",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0b16~3bqc40nl.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"liSA_jXBk6FJp8Fyf70iq"}
-11:I[80622,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],""]
-8:["$","div",null,{"lang":"fi","dir":"$undefined","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://eta-se.com/fi/#website\",\"url\":\"https://eta-se.com/fi/\",\"name\":\"UK ETA -opas\",\"description\":\"Suomenkielinen opas UK ETA -lupaan: se maksaa £20, on voimassa 2 vuotta ja sallii enintään 6 kuukauden oleskelun matkaa kohden. Näin haet sen GOV.UK:sta.\",\"inLanguage\":\"fi\",\"publisher\":{\"@id\":\"https://eta-se.com/fi/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https://eta-se.com/fi/#organization\",\"name\":\"UK ETA -opas\",\"url\":\"https://eta-se.com/\",\"logo\":\"https://eta-se.com/logo-uk-eta.png\"}]}"}}],["$","section",null,{"className":"sub-hero relative overflow-hidden","children":[["$","div",null,{"className":"absolute inset-0 sub-hero-scrim"}],["$","div",null,{"className":"relative max-w-4xl mx-auto px-6 pt-12 pb-12 md:pt-14 md:pb-16","children":[["$","p",null,{"className":"kicker mb-3 mt-4","children":"Suomi"}],["$","h1",null,{"className":"deco-head text-3xl md:text-4xl font-bold text-white mb-6","style":{"fontFamily":"var(--font-noto-serif), serif"},"children":[["$","span",null,{"className":"deco-line"}],"Matkustuslupa Yhdistyneeseen kuningaskuntaan, vaihe vaiheelta"]}],["$","p",null,{"className":"text-white/90 leading-relaxed","children":"Yhdistyneeseen kuningaskuntaan matkustaessasi tarvitset UK ETA -luvan. Se maksaa virallisilla sivuilla £20, vastaus tulee yleensä vuorokaudessa ja lupa on voimassa 2 vuotta useita matkoja varten."}]]}]]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-10","children":[["$","div",null,{"className":"grid gap-4 sm:grid-cols-2","children":[["$","$L11","mika-on-eta",{"href":"/fi/mika-on-eta/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Mikä on UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["UK ETA (Electronic Travel Authorisation) haetaan ennen matkaa. Se ei korvaa passia eikä ole viis","…"]}]]}],["$","$L11","nain-haet",{"href":"/fi/nain-haet/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Näin haet UK ETA -luvan"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Hakemus tehdään kokonaan verkossa, joko GOV.UK:n virallisilla sivuilla tai virallisessa sovelluk","…"]}]]}],["$","$L11","hinta",{"href":"/fi/hinta/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Paljonko UK ETA maksaa"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Virallinen hinta on £20 ja maksat sen kerran. Sen jälkeen lupa on voimassa 2 vuotta useita matko","…"]}]]}],["$","$L11","kasittelyaika",{"href":"/fi/kasittelyaika/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Kuinka kauan UK ETA kestää"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Useimmissa tapauksissa vastaus tulee vuorokaudessa. Silti kannattaa varautua enintään 3 arkipäiv","…"]}]]}],["$","$L11","tilan-tarkistus",{"href":"/fi/tilan-tarkistus/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"UK ETA:n tilan tarkistaminen"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Päätös ilmoitetaan sähköpostitse. Jos viestiä ei ole tullut, voit tarkistaa tilan sen passin tie","…"]}]]}],"$L12","$L13","$L14","$L15"]}],"$L16","$L17"]}]]}]
-12:["$","$L11","voimassaolo",{"href":"/fi/voimassaolo/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Kuinka kauan UK ETA on voimassa"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Lupa on voimassa 2 vuotta — tai kunnes passi vanhenee, jos se tapahtuu aiemmin.","…"]}]]}]
-13:["$","$L11","tarvittavat-asiakirjat",{"href":"/fi/tarvittavat-asiakirjat/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Mitä asiakirjoja tarvitset"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Hakemus on yksinkertainen: passi, kuva ja maksuväline. Matkatodistuksia tai selvityksiä ei tarvi","…"]}]]}]
-14:["$","$L11","oleskelun-kesto",{"href":"/fi/oleskelun-kesto/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Kuinka kauan voit jäädä"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Yhtä matkaa kohden voit oleskella Yhdistyneessä kuningaskunnassa enintään 6 kuukautta. Lupa katt","…"]}]]}]
-15:["$","$L11","usein-kysytyt-kysymykset",{"href":"/fi/usein-kysytyt-kysymykset/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Usein kysytyt kysymykset UK ETA:sta"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Lyhyet vastaukset yleisimpiin kysymyksiin. Jokainen kohta viittaa täydelliseen selitykseen.","…"]}]]}]
-16:["$","div",null,{"className":"mt-10 p-5 bg-stone-50 border border-stone-200 rounded-lg","children":[["$","p",null,{"className":"text-sm text-stone-700 mb-3","children":"£20 · 2 · 6"}],["$","a",null,{"href":"https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta","target":"_blank","rel":"noopener noreferrer","className":"inline-block bg-stone-900 text-white px-6 py-2.5 rounded-full text-sm font-medium","children":"Hae GOV.UK:n virallisilta sivuilta"}]]}]
-17:["$","nav",null,{"className":"mt-10 flex flex-wrap gap-4 text-sm text-stone-600","children":[["$","$L11",null,{"href":"/fi/tietoa-oppaasta/","className":"underline","children":"Tietoa tästä oppaasta"}],["$","$L11",null,{"href":"/fi/tietosuoja/","className":"underline","children":"Tietosuojaseloste"}],["$","$L11",null,{"href":"/fi/oikeudelliset-tiedot/","className":"underline","children":"Oikeudelliset tiedot"}]]}]
+0:{"P":null,"c":["","fi",""],"q":"","i":false,"f":[[["",{"children":[["lang","fi","d",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/01mi3939m_b_t.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0~foo0ce69dok.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0881spmj3vb_b.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/15eih_ht.9_d9.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"sv","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap"}]]}],["$","body",null,{"className":"work_sans_960ee8e1-module__rj2tNa__variable playfair_display_1a3965ef-module__uFa96q__variable playfair_display_fedd1938-module__FumhAa__variable antialiased","children":[["$","$L2",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],{},null,false,null]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lc",null,{"children":"$Ld"}],["$","div",null,{"hidden":true,"children":["$","$Le",null,{"children":["$","$a",null,{"name":"Next.Metadata","children":"$Lf"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$10",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/01mi3939m_b_t.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0~foo0ce69dok.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"T-Gb1HPHP2NkMOSanljng"}
+11:T5875,<div class="etahome">
+
+
+<div class="trustbar"><div class="container">
+  <span>Riippumaton UK ETA -tietosivusto. Emme ole yhteydessä Yhdistyneen kuningaskunnan hallitukseen.</span>
+  <span>Viralliset tiedot: <a href="https://www.gov.uk/electronic-travel-authorisation" rel="nofollow noopener" target="_blank">GOV.UK ↗</a></span>
+</div></div>
+
+
+<header class="header"><div class="container">
+  <a class="brand" href="/fi/">
+    <img src="/home/crown-navy.png" alt="" width="44" height="44">
+    <span>
+      <span class="name">UK ETA</span>
+      <span class="sub">Sähköinen matkustuslupa Yhdistyneeseen kuningaskuntaan</span>
+    </span>
+  </a>
+  <nav class="nav" aria-label="Päävalikko">
+    <a href="/fi/mika-on-eta/">Yleiskatsaus</a>
+    <a href="/fi/mika-on-eta/">Kuka tarvitsee?</a>
+    <a href="/fi/nain-haet/">Näin haet</a>
+    <a href="/fi/tarvittavat-asiakirjat/">Vaatimukset</a>
+    <a href="/fi/oleskelun-kesto/">Matka Britanniaan</a>
+    <a href="/fi/usein-kysytyt-kysymykset/">UKK</a>
+    <a href="/fi/#nyheter">Uutiset</a>
+  </nav>
+  <div class="spacer"></div>
+  <div class="tools">
+    <details class="langmenu"><summary class="lang" aria-label="Vaihda kieltä">FI <span aria-hidden="true">⌄</span></summary><ul><li><a href="/" hreflang="sv" lang="sv">Svenska</a></li><li><a href="/en/" hreflang="en" lang="en">English</a></li><li><a href="/de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="/fr/" hreflang="fr" lang="fr">Français</a></li><li><a href="/it/" hreflang="it" lang="it">Italiano</a></li><li><a href="/es/" hreflang="es" lang="es">Español</a></li><li><a href="/nl/" hreflang="nl" lang="nl">Nederlands</a></li><li><a href="/pt/" hreflang="pt" lang="pt">Português</a></li><li><a href="/da/" hreflang="da" lang="da">Dansk</a></li><li><a href="/no/" hreflang="no" lang="no">Norsk</a></li><li><a href="/fi/" hreflang="fi" lang="fi">Suomi</a></li><li><a href="/cs/" hreflang="cs" lang="cs">Čeština</a></li><li><a href="/hu/" hreflang="hu" lang="hu">Magyar</a></li><li><a href="/ro/" hreflang="ro" lang="ro">Română</a></li><li><a href="/el/" hreflang="el" lang="el">Ελληνικά</a></li><li><a href="/he/" hreflang="he" lang="he">עברית</a></li><li><a href="/ko/" hreflang="ko" lang="ko">한국어</a></li><li><a href="/zh-tw/" hreflang="zh-tw" lang="zh-tw">繁體中文</a></li><li><a href="/zh-cn/" hreflang="zh-cn" lang="zh-cn">简体中文</a></li></ul></details>
+    <a class="iconbtn" href="/fi/usein-kysytyt-kysymykset/" aria-label="Oppaan sisällys">
+      <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+    </a>
+    <button class="iconbtn burger" type="button" aria-label="Valikko" aria-expanded="false" aria-controls="nav">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+    </button>
+    <a class="btn" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">Hae UK ETA -lupaa <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+</div></header></div>
+<!--BLOCK-->
+<div class="etahome"><div>
+
+
+<section class="hero">
+  <div class="hero-media">
+    <img src="/home/hero-westminster.jpg" alt="Westminsterin palatsi ja Big Ben Thamesin rannalla Lontoossa" width="2121" height="900" fetchpriority="high">
+  </div>
+  <div class="container">
+    <div class="hero-inner">
+      <span class="hero-pill">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" style="color:#062F55"><path d="M21 16v-2l-8-5V3.5a1.5 1.5 0 0 0-3 0V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L13 19v-5.5z"/></svg>
+        <span>Tietoa UK ETA -luvasta suomalaisille matkustajille</span>
+      </span>
+      <h1>UK ETA<span class="sub">Sähköinen matkustuslupa Yhdistyneeseen kuningaskuntaan</span></h1>
+      <p class="lead">Suomen kansalaiset tarvitsevat UK ETA -luvan lyhyisiin matkoihin Yhdistyneeseen kuningaskuntaan.</p>
+      <div class="hero-actions">
+        <a class="btn" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">Hae UK ETA -lupaa <span class="arrow" aria-hidden="true">→</span></a>
+        <a class="textlink" href="#oversikt">Lue lisää UK ETA -luvasta <span aria-hidden="true">↓</span></a>
+      </div>
+    </div>
+  </div>
+  <div class="hero-script" aria-hidden="true">Explore<br><span>the UK</span></div>
+  <a class="hero-card" href="/fi/mika-on-eta/" style="text-decoration:none">
+    <p>Englanti, Skotlanti, Wales ja Pohjois-Irlanti</p>
+    <span class="round" aria-hidden="true">→</span>
+  </a>
+</section>
+
+
+<div class="keyfacts"><div class="container"><div class="panel">
+  <div class="cell">
+    <img src="/home/fact-fee.png" alt="" width="30" height="30">
+    <span><span class="v">£20</span><span class="k">Hakemusmaksu</span></span>
+  </div>
+  <div class="cell">
+    <img src="/home/fact-time.png" alt="" width="30" height="30">
+    <span><span class="v">Minuuteissa</span><span class="k">Automaattinen päätös useimmille</span></span>
+  </div>
+  <div class="cell">
+    <img src="/home/fact-valid.png" alt="" width="30" height="30">
+    <span><span class="v">2 vuotta</span><span class="k">Voimassaolo</span></span>
+  </div>
+</div></div></div>
+
+
+<section class="section"><div class="container two-col">
+  <article class="block" id="oversikt">
+    <div class="body">
+      <span class="eyebrow">Yleiskatsaus</span>
+      <h2>Mikä on UK ETA?</h2>
+      <p>UK ETA (Electronic Travel Authorisation) on sähköinen matkustuslupa, jonka Suomen kansalaiset tarvitsevat matkustaessaan Yhdistyneeseen kuningaskuntaan matkailun, työmatkan, lyhyiden opintojen tai kauttakulun vuoksi.</p>
+      <a class="textlink" href="/fi/mika-on-eta/">Lue lisää UK ETA -luvasta <span class="arrow" aria-hidden="true">→</span></a>
+    </div>
+    <div class="visual"><img src="/home/union-jack.jpg" alt="Yhdistyneen kuningaskunnan lippu sinistä taivasta vasten" width="1200" height="840" loading="lazy"></div>
+  </article>
+
+  <article class="block" id="vem">
+    <div class="body">
+      <span class="eyebrow">Kuka tarvitsee?</span>
+      <h2>Kuka tarvitsee UK ETA -luvan?</h2>
+      <p>Suomen kansalaiset tarvitsevat UK ETA -luvan lyhyisiin matkoihin Yhdistyneeseen kuningaskuntaan eli Englantiin, Skotlantiin, Walesiin ja Pohjois-Irlantiin.</p>
+      <a class="textlink" href="/fi/mika-on-eta/">Tarkista, tarvitsetko UK ETA -luvan <span class="arrow" aria-hidden="true">→</span></a>
+    </div>
+    <div class="visual map"><div class="map-wrap">
+      <img src="/home/uk-map.png" alt="Yhdistyneen kuningaskunnan kartta: Englanti, Skotlanti, Wales ja Pohjois-Irlanti" width="672" height="900" loading="lazy">
+      <span class="ml ml-sc">Skotlanti</span>
+      <span class="ml ml-ni">Pohjois-<br>Irlanti</span>
+      <span class="ml ml-ie">Irlanti</span>
+      <span class="ml ml-wa">Wales</span>
+      <span class="ml ml-en">Englanti</span>
+    </div></div>
+  </article>
+</div></section>
+
+
+<section class="band"><div class="container cols">
+  <div id="krav">
+    <span class="eyebrow">Vaatimukset</span>
+    <h2>Mitä tarvitset</h2>
+    <p class="muted" style="margin-top:8px;font-size:14.5px">UK ETA -lupaa hakiessasi tarvitset seuraavat:</p>
+    <div class="req-grid">
+      <div class="req-card"><img src="/home/req-passport.png" alt="" width="34" height="34"><div class="num">1</div><div class="t">Voimassa oleva passi</div><div class="d">Kuva tai skannaus passin kuvasivusta.</div></div>
+      <div class="req-card"><img src="/home/req-photo.png" alt="" width="34" height="34"><div class="num">2</div><div class="t">Kasvokuva</div><div class="d">Selkeä kuva kasvoistasi.</div></div>
+      <div class="req-card"><img src="/home/req-email.png" alt="" width="34" height="34"><div class="num">3</div><div class="t">Sähköpostiosoite</div><div class="d">Päätöksen vastaanottamista varten.</div></div>
+      <div class="req-card"><img src="/home/req-card.png" alt="" width="34" height="34"><div class="num">4</div><div class="t">Maksukortti</div><div class="d">Hakemusmaksun (£20) maksamiseen.</div></div>
+    </div>
+  </div>
+
+  <div id="ansokan">
+    <span class="eyebrow">Hakemus</span>
+    <h2>Näin haet</h2>
+    <p class="muted" style="margin-top:8px;font-size:14.5px">Hakemus tehdään virallisella UK ETA -sovelluksella.</p>
+    <div class="app-wrap">
+      <div>
+        <div class="steps">
+          <div class="step"><div class="circle">01</div><div class="d">Lataa UK ETA -sovellus</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">02</div><div class="d">Skannaa passi ja ota kasvokuva</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">03</div><div class="d">Täytä lomake ja maksa (£20)</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">04</div><div class="d">Odota hyväksyntää</div></div>
+        </div>
+        <a class="textlink" href="/fi/nain-haet/" style="margin-top:20px">Katso yksityiskohtainen vaiheittainen ohje <span class="arrow" aria-hidden="true">→</span></a>
+      </div>
+      <img class="phone" src="/home/phone-mock.png" alt="UK ETA -sovellus matkapuhelimen näytöllä" width="760" height="1497" loading="lazy">
+    </div>
+  </div>
+</div></section>
+
+
+<section class="section lower"><div class="container lower-grid">
+  <div class="lower-main">
+    <div class="row-travel">
+  <div id="resa">
+    <span class="eyebrow">Matka Britanniaan</span>
+    <h2>Matka Yhdistyneeseen kuningaskuntaan</h2>
+    <p>UK ETA koskee matkoja Englantiin, Skotlantiin, Walesiin ja Pohjois-Irlantiin. Irlanti ei kuulu sen piiriin. Säännöt koskevat myös kauttakulkua sen mukaan, pysytkö lentoaseman kauttakulkualueella (airside) vai kuljetko rajatarkastuksen läpi (landside).</p>
+    <a class="textlink" href="/fi/oleskelun-kesto/">Lisää matkustussäännöistä <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+
+  <div class="photo-cards">
+    <a class="photo-card" href="/fi/oleskelun-kesto/">
+      <img src="/home/airside.jpg" alt="Lentoaseman lähtöaula iltahämärässä" width="800" height="600" loading="lazy">
+      <span class="cap"><span class="t">Airside-kauttakulku</span><span class="d">Et yleensä tarvitse UK ETA -lupaa.</span></span>
+      <span class="go" aria-hidden="true">→</span>
+    </a>
+    <a class="photo-card" href="/fi/oleskelun-kesto/">
+      <img src="/home/landside.jpg" alt="Lentoaseman saapumisaula ja matkustajia" width="800" height="600" loading="lazy">
+      <span class="cap"><span class="t">Landside-kauttakulku</span><span class="d">Tarvitset UK ETA -luvan.</span></span>
+      <span class="go" aria-hidden="true">→</span>
+    </a>
+  </div>
+
+    </div>
+    <div class="row-sv">
+  <div>
+    <span class="eyebrow">UK ETA Suomen kansalaisille</span>
+    <h2>UK ETA Suomen kansalaisille</h2>
+    <p>Tietoa siitä, mitä koskee erityisesti Suomen kansalaisia: voimassaolo, mitkä matkat kuuluvat luvan piiriin ja usein kysytyt kysymykset.</p>
+    <a class="textlink" href="#svenska">Lue lisää Suomen kansalaisille <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+  <img src="/home/city-helsinki.jpg" alt="" width="1200" height="600" loading="lazy">
+</div>
+  </div>
+  <aside class="ql">
+    <span class="eyebrow">Pikalinkit</span>
+    <div class="ql-item"><img src="/home/ql-faq.png" alt="" width="26" height="26"><span><span class="t">Usein kysytyt kysymykset</span><br><a class="textlink" href="/fi/usein-kysytyt-kysymykset/">Katso UKK <span aria-hidden="true">→</span></a></span></div>
+    <div class="ql-item"><img src="/home/ql-news.png" alt="" width="26" height="26"><span><span class="t">Tuoreimmat uutiset</span><br><a class="textlink" href="/fi/#nyheter">Katso uutiset <span aria-hidden="true">→</span></a></span></div>
+    <div class="ql-item"><img src="/home/ql-links.png" alt="" width="26" height="26"><span><span class="t">Hyödyllisiä sivuja</span><br><a class="textlink" href="/fi/usein-kysytyt-kysymykset/">Katso hyödylliset sivut <span aria-hidden="true">→</span></a></span></div>
+  </aside>
+</div></section>
+
+
+</div><section class="band xsec"><div class="container"><span class="eyebrow">Voimassaolo ja aikataulu</span><h2>ETA:n voimassaolo ja milloin hakea</h2><p class="xlead">Milloin kannattaa hakea ja kuinka kauan ETA on voimassa.</p><div class="xcards x2"><div class="xcard"><h3>Voimassaolo</h3><p>ETA on voimassa <strong>2 vuotta</strong> myöntämisestä, ja sillä voi matkustaa Yhdistyneeseen kuningaskuntaan useita kertoja. Jos passisi vanhenee ennen kuin 2 vuotta on kulunut, ETA päättyy samaan aikaan passin kanssa. Uusi siinä tapauksessa ensin passi ja hae sen jälkeen ETA.</p></div><div class="xcard"><h3>Milloin hakea</h3><p>Useimmat hakijat saavat automaattisen päätöksen <strong>muutamassa minuutissa</strong> UK ETA -sovelluksen kautta. Hae vähintään 3 arkipäivää ennen matkaa, sillä pieni osa hakemuksista voi vaatia lisäkäsittelyä. Kun lupa on hyväksytty, saat vahvistuksen sähköpostiin. Maahan saapuessa ETA-numeroa ei yleensä tarvitse näyttää, mutta vahvistus kannattaa tallentaa (kuvakaappaus tai tuloste).</p></div></div></div></section><section class="section xsec"><div class="container"><span class="eyebrow">Kauttakulku</span><h2>Kauttakulku Yhdistyneen kuningaskunnan kautta</h2><p class="xlead">Se, tarvitsetko ETA:n vaihdon yhteydessä, riippuu kauttakulun tyypistä.</p><div class="xcards x2"><div class="xcard"><span class="eyebrow">Lentoaseman kauttakulku (airside)</span><h3>Yleensä ilman ETA:a</h3><p>Jos et kulje Yhdistyneen kuningaskunnan rajatarkastuksen läpi vaan pysyt lentoaseman kauttakulkualueella, ETA:a ei yleensä vaadita. Jos kuitenkin poistut kauttakulkualueelta (esimerkiksi yöpyäksesi tai vaihtaaksesi toiselle lentoasemalle), tarvitset ETA:n.</p></div><div class="xcard"><span class="eyebrow">Maitse tapahtuva kauttakulku (landside)</span><h3>Yleensä ETA tarvitaan</h3><p>Kun kuljet Yhdistyneen kuningaskunnan rajatarkastuksen läpi, esimerkiksi Eurostarilla (kanaalitunnelin juna) tai lautalla, ETA vaaditaan yleensä.</p></div></div></div></section><section id="svenska" class="band xsec"><div class="container"><span class="eyebrow">Suomalaisille</span><h2>UK ETA Suomen kansalaisille</h2><p class="xlead">Suomi on Euroopan unionin jäsen, ja Suomen kansalaiset voivat matkustaa Yhdistyneeseen kuningaskuntaan ilman viisumia enintään 6 kuukauden oleskeluihin. Huhtikuun 2. päivästä 2025 lähtien matkaan tarvitaan kuitenkin voimassa oleva UK ETA, olipa kyse lomasta, työmatkasta, sukulaisvierailusta tai kauttakulusta.</p><div class="xcards x4"><div class="xcard"><h3>Kuka tarvitsee ETA:n</h3><p>Kaikki Suomen kansalaiset, jotka matkustavat Yhdistyneeseen kuningaskuntaan lyhyelle oleskelulle, myös lapset ja vauvat. Jokainen tekee oman hakemuksensa.</p></div><div class="xcard"><h3>Passi, ei henkilökorttia</h3><p>Yhdistyneeseen kuningaskuntaan saapuminen edellyttää voimassa olevaa passia. Henkilökorttia ei enää hyväksytä (lokakuusta 2021 lähtien). ETA liitetään tähän passiin.</p></div><div class="xcard"><h3>Suosittuja kohteita Suomesta</h3><p>Lontoo, Manchester, Edinburgh, Birmingham ja muut kaupungit. Yksi ETA kattaa Englannin, Skotlannin, Walesin ja Pohjois-Irlannin.</p></div><div class="xcard"><h3>Milloin hakea</h3><p>Vähintään 3 arkipäivää ennen lähtöä. Useimmat päätökset tehdään automaattisesti muutamassa minuutissa, mutta pieni osa hakemuksista voi vaatia lisäkäsittelyä.</p></div></div></div></section><section id="faq" class="section xsec"><div class="container xnarrow"><span class="eyebrow">FAQ</span><h2>Usein kysytyt kysymykset</h2><div class="xfaq"><details><summary><span>Tarvitsevatko Suomen kansalaiset UK ETA -luvan?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Kyllä. Huhtikuun 2. päivästä 2025 lähtien Suomen kansalaisilla (kuten muillakin EU-kansalaisilla) on oltava UK ETA ennen matkaa Yhdistyneeseen kuningaskuntaan. Vaatimus koskee matkailua, työmatkoja ja kauttakulkua.</p></details><details><summary><span>Paljonko UK ETA maksaa ja kuinka kauan se on voimassa?</span><span class="xplus" aria-hidden="true">+</span></summary><p>UK ETA maksaa £20. Lupa on voimassa 2 vuotta myöntämisestä, ja sillä voi matkustaa Yhdistyneeseen kuningaskuntaan useita kertoja, kukin oleskelu enintään 6 kuukautta.</p></details><details><summary><span>Mitä eroa on UK ETA:lla ja viisumilla?</span><span class="xplus" aria-hidden="true">+</span></summary><p>UK ETA on yksinkertaistettu sähköinen lupa lyhyisiin oleskeluihin (enintään 6 kuukautta). Se maksaa £20, ja haku tehdään verkossa. Britannian viisumi edellyttää käyntiä viisumikeskuksessa, maksaa vähintään £100 ja mahdollistaa pidemmän oleskelun tai työnteon.</p></details><details><summary><span>Tarvitsevatko suomalaiset lapset UK ETA -luvan?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Kyllä. Jokaisella matkustajalla iästä riippumatta on oltava oma UK ETA, myös vauvoilla ja lapsilla. Vanhempi tai huoltaja voi hakea lupaa lapsen puolesta lapsen passilla.</p></details><details><summary><span>Voiko Suomen kansalainen matkustaa Yhdistyneeseen kuningaskuntaan henkilökortilla?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Ei. Lokakuusta 2021 lähtien maahan saapuminen on edellyttänyt voimassa olevaa passia, eikä henkilökorttia enää hyväksytä. UK ETA liitetään juuri tähän passiin.</p></details><details><summary><span>Tarvitsenko ETA:n, jos vaihdan konetta Yhdistyneessä kuningaskunnassa?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Jos kuljet vaihdon aikana rajatarkastuksen läpi (esimerkiksi vaihdat terminaalia tai noudat matkatavarat), tarvitset UK ETA -luvan. Kauttakulussa ilman rajan ylitystä (airside) sitä ei yleensä tarvita. Säännöt kannattaa varmistaa lentoyhtiöltä ja lentoasemalta.</p></details></div><a class="textlink xmore" href="/fi/usein-kysytyt-kysymykset/">Katso kaikki usein kysytyt kysymykset <span class="arrow" aria-hidden="true">→</span></a></div></section><section id="nyheter" class="band xsec"><div class="container"><span class="eyebrow">Uutiset</span><h2>Tuoreimmat uutiset</h2><p class="xlead">Tärkeimmät uutiset UK ETA -luvasta, maksuista ja Yhdistyneen kuningaskunnan maahantulosäännöistä.</p><div class="xcards x3"><a class="xcard xlink" href="/fi/hinta/"><div class="xmeta"><span class="xtag" style="background-color:#8d1812;color:#ffffff">Maahantulo ja matkailu</span><time>2026-04-08</time></div><h3>Yhdistyneen kuningaskunnan maahanmuuttomaksut nousivat huhtikuussa 2026</h3><p>ETA:n lisäksi Home Office korotti 8.4.2026 alkaen myös muita maksuja, muun muassa maahantuloviisumien, pysyvän oleskelun ja kansalaisuuden maksuja.</p></a><a class="xcard xlink" href="/fi/hinta/"><div class="xmeta"><span class="xtag" style="background-color:#C5A24A;color:#1c1505">Maksut</span><time>2026-04-08</time></div><h3>UK ETA -maksu nousi £20:een (8.4.2026 alkaen)</h3><p>8.4.2026 alkaen UK ETA maksaa £20 aiemman £16:n sijaan (korotus 25 %). Ratkaisevaa on hakemuksen päivämäärä.</p></a><a class="xcard xlink" href="/fi/voimassaolo/"><div class="xmeta"><span class="xtag" style="background-color:#44403c;color:#ffffff">Turvallisuus</span><time>2026-03-01</time></div><h3>Turvallinen matka Yhdistyneeseen kuningaskuntaan: mitä kannattaa huomioida</h3><p>Ennen lähtöä kannattaa tarkistaa ajankohtaiset turvallisuustiedotteet ja varmistaa, että passi ja ETA ovat voimassa.</p></a></div><a class="textlink xmore" href="/fi/usein-kysytyt-kysymykset/">Lisätietoa usein kysytyissä kysymyksissä <span class="arrow" aria-hidden="true">→</span></a></div></section><section class="section xsec"><div class="container"><span class="eyebrow">Opas</span><h2>Hyödyllisiä sivuja</h2><div class="xcards x3"><a class="xcard xlink xrow" href="/fi/mika-on-eta/"><span><h3>Mikä on UK ETA?</h3><p>Perustiedot ETA-järjestelmästä</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/fi/nain-haet/"><span><h3>Näin haet</h3><p>Lomake vaihe vaiheelta</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/fi/hinta/"><span><h3>UK ETA -maksut</h3><p>Kustannukset tarkemmin</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/fi/voimassaolo/"><span><h3>Voimassaolo</h3><p>Milloin ETA pitää uusia</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/fi/tarvittavat-asiakirjat/"><span><h3>Tarvittavat asiakirjat</h3><p>Mitä valmistella ennen hakemusta</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/fi/nain-haet/"><span><h3>Hae GOV.UK:n virallisilta sivuilta</h3><p>Virallinen verkkosivusto ja sovellus</p></span><span class="xgo" aria-hidden="true">→</span></a></div></div></section><div><section class="finalcta">
+  <div class="bg"><img src="/home/cta-bg.jpg" alt="" width="1600" height="500" loading="lazy" aria-hidden="true"></div>
+  <div class="container">
+    <span class="eyebrow">Valmiina matkaan?</span>
+    <h2>Valmiina matkalle Yhdistyneeseen kuningaskuntaan?</h2>
+    <p>Hae UK ETA -lupaa ja saat päätöksen nopeasti.</p>
+    <div class="row"><a class="btn btn--ghost" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">Aloita UK ETA -hakemus <span class="arrow" aria-hidden="true">→</span></a></div>
+  </div>
+</section>
+
+
+</div></div>
+<!--BLOCK-->
+<div class="etahome"><footer class="footer"><div class="container">
+  <a class="brand" href="/fi/">
+    <img src="/home/crown.png" alt="" width="26" height="26">
+    <span><span class="name">UK ETA</span><span class="sub">Sähköinen matkustuslupa Yhdistyneeseen kuningaskuntaan</span></span>
+  </a>
+  <nav aria-label="Alatunniste">
+    <a href="/fi/tietoa-oppaasta/">Tietoa sivustosta</a><a href="/fi/tietosuoja/">Tietosuoja</a><a href="/fi/oikeudelliset-tiedot/">Oikeudelliset tiedot</a><a href="/fi/tietoa-oppaasta/">Yhteystiedot</a>
+  </nav>
+  <p class="note">Tämä sivusto ei ole Yhdistyneen kuningaskunnan hallituksen virallinen sivusto.</p>
+</div></footer>
+
+</div>
+8:["$","div",null,{"lang":"fi","dir":"$undefined","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://eta-se.com/fi/#website\",\"url\":\"https://eta-se.com/fi/\",\"name\":\"UK ETA -opas\",\"description\":\"Suomenkielinen opas UK ETA -lupaan: se maksaa £20, on voimassa 2 vuotta ja sallii enintään 6 kuukauden oleskelun matkaa kohden. Näin haet sen GOV.UK:sta.\",\"inLanguage\":\"fi\",\"publisher\":{\"@id\":\"https://eta-se.com/fi/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https://eta-se.com/fi/#organization\",\"name\":\"UK ETA -opas\",\"url\":\"https://eta-se.com/\",\"logo\":\"https://eta-se.com/logo-uk-eta.png\"}]}"}}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":""}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap","rel":"stylesheet","precedence":"default"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$11"}}],"$L12"]}]
+13:I[61574,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+12:["$","$L13",null,{}]
 d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-18:I[61352,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"IconMark"]
+14:I[61352,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"IconMark"]
 b:null
-f:[["$","title","0",{"children":"UK ETA: £20 ja vastaus yleensä vuorokaudessa | Opas suomeksi 2026 | UK ETA -opas"}],["$","meta","1",{"name":"description","content":"Suomenkielinen opas UK ETA -lupaan: se maksaa £20, on voimassa 2 vuotta ja sallii enintään 6 kuukauden oleskelun matkaa kohden. Näin haet sen GOV.UK:sta."}],["$","meta","2",{"name":"keywords","content":"UK ETA, UK ETA 2026, Storbritannien, reseauktorisering, Electronic Travel Authorisation, ETA-ansökan, Sverige, avgift £20"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://eta-se.com/fi/"}],["$","meta","5",{"property":"og:title","content":"UK ETA: £20 ja vastaus yleensä vuorokaudessa | Opas suomeksi 2026"}],["$","meta","6",{"property":"og:description","content":"Suomenkielinen opas UK ETA -lupaan: se maksaa £20, on voimassa 2 vuotta ja sallii enintään 6 kuukauden oleskelun matkaa kohden. Näin haet sen GOV.UK:sta."}],["$","meta","7",{"property":"og:site_name","content":"UK ETA -opas"}],["$","meta","8",{"property":"og:locale","content":"fi"}],["$","meta","9",{"property":"og:image","content":"https://eta-se.com/og-image.jpg"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"UK ETA -opas"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"UK ETA: £20 ja vastaus yleensä vuorokaudessa | Opas suomeksi 2026"}],["$","meta","16",{"name":"twitter:description","content":"Suomenkielinen opas UK ETA -lupaan: se maksaa £20, on voimassa 2 vuotta ja sallii enintään 6 kuukauden oleskelun matkaa kohden. Näin haet sen GOV.UK:sta."}],["$","meta","17",{"name":"twitter:image","content":"https://eta-se.com/og-image.jpg"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.0v_gq8cr8iscb.png","sizes":"256x256","type":"image/png"}],["$","link","19",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.147.6d2c-k_4-.png","sizes":"256x256","type":"image/png"}],["$","$L18","20",{}]]
+f:[["$","title","0",{"children":"UK ETA: £20 ja vastaus yleensä vuorokaudessa | Opas suomeksi 2026 | UK ETA -opas"}],["$","meta","1",{"name":"description","content":"Suomenkielinen opas UK ETA -lupaan: se maksaa £20, on voimassa 2 vuotta ja sallii enintään 6 kuukauden oleskelun matkaa kohden. Näin haet sen GOV.UK:sta."}],["$","meta","2",{"name":"keywords","content":"UK ETA, UK ETA 2026, Storbritannien, reseauktorisering, Electronic Travel Authorisation, ETA-ansökan, Sverige, avgift £20"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://eta-se.com/fi/"}],["$","meta","5",{"property":"og:title","content":"UK ETA: £20 ja vastaus yleensä vuorokaudessa | Opas suomeksi 2026"}],["$","meta","6",{"property":"og:description","content":"Suomenkielinen opas UK ETA -lupaan: se maksaa £20, on voimassa 2 vuotta ja sallii enintään 6 kuukauden oleskelun matkaa kohden. Näin haet sen GOV.UK:sta."}],["$","meta","7",{"property":"og:site_name","content":"UK ETA -opas"}],["$","meta","8",{"property":"og:locale","content":"fi"}],["$","meta","9",{"property":"og:image","content":"https://eta-se.com/og-image.jpg"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"UK ETA -opas"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"UK ETA: £20 ja vastaus yleensä vuorokaudessa | Opas suomeksi 2026"}],["$","meta","16",{"name":"twitter:description","content":"Suomenkielinen opas UK ETA -lupaan: se maksaa £20, on voimassa 2 vuotta ja sallii enintään 6 kuukauden oleskelun matkaa kohden. Näin haet sen GOV.UK:sta."}],["$","meta","17",{"name":"twitter:image","content":"https://eta-se.com/og-image.jpg"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.0v_gq8cr8iscb.png","sizes":"256x256","type":"image/png"}],["$","link","19",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.147.6d2c-k_4-.png","sizes":"256x256","type":"image/png"}],["$","$L14","20",{}]]

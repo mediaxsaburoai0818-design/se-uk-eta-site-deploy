@@ -1,13 +1,227 @@
 1:"$Sreact.fragment"
-2:I[80622,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],""]
-a:I[63554,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"OutletBoundary"]
-b:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"lang":"da","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://eta-se.com/da/#website\",\"url\":\"https://eta-se.com/da/\",\"name\":\"UK ETA Guide\",\"description\":\"Dansk guide til UK ETA: den koster £20, gælder i 2 år og giver ophold på op til 6 måneder pr. rejse. Sådan søger du på GOV.UK's officielle side.\",\"inLanguage\":\"da\",\"publisher\":{\"@id\":\"https://eta-se.com/da/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https://eta-se.com/da/#organization\",\"name\":\"UK ETA Guide\",\"url\":\"https://eta-se.com/\",\"logo\":\"https://eta-se.com/logo-uk-eta.png\"}]}"}}],["$","section",null,{"className":"sub-hero relative overflow-hidden","children":[["$","div",null,{"className":"absolute inset-0 sub-hero-scrim"}],["$","div",null,{"className":"relative max-w-4xl mx-auto px-6 pt-12 pb-12 md:pt-14 md:pb-16","children":[["$","p",null,{"className":"kicker mb-3 mt-4","children":"Dansk"}],["$","h1",null,{"className":"deco-head text-3xl md:text-4xl font-bold text-white mb-6","style":{"fontFamily":"var(--font-noto-serif), serif"},"children":[["$","span",null,{"className":"deco-line"}],"Rejsetilladelsen til Storbritannien, trin for trin"]}],["$","p",null,{"className":"text-white/90 leading-relaxed","children":"Skal du til Storbritannien, skal du have en UK ETA. Den koster £20 på den officielle side, svaret kommer som regel inden for 1 dag, og tilladelsen gælder i 2 år til flere rejser."}]]}]]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-10","children":[["$","div",null,{"className":"grid gap-4 sm:grid-cols-2","children":[["$","$L2","hvad-er-eta",{"href":"/da/hvad-er-eta/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Hvad er UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["UK ETA (Electronic Travel Authorisation) søger du om før rejsen. Den erstatter ikke dit pas, og ","…"]}]]}],["$","$L2","sadan-ansoger-du",{"href":"/da/sadan-ansoger-du/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Sådan søger du om UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Ansøgningen foregår helt online, enten på GOV.UK's officielle side eller i den officielle app. D","…"]}]]}],["$","$L2","pris",{"href":"/da/pris/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Hvad koster UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Den officielle pris er £20, og du betaler den én gang. Derefter gælder tilladelsen i 2 år til fl","…"]}]]}],["$","$L2","behandlingstid",{"href":"/da/behandlingstid/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Hvor lang tid tager UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["I de fleste tilfælde kommer svaret inden for 1 dag. Alligevel er rådet at regne med op til 3 hve","…"]}]]}],["$","$L2","tjek-status",{"href":"/da/tjek-status/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Tjek status på din UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Afgørelsen meddeles på e-mail. Er den ikke kommet, kan du slå status op med oplysningerne fra de","…"]}]]}],"$L3","$L4","$L5","$L6"]}],"$L7","$L8"]}]]}],null,"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"liSA_jXBk6FJp8Fyf70iq"}
-3:["$","$L2","gyldighed",{"href":"/da/gyldighed/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Hvor længe gælder UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Tilladelsen gælder i 2 år — eller til passet udløber, hvis det sker først.","…"]}]]}]
-4:["$","$L2","dokumenter",{"href":"/da/dokumenter/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Hvilke dokumenter skal du bruge"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Ansøgningen er enkel: pas, et foto og et betalingsmiddel. Rejsedokumentation eller erklæringer e","…"]}]]}]
-5:["$","$L2","opholdets-laengde",{"href":"/da/opholdets-laengde/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Hvor længe må du blive"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Pr. rejse må du opholde dig i Storbritannien i op til 6 måneder. Tilladelsen dækker turisme, fam","…"]}]]}]
-6:["$","$L2","ofte-stillede-sporgsmal",{"href":"/da/ofte-stillede-sporgsmal/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Ofte stillede spørgsmål om UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Korte svar på de mest stillede spørgsmål. Hvert punkt henviser til den fulde forklaring.","…"]}]]}]
-7:["$","div",null,{"className":"mt-10 p-5 bg-stone-50 border border-stone-200 rounded-lg","children":[["$","p",null,{"className":"text-sm text-stone-700 mb-3","children":"£20 · 2 · 6"}],["$","a",null,{"href":"https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta","target":"_blank","rel":"noopener noreferrer","className":"inline-block bg-stone-900 text-white px-6 py-2.5 rounded-full text-sm font-medium","children":"Ansøg på GOV.UK's officielle side"}]]}]
-8:["$","nav",null,{"className":"mt-10 flex flex-wrap gap-4 text-sm text-stone-600","children":[["$","$L2",null,{"href":"/da/om-denne-guide/","className":"underline","children":"Om denne guide"}],["$","$L2",null,{"href":"/da/privatliv/","className":"underline","children":"Privatlivspolitik"}],["$","$L2",null,{"href":"/da/juridisk-information/","className":"underline","children":"Juridisk information"}]]}]
-9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
-c:null
+5:I[61574,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+6:I[63554,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap","style"]
+2:T559c,<div class="etahome">
+
+
+<div class="trustbar"><div class="container">
+  <span>Uafhængig informationsside om UK ETA. Vi er ikke tilknyttet den britiske regering.</span>
+  <span>Officiel information: <a href="https://www.gov.uk/electronic-travel-authorisation" rel="nofollow noopener" target="_blank">GOV.UK ↗</a></span>
+</div></div>
+
+
+<header class="header"><div class="container">
+  <a class="brand" href="/da/">
+    <img src="/home/crown-navy.png" alt="" width="44" height="44">
+    <span>
+      <span class="name">UK ETA</span>
+      <span class="sub">Elektronisk rejsetilladelse til Storbritannien</span>
+    </span>
+  </a>
+  <nav class="nav" aria-label="Hovedmenu">
+    <a href="/da/hvad-er-eta/">Overblik</a>
+    <a href="/da/hvad-er-eta/">Hvem skal have den?</a>
+    <a href="/da/sadan-ansoger-du/">Sådan søger du</a>
+    <a href="/da/dokumenter/">Krav</a>
+    <a href="/da/opholdets-laengde/">Rejse til Storbritannien</a>
+    <a href="/da/ofte-stillede-sporgsmal/">FAQ</a>
+    <a href="/da/#nyheter">Nyheder</a>
+  </nav>
+  <div class="spacer"></div>
+  <div class="tools">
+    <details class="langmenu"><summary class="lang" aria-label="Skift sprog">DA <span aria-hidden="true">⌄</span></summary><ul><li><a href="/" hreflang="sv" lang="sv">Svenska</a></li><li><a href="/en/" hreflang="en" lang="en">English</a></li><li><a href="/de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="/fr/" hreflang="fr" lang="fr">Français</a></li><li><a href="/it/" hreflang="it" lang="it">Italiano</a></li><li><a href="/es/" hreflang="es" lang="es">Español</a></li><li><a href="/nl/" hreflang="nl" lang="nl">Nederlands</a></li><li><a href="/pt/" hreflang="pt" lang="pt">Português</a></li><li><a href="/da/" hreflang="da" lang="da">Dansk</a></li><li><a href="/no/" hreflang="no" lang="no">Norsk</a></li><li><a href="/fi/" hreflang="fi" lang="fi">Suomi</a></li><li><a href="/cs/" hreflang="cs" lang="cs">Čeština</a></li><li><a href="/hu/" hreflang="hu" lang="hu">Magyar</a></li><li><a href="/ro/" hreflang="ro" lang="ro">Română</a></li><li><a href="/el/" hreflang="el" lang="el">Ελληνικά</a></li><li><a href="/he/" hreflang="he" lang="he">עברית</a></li><li><a href="/ko/" hreflang="ko" lang="ko">한국어</a></li><li><a href="/zh-tw/" hreflang="zh-tw" lang="zh-tw">繁體中文</a></li><li><a href="/zh-cn/" hreflang="zh-cn" lang="zh-cn">简体中文</a></li></ul></details>
+    <a class="iconbtn" href="/da/ofte-stillede-sporgsmal/" aria-label="Oversigt over guiden">
+      <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+    </a>
+    <button class="iconbtn burger" type="button" aria-label="Menu" aria-expanded="false" aria-controls="nav">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+    </button>
+    <a class="btn" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">Søg om UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+</div></header></div>
+<!--BLOCK-->
+<div class="etahome"><div>
+
+
+<section class="hero">
+  <div class="hero-media">
+    <img src="/home/hero-westminster.jpg" alt="Westminster-paladset og Big Ben ved Themsen i London" width="2121" height="900" fetchpriority="high">
+  </div>
+  <div class="container">
+    <div class="hero-inner">
+      <span class="hero-pill">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" style="color:#062F55"><path d="M21 16v-2l-8-5V3.5a1.5 1.5 0 0 0-3 0V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L13 19v-5.5z"/></svg>
+        <span>Information om UK ETA for danske rejsende</span>
+      </span>
+      <h1>UK ETA<span class="sub">Elektronisk rejsetilladelse til Storbritannien</span></h1>
+      <p class="lead">Danske statsborgere skal have en UK ETA for at rejse til Storbritannien på kortere ophold.</p>
+      <div class="hero-actions">
+        <a class="btn" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">Søg om UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+        <a class="textlink" href="#oversikt">Læs mere om UK ETA <span aria-hidden="true">↓</span></a>
+      </div>
+    </div>
+  </div>
+  <div class="hero-script" aria-hidden="true">Explore<br><span>the UK</span></div>
+  <a class="hero-card" href="/da/hvad-er-eta/" style="text-decoration:none">
+    <p>England, Skotland, Wales og Nordirland</p>
+    <span class="round" aria-hidden="true">→</span>
+  </a>
+</section>
+
+
+<div class="keyfacts"><div class="container"><div class="panel">
+  <div class="cell">
+    <img src="/home/fact-fee.png" alt="" width="30" height="30">
+    <span><span class="v">£20</span><span class="k">Ansøgningsgebyr</span></span>
+  </div>
+  <div class="cell">
+    <img src="/home/fact-time.png" alt="" width="30" height="30">
+    <span><span class="v">Minutter</span><span class="k">Automatisk afgørelse for de fleste</span></span>
+  </div>
+  <div class="cell">
+    <img src="/home/fact-valid.png" alt="" width="30" height="30">
+    <span><span class="v">2 år</span><span class="k">Gyldighed</span></span>
+  </div>
+</div></div></div>
+
+
+<section class="section"><div class="container two-col">
+  <article class="block" id="oversikt">
+    <div class="body">
+      <span class="eyebrow">Overblik</span>
+      <h2>Hvad er UK ETA?</h2>
+      <p>UK ETA (Electronic Travel Authorisation) er en elektronisk rejsetilladelse, som danske statsborgere skal have for at rejse til Storbritannien i forbindelse med turisme, forretning, kortere studieophold eller transit.</p>
+      <a class="textlink" href="/da/hvad-er-eta/">Læs mere om UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+    </div>
+    <div class="visual"><img src="/home/union-jack.jpg" alt="Storbritanniens flag mod en blå himmel" width="1200" height="840" loading="lazy"></div>
+  </article>
+
+  <article class="block" id="vem">
+    <div class="body">
+      <span class="eyebrow">Hvem skal have den?</span>
+      <h2>Hvem skal have UK ETA?</h2>
+      <p>Danske statsborgere skal have en UK ETA for at rejse til Storbritannien, det vil sige England, Skotland, Wales og Nordirland, på kortere ophold.</p>
+      <a class="textlink" href="/da/hvad-er-eta/">Se, om du skal have UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+    </div>
+    <div class="visual map"><div class="map-wrap">
+      <img src="/home/uk-map.png" alt="Kort over Storbritannien med England, Skotland, Wales og Nordirland" width="672" height="900" loading="lazy">
+      <span class="ml ml-sc">Skotland</span>
+      <span class="ml ml-ni">Nord-<br>irland</span>
+      <span class="ml ml-ie">Irland</span>
+      <span class="ml ml-wa">Wales</span>
+      <span class="ml ml-en">England</span>
+    </div></div>
+  </article>
+</div></section>
+
+
+<section class="band"><div class="container cols">
+  <div id="krav">
+    <span class="eyebrow">Krav</span>
+    <h2>Det skal du bruge</h2>
+    <p class="muted" style="margin-top:8px;font-size:14.5px">For at søge om UK ETA skal du bruge følgende:</p>
+    <div class="req-grid">
+      <div class="req-card"><img src="/home/req-passport.png" alt="" width="34" height="34"><div class="num">1</div><div class="t">Gyldigt pas</div><div class="d">Foto eller scanning af siden med billedet.</div></div>
+      <div class="req-card"><img src="/home/req-photo.png" alt="" width="34" height="34"><div class="num">2</div><div class="t">Ansigtsfoto</div><div class="d">Et tydeligt foto af dit ansigt.</div></div>
+      <div class="req-card"><img src="/home/req-email.png" alt="" width="34" height="34"><div class="num">3</div><div class="t">E-mailadresse</div><div class="d">Til at modtage afgørelsen.</div></div>
+      <div class="req-card"><img src="/home/req-card.png" alt="" width="34" height="34"><div class="num">4</div><div class="t">Betalingskort</div><div class="d">Til at betale ansøgningsgebyret (£20).</div></div>
+    </div>
+  </div>
+
+  <div id="ansokan">
+    <span class="eyebrow">Ansøgning</span>
+    <h2>Sådan søger du</h2>
+    <p class="muted" style="margin-top:8px;font-size:14.5px">Ansøgningen foregår i den officielle UK ETA-app.</p>
+    <div class="app-wrap">
+      <div>
+        <div class="steps">
+          <div class="step"><div class="circle">01</div><div class="d">Download appen UK ETA</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">02</div><div class="d">Scan passet og tag et foto</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">03</div><div class="d">Udfyld formularen og betal (£20)</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">04</div><div class="d">Vent på godkendelse</div></div>
+        </div>
+        <a class="textlink" href="/da/sadan-ansoger-du/" style="margin-top:20px">Se den detaljerede trin-for-trin-guide <span class="arrow" aria-hidden="true">→</span></a>
+      </div>
+      <img class="phone" src="/home/phone-mock.png" alt="UK ETA-appen vist på en mobiltelefon" width="760" height="1497" loading="lazy">
+    </div>
+  </div>
+</div></section>
+
+
+<section class="section lower"><div class="container lower-grid">
+  <div class="lower-main">
+    <div class="row-travel">
+  <div id="resa">
+    <span class="eyebrow">Rejse til Storbritannien</span>
+    <h2>Rejse til Storbritannien</h2>
+    <p>UK ETA gælder for rejser til England, Skotland, Wales og Nordirland. Irland er ikke omfattet. Reglerne gælder også ved transit, afhængigt af om du bliver airside eller passerer grænsekontrollen (landside).</p>
+    <a class="textlink" href="/da/opholdets-laengde/">Mere om rejsereglerne <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+
+  <div class="photo-cards">
+    <a class="photo-card" href="/da/opholdets-laengde/">
+      <img src="/home/airside.jpg" alt="Afgangshal i en lufthavn i tusmørke" width="800" height="600" loading="lazy">
+      <span class="cap"><span class="t">Airside-transit</span><span class="d">Du skal normalt ikke have UK ETA.</span></span>
+      <span class="go" aria-hidden="true">→</span>
+    </a>
+    <a class="photo-card" href="/da/opholdets-laengde/">
+      <img src="/home/landside.jpg" alt="Ankomsthal i en lufthavn med rejsende" width="800" height="600" loading="lazy">
+      <span class="cap"><span class="t">Landside-transit</span><span class="d">Du skal have UK ETA.</span></span>
+      <span class="go" aria-hidden="true">→</span>
+    </a>
+  </div>
+
+    </div>
+    <div class="row-sv">
+  <div>
+    <span class="eyebrow">UK ETA for danske statsborgere</span>
+    <h2>UK ETA for danske statsborgere</h2>
+    <p>Information om, hvad der gælder specifikt for danske statsborgere, herunder gyldighed, hvilke rejser der er omfattet, og ofte stillede spørgsmål.</p>
+    <a class="textlink" href="#svenska">Læs mere for danske statsborgere <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+  <img src="/home/city-copenhagen.jpg" alt="" width="1200" height="600" loading="lazy">
+</div>
+  </div>
+  <aside class="ql">
+    <span class="eyebrow">Genveje</span>
+    <div class="ql-item"><img src="/home/ql-faq.png" alt="" width="26" height="26"><span><span class="t">Ofte stillede spørgsmål</span><br><a class="textlink" href="/da/ofte-stillede-sporgsmal/">Se FAQ <span aria-hidden="true">→</span></a></span></div>
+    <div class="ql-item"><img src="/home/ql-news.png" alt="" width="26" height="26"><span><span class="t">Seneste nyt</span><br><a class="textlink" href="/da/#nyheter">Se nyheder <span aria-hidden="true">→</span></a></span></div>
+    <div class="ql-item"><img src="/home/ql-links.png" alt="" width="26" height="26"><span><span class="t">Nyttige sider</span><br><a class="textlink" href="/da/ofte-stillede-sporgsmal/">Se nyttige sider <span aria-hidden="true">→</span></a></span></div>
+  </aside>
+</div></section>
+
+
+</div><section class="band xsec"><div class="container"><span class="eyebrow">Gyldighed og frister</span><h2>ETA&#x27;ens gyldighed og hvornår du skal søge</h2><p class="xlead">Hvornår du skal søge, og hvor længe din ETA er gyldig.</p><div class="xcards x2"><div class="xcard"><h3>Gyldighed</h3><p>ETA er gyldig i <strong>2 år</strong> fra udstedelsen og giver mulighed for flere indrejser i Storbritannien. Udløber dit pas inden for de 2 år, ophører ETA samtidig med passet. Forny i så fald passet først, og søg derefter om ETA.</p></div><div class="xcard"><h3>Hvornår du skal søge</h3><p>De fleste ansøgere får en automatisk afgørelse inden for <strong>få minutter</strong> via UK ETA-appen. Søg mindst 3 hverdage før rejsen, da et mindre antal ansøgninger kan kræve yderligere behandling. Når ansøgningen er godkendt, får du en bekræftelsesmail. Ved indrejsen skal du som regel ikke vise ETA-nummeret, men det er en god idé at gemme bekræftelsen (skærmbillede eller udskrift).</p></div></div></div></section><section class="section xsec"><div class="container"><span class="eyebrow">Transit</span><h2>Transit gennem Storbritannien</h2><p class="xlead">Om du skal have ETA ved et skift, afhænger af typen af transit.</p><div class="xcards x2"><div class="xcard"><span class="eyebrow">Flytransit (airside)</span><h3>Som regel uden ETA</h3><p>Hvis du ikke passerer den britiske grænsekontrol og bliver i lufthavnens transitområde, kræves der som regel ikke ETA. Forlader du derimod transitområdet (f.eks. ved overnatning eller skift til en anden lufthavn), skal du have ETA.</p></div><div class="xcard"><span class="eyebrow">Landtransit (landside)</span><h3>Kræver som regel ETA</h3><p>Når du passerer den britiske grænsekontrol, f.eks. med Eurostar (toget gennem Kanaltunnelen) eller færge, kræves der som regel ETA.</p></div></div></div></section><section id="svenska" class="band xsec"><div class="container"><span class="eyebrow">For danskere</span><h2>UK ETA for danske statsborgere</h2><p class="xlead">Danmark er medlem af Den Europæiske Union, og danske statsborgere kan rejse til Storbritannien uden visum til ophold på op til 6 måneder. Siden den 2. april 2025 skal du dog have en gyldig UK ETA for at rejse, uanset om det er ferie, forretningsrejse, familiebesøg eller transit.</p><div class="xcards x4"><div class="xcard"><h3>Hvem skal have ETA</h3><p>Alle danske statsborgere, der rejser til Storbritannien på et kortere ophold, også børn og spædbørn. Hver person indsender sin egen ansøgning.</p></div><div class="xcard"><h3>Pas, ikke nationalt id-kort</h3><p>Indrejse i Storbritannien kræver et gyldigt pas. Nationale id-kort accepteres ikke længere (siden oktober 2021). ETA er knyttet til passet.</p></div><div class="xcard"><h3>Populære rejsemål fra Danmark</h3><p>London, Manchester, Edinburgh, Birmingham og andre byer. Én ETA dækker England, Skotland, Wales og Nordirland.</p></div><div class="xcard"><h3>Hvornår du skal søge</h3><p>Mindst 3 hverdage før afrejse. De fleste afgørelser træffes automatisk inden for få minutter, men et mindre antal ansøgninger kan kræve yderligere behandling.</p></div></div></div></section><section id="faq" class="section xsec"><div class="container xnarrow"><span class="eyebrow">FAQ</span><h2>Ofte stillede spørgsmål</h2><div class="xfaq"><details><summary><span>Skal danske statsborgere have UK ETA?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Ja. Siden den 2. april 2025 skal danske statsborgere (og andre EU-borgere) have en UK ETA, før de rejser til Storbritannien. Det gælder turist-, forretnings- og transitrejser.</p></details><details><summary><span>Hvad koster UK ETA, og hvor længe er den gyldig?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Gebyret for UK ETA er £20. Tilladelsen er gyldig i 2 år fra udstedelsen og giver mulighed for flere indrejser i Storbritannien på hver op til 6 måneder.</p></details><details><summary><span>Hvad er forskellen på UK ETA og et visum?</span><span class="xplus" aria-hidden="true">+</span></summary><p>UK ETA er en forenklet elektronisk tilladelse til korte ophold (op til 6 måneder). Den koster £20, og du søger online. Et britisk visum kræver fremmøde på et visumcenter, koster fra £100 og giver mulighed for længere ophold eller arbejde.</p></details><details><summary><span>Skal børn fra Danmark have UK ETA?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Ja. Alle rejsende, uanset alder, skal have deres egen UK ETA, også spædbørn og børn. En forælder eller værge kan søge på barnets vegne med barnets pas.</p></details><details><summary><span>Kan en dansk statsborger rejse ind i Storbritannien med nationalt id-kort?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Nej. Siden oktober 2021 kræves et gyldigt pas for at rejse ind i Storbritannien. Nationale id-kort accepteres ikke længere. UK ETA er knyttet netop til passet.</p></details><details><summary><span>Skal jeg have ETA ved et flyskift i Storbritannien?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Hvis du passerer grænsekontrollen under skiftet (f.eks. skifter terminal eller henter bagage), skal du have UK ETA. Ved transit uden at passere grænsen (airside) er den som regel ikke nødvendig. Bekræft gerne reglerne hos flyselskabet og lufthavnen.</p></details></div><a class="textlink xmore" href="/da/ofte-stillede-sporgsmal/">Se alle ofte stillede spørgsmål <span class="arrow" aria-hidden="true">→</span></a></div></section><section id="nyheter" class="band xsec"><div class="container"><span class="eyebrow">Nyheder</span><h2>Seneste nyheder</h2><p class="xlead">De vigtigste nyheder om UK ETA, gebyrer og indrejseregler for Storbritannien.</p><div class="xcards x3"><a class="xcard xlink" href="/da/pris/"><div class="xmeta"><span class="xtag" style="background-color:#8d1812;color:#ffffff">Indrejse og rejse</span><time>2026-04-08</time></div><h3>Højere immigrationsgebyrer i Storbritannien fra april 2026</h3><p>Sammen med ETA hævede Home Office fra den 8. april 2026 også andre gebyrer, blandt andet for indrejsevisum, bopæl og statsborgerskab.</p></a><a class="xcard xlink" href="/da/pris/"><div class="xmeta"><span class="xtag" style="background-color:#C5A24A;color:#1c1505">Gebyrer</span><time>2026-04-08</time></div><h3>Gebyret for UK ETA steg til £20 (fra 8. april 2026)</h3><p>Fra og med den 8. april 2026 koster UK ETA £20 i stedet for tidligere £16 (en stigning på 25 %). Det er ansøgningsdatoen, der afgør det.</p></a><a class="xcard xlink" href="/da/gyldighed/"><div class="xmeta"><span class="xtag" style="background-color:#44403c;color:#ffffff">Sikkerhed</span><time>2026-03-01</time></div><h3>Sikkerhed på rejsen til Storbritannien: det skal du være opmærksom på</h3><p>Før afrejse er det en god idé at tjekke aktuelle sikkerhedsmeddelelser og sikre sig, at passet og ETA er gyldige.</p></a></div><a class="textlink xmore" href="/da/ofte-stillede-sporgsmal/">Mere information under ofte stillede spørgsmål <span class="arrow" aria-hidden="true">→</span></a></div></section><section class="section xsec"><div class="container"><span class="eyebrow">Guide</span><h2>Nyttige sider</h2><div class="xcards x3"><a class="xcard xlink xrow" href="/da/hvad-er-eta/"><span><h3>Hvad er UK ETA?</h3><p>Grundlæggende information om ETA-ordningen</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/da/sadan-ansoger-du/"><span><h3>Sådan søger du</h3><p>Trin for trin gennem formularen</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/da/pris/"><span><h3>Gebyrer for UK ETA</h3><p>Detaljer om omkostningerne</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/da/gyldighed/"><span><h3>Gyldighed</h3><p>Hvornår du skal forny din ETA</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/da/dokumenter/"><span><h3>Nødvendige dokumenter</h3><p>Hvad du skal have klar til ansøgningen</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/da/sadan-ansoger-du/"><span><h3>Søg på GOV.UK</h3><p>Den officielle hjemmeside og app</p></span><span class="xgo" aria-hidden="true">→</span></a></div></div></section><div><section class="finalcta">
+  <div class="bg"><img src="/home/cta-bg.jpg" alt="" width="1600" height="500" loading="lazy" aria-hidden="true"></div>
+  <div class="container">
+    <span class="eyebrow">Klar til rejsen?</span>
+    <h2>Klar til at rejse til Storbritannien?</h2>
+    <p>Søg om UK ETA, og få en hurtig afgørelse.</p>
+    <div class="row"><a class="btn btn--ghost" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">Start din UK ETA-ansøgning <span class="arrow" aria-hidden="true">→</span></a></div>
+  </div>
+</section>
+
+
+</div></div>
+<!--BLOCK-->
+<div class="etahome"><footer class="footer"><div class="container">
+  <a class="brand" href="/da/">
+    <img src="/home/crown.png" alt="" width="26" height="26">
+    <span><span class="name">UK ETA</span><span class="sub">Elektronisk rejsetilladelse til Storbritannien</span></span>
+  </a>
+  <nav aria-label="Sidefod">
+    <a href="/da/om-denne-guide/">Om denne hjemmeside</a><a href="/da/privatliv/">Privatliv</a><a href="/da/juridisk-information/">Juridisk information</a><a href="/da/om-denne-guide/">Kontakt</a>
+  </nav>
+  <p class="note">Denne hjemmeside er ikke en officiel hjemmeside fra den britiske regering.</p>
+</div></footer>
+
+</div>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"lang":"da","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://eta-se.com/da/#website\",\"url\":\"https://eta-se.com/da/\",\"name\":\"UK ETA Guide\",\"description\":\"Dansk guide til UK ETA: den koster £20, gælder i 2 år og giver ophold på op til 6 måneder pr. rejse. Sådan søger du på GOV.UK's officielle side.\",\"inLanguage\":\"da\",\"publisher\":{\"@id\":\"https://eta-se.com/da/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https://eta-se.com/da/#organization\",\"name\":\"UK ETA Guide\",\"url\":\"https://eta-se.com/\",\"logo\":\"https://eta-se.com/logo-uk-eta.png\"}]}"}}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":""}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap","rel":"stylesheet","precedence":"default"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"T-Gb1HPHP2NkMOSanljng"}
+3:["$","$L5",null,{}]
+4:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

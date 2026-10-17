@@ -1,13 +1,227 @@
 1:"$Sreact.fragment"
-2:I[80622,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],""]
-a:I[63554,["/_next/static/chunks/0qw_am-7qp03n.js","/_next/static/chunks/15eih_ht.9_d9.js"],"OutletBoundary"]
-b:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"lang":"es","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://eta-se.com/es/#website\",\"url\":\"https://eta-se.com/es/\",\"name\":\"Guía UK ETA\",\"description\":\"Guía en español de la UK ETA: cuesta £20, es válida 2 años y permite estancias de hasta 6 meses por entrada. Cómo solicitarla en la web oficial de GOV.UK.\",\"inLanguage\":\"es\",\"publisher\":{\"@id\":\"https://eta-se.com/es/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https://eta-se.com/es/#organization\",\"name\":\"Guía UK ETA\",\"url\":\"https://eta-se.com/\",\"logo\":\"https://eta-se.com/logo-uk-eta.png\"}]}"}}],["$","section",null,{"className":"sub-hero relative overflow-hidden","children":[["$","div",null,{"className":"absolute inset-0 sub-hero-scrim"}],["$","div",null,{"className":"relative max-w-4xl mx-auto px-6 pt-12 pb-12 md:pt-14 md:pb-16","children":[["$","p",null,{"className":"kicker mb-3 mt-4","children":"Español"}],["$","h1",null,{"className":"deco-head text-3xl md:text-4xl font-bold text-white mb-6","style":{"fontFamily":"var(--font-noto-serif), serif"},"children":[["$","span",null,{"className":"deco-line"}],"La autorización de viaje para el Reino Unido, explicada paso a paso"]}],["$","p",null,{"className":"text-white/90 leading-relaxed","children":"Si viajas al Reino Unido desde España necesitas una UK ETA (autorización electrónica de viaje). Cuesta £20 en la web oficial, la decisión llega normalmente en 1 día y sirve para varias entradas durante 2 años."}]]}]]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-10","children":[["$","div",null,{"className":"grid gap-4 sm:grid-cols-2","children":[["$","$L2","que-es-la-eta",{"href":"/es/que-es-la-eta/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Qué es la UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["La UK ETA (Electronic Travel Authorisation) es una autorización que se pide antes de viajar. No ","…"]}]]}],["$","$L2","como-solicitarla",{"href":"/es/como-solicitarla/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Cómo solicitar la UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["La solicitud se hace íntegramente en línea, en la web oficial de GOV.UK o en la aplicación ofici","…"]}]]}],["$","$L2","precio",{"href":"/es/precio/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Cuánto cuesta la UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["El precio oficial es de £20 y se paga una sola vez. Con esa cantidad la autorización sirve duran","…"]}]]}],["$","$L2","tiempo-de-tramitacion",{"href":"/es/tiempo-de-tramitacion/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Cuánto tarda la UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["En la mayoría de los casos la respuesta llega en 1 día. Aun así, la recomendación oficial es con","…"]}]]}],["$","$L2","consultar-estado",{"href":"/es/consultar-estado/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Cómo consultar el estado de tu UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["La decisión se comunica por correo electrónico. Si no te ha llegado, puedes comprobar el estado ","…"]}]]}],"$L3","$L4","$L5","$L6"]}],"$L7","$L8"]}]]}],null,"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"liSA_jXBk6FJp8Fyf70iq"}
-3:["$","$L2","validez",{"href":"/es/validez/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Cuánto dura la UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["La autorización es válida 2 años, o hasta la fecha de caducidad del pasaporte si esta llega ante","…"]}]]}]
-4:["$","$L2","documentos-necesarios",{"href":"/es/documentos-necesarios/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Qué documentos necesitas"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["La solicitud es sencilla: pasaporte, una fotografía y un medio de pago. No se piden certificados","…"]}]]}]
-5:["$","$L2","duracion-de-la-estancia",{"href":"/es/duracion-de-la-estancia/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Cuánto tiempo puedes quedarte"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Cada entrada permite permanecer en el Reino Unido hasta 6 meses. La autorización sirve para turi","…"]}]]}]
-6:["$","$L2","preguntas-frecuentes",{"href":"/es/preguntas-frecuentes/","className":"block border border-stone-200 rounded-lg p-5 hover:shadow-md transition","children":[["$","p",null,{"className":"font-semibold text-stone-900 mb-1","children":"Preguntas frecuentes sobre la UK ETA"}],["$","p",null,{"className":"text-sm text-stone-600 leading-relaxed","children":["Respuestas breves a las dudas más habituales. Cada apartado enlaza con la explicación completa.","…"]}]]}]
-7:["$","div",null,{"className":"mt-10 p-5 bg-stone-50 border border-stone-200 rounded-lg","children":[["$","p",null,{"className":"text-sm text-stone-700 mb-3","children":"£20 · 2 · 6"}],["$","a",null,{"href":"https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta","target":"_blank","rel":"noopener noreferrer","className":"inline-block bg-stone-900 text-white px-6 py-2.5 rounded-full text-sm font-medium","children":"Solicitar en la web oficial de GOV.UK"}]]}]
-8:["$","nav",null,{"className":"mt-10 flex flex-wrap gap-4 text-sm text-stone-600","children":[["$","$L2",null,{"href":"/es/sobre-esta-guia/","className":"underline","children":"Sobre esta guía"}],["$","$L2",null,{"href":"/es/privacidad/","className":"underline","children":"Política de privacidad"}],["$","$L2",null,{"href":"/es/aviso-legal/","className":"underline","children":"Aviso legal"}]]}]
-9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
-c:null
+5:I[61574,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
+6:I[63554,["/_next/static/chunks/0881spmj3vb_b.js","/_next/static/chunks/15eih_ht.9_d9.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap","style"]
+2:T5921,<div class="etahome">
+
+
+<div class="trustbar"><div class="container">
+  <span>Web informativa independiente sobre la UK ETA. No estamos vinculados al Gobierno británico.</span>
+  <span>Información oficial: <a href="https://www.gov.uk/electronic-travel-authorisation" rel="nofollow noopener" target="_blank">GOV.UK ↗</a></span>
+</div></div>
+
+
+<header class="header"><div class="container">
+  <a class="brand" href="/es/">
+    <img src="/home/crown-navy.png" alt="" width="44" height="44">
+    <span>
+      <span class="name">UK ETA</span>
+      <span class="sub">Autorización electrónica de viaje para el Reino Unido</span>
+    </span>
+  </a>
+  <nav class="nav" aria-label="Menú principal">
+    <a href="/es/que-es-la-eta/">Qué es</a>
+    <a href="/es/que-es-la-eta/">Quién la necesita</a>
+    <a href="/es/como-solicitarla/">Cómo solicitarla</a>
+    <a href="/es/documentos-necesarios/">Requisitos</a>
+    <a href="/es/duracion-de-la-estancia/">Viajar al Reino Unido</a>
+    <a href="/es/preguntas-frecuentes/">Preguntas frecuentes</a>
+    <a href="/es/#nyheter">Noticias</a>
+  </nav>
+  <div class="spacer"></div>
+  <div class="tools">
+    <details class="langmenu"><summary class="lang" aria-label="Cambiar idioma">ES <span aria-hidden="true">⌄</span></summary><ul><li><a href="/" hreflang="sv" lang="sv">Svenska</a></li><li><a href="/en/" hreflang="en" lang="en">English</a></li><li><a href="/de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="/fr/" hreflang="fr" lang="fr">Français</a></li><li><a href="/it/" hreflang="it" lang="it">Italiano</a></li><li><a href="/es/" hreflang="es" lang="es">Español</a></li><li><a href="/nl/" hreflang="nl" lang="nl">Nederlands</a></li><li><a href="/pt/" hreflang="pt" lang="pt">Português</a></li><li><a href="/da/" hreflang="da" lang="da">Dansk</a></li><li><a href="/no/" hreflang="no" lang="no">Norsk</a></li><li><a href="/fi/" hreflang="fi" lang="fi">Suomi</a></li><li><a href="/cs/" hreflang="cs" lang="cs">Čeština</a></li><li><a href="/hu/" hreflang="hu" lang="hu">Magyar</a></li><li><a href="/ro/" hreflang="ro" lang="ro">Română</a></li><li><a href="/el/" hreflang="el" lang="el">Ελληνικά</a></li><li><a href="/he/" hreflang="he" lang="he">עברית</a></li><li><a href="/ko/" hreflang="ko" lang="ko">한국어</a></li><li><a href="/zh-tw/" hreflang="zh-tw" lang="zh-tw">繁體中文</a></li><li><a href="/zh-cn/" hreflang="zh-cn" lang="zh-cn">简体中文</a></li></ul></details>
+    <a class="iconbtn" href="/es/preguntas-frecuentes/" aria-label="Índice de la guía">
+      <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+    </a>
+    <button class="iconbtn burger" type="button" aria-label="Menú" aria-expanded="false" aria-controls="nav">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+    </button>
+    <a class="btn" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">Solicitar la UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+</div></header></div>
+<!--BLOCK-->
+<div class="etahome"><div>
+
+
+<section class="hero">
+  <div class="hero-media">
+    <img src="/home/hero-westminster.jpg" alt="El Palacio de Westminster y el Big Ben junto al Támesis, en Londres" width="2121" height="900" fetchpriority="high">
+  </div>
+  <div class="container">
+    <div class="hero-inner">
+      <span class="hero-pill">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" style="color:#062F55"><path d="M21 16v-2l-8-5V3.5a1.5 1.5 0 0 0-3 0V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L13 19v-5.5z"/></svg>
+        <span>Información sobre la UK ETA para viajeros españoles</span>
+      </span>
+      <h1>UK ETA<span class="sub">Autorización electrónica de viaje para el Reino Unido</span></h1>
+      <p class="lead">Los ciudadanos españoles necesitan una UK ETA para viajar al Reino Unido en estancias cortas.</p>
+      <div class="hero-actions">
+        <a class="btn" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">Solicitar la UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+        <a class="textlink" href="#oversikt">Más información sobre la UK ETA <span aria-hidden="true">↓</span></a>
+      </div>
+    </div>
+  </div>
+  <div class="hero-script" aria-hidden="true">Explore<br><span>the UK</span></div>
+  <a class="hero-card" href="/es/que-es-la-eta/" style="text-decoration:none">
+    <p>Inglaterra, Escocia, Gales e Irlanda del Norte</p>
+    <span class="round" aria-hidden="true">→</span>
+  </a>
+</section>
+
+
+<div class="keyfacts"><div class="container"><div class="panel">
+  <div class="cell">
+    <img src="/home/fact-fee.png" alt="" width="30" height="30">
+    <span><span class="v">£20</span><span class="k">Tasa de solicitud</span></span>
+  </div>
+  <div class="cell">
+    <img src="/home/fact-time.png" alt="" width="30" height="30">
+    <span><span class="v">Minutos</span><span class="k">Decisión automática en la mayoría de los casos</span></span>
+  </div>
+  <div class="cell">
+    <img src="/home/fact-valid.png" alt="" width="30" height="30">
+    <span><span class="v">2 años</span><span class="k">Validez</span></span>
+  </div>
+</div></div></div>
+
+
+<section class="section"><div class="container two-col">
+  <article class="block" id="oversikt">
+    <div class="body">
+      <span class="eyebrow">Qué es</span>
+      <h2>¿Qué es la UK ETA?</h2>
+      <p>La UK ETA (Electronic Travel Authorisation) es una autorización electrónica de viaje que necesitan los ciudadanos españoles para viajar al Reino Unido por turismo, negocios, estudios de corta duración o tránsito.</p>
+      <a class="textlink" href="/es/que-es-la-eta/">Más información sobre la UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+    </div>
+    <div class="visual"><img src="/home/union-jack.jpg" alt="Bandera del Reino Unido sobre un cielo azul" width="1200" height="840" loading="lazy"></div>
+  </article>
+
+  <article class="block" id="vem">
+    <div class="body">
+      <span class="eyebrow">Quién la necesita</span>
+      <h2>¿Quién necesita la UK ETA?</h2>
+      <p>Los ciudadanos españoles necesitan una UK ETA para viajar al Reino Unido, es decir, a Inglaterra, Escocia, Gales e Irlanda del Norte, en estancias cortas.</p>
+      <a class="textlink" href="/es/que-es-la-eta/">Comprueba si necesitas la UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+    </div>
+    <div class="visual map"><div class="map-wrap">
+      <img src="/home/uk-map.png" alt="Mapa del Reino Unido con Inglaterra, Escocia, Gales e Irlanda del Norte" width="672" height="900" loading="lazy">
+      <span class="ml ml-sc">Escocia</span>
+      <span class="ml ml-ni">Irlanda<br>del Norte</span>
+      <span class="ml ml-ie">Irlanda</span>
+      <span class="ml ml-wa">Gales</span>
+      <span class="ml ml-en">Inglaterra</span>
+    </div></div>
+  </article>
+</div></section>
+
+
+<section class="band"><div class="container cols">
+  <div id="krav">
+    <span class="eyebrow">Requisitos</span>
+    <h2>Qué necesitas</h2>
+    <p class="muted" style="margin-top:8px;font-size:14.5px">Para solicitar la UK ETA necesitas lo siguiente:</p>
+    <div class="req-grid">
+      <div class="req-card"><img src="/home/req-passport.png" alt="" width="34" height="34"><div class="num">1</div><div class="t">Pasaporte en vigor</div><div class="d">Foto o escaneo de la página con la fotografía.</div></div>
+      <div class="req-card"><img src="/home/req-photo.png" alt="" width="34" height="34"><div class="num">2</div><div class="t">Fotografía del rostro</div><div class="d">Una foto nítida de tu cara.</div></div>
+      <div class="req-card"><img src="/home/req-email.png" alt="" width="34" height="34"><div class="num">3</div><div class="t">Correo electrónico</div><div class="d">Para recibir la decisión.</div></div>
+      <div class="req-card"><img src="/home/req-card.png" alt="" width="34" height="34"><div class="num">4</div><div class="t">Tarjeta de pago</div><div class="d">Para pagar la tasa de solicitud (£20).</div></div>
+    </div>
+  </div>
+
+  <div id="ansokan">
+    <span class="eyebrow">Solicitud</span>
+    <h2>Cómo se solicita</h2>
+    <p class="muted" style="margin-top:8px;font-size:14.5px">La solicitud se hace a través de la aplicación oficial UK ETA.</p>
+    <div class="app-wrap">
+      <div>
+        <div class="steps">
+          <div class="step"><div class="circle">01</div><div class="d">Descarga la aplicación UK ETA</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">02</div><div class="d">Escanea el pasaporte y hazte una foto</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">03</div><div class="d">Completa el formulario y paga (£20)</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">04</div><div class="d">Espera la aprobación</div></div>
+        </div>
+        <a class="textlink" href="/es/como-solicitarla/" style="margin-top:20px">Ver la guía detallada paso a paso <span class="arrow" aria-hidden="true">→</span></a>
+      </div>
+      <img class="phone" src="/home/phone-mock.png" alt="La aplicación UK ETA en la pantalla de un teléfono móvil" width="760" height="1497" loading="lazy">
+    </div>
+  </div>
+</div></section>
+
+
+<section class="section lower"><div class="container lower-grid">
+  <div class="lower-main">
+    <div class="row-travel">
+  <div id="resa">
+    <span class="eyebrow">Viajar al Reino Unido</span>
+    <h2>Viajar al Reino Unido</h2>
+    <p>La UK ETA sirve para viajar a Inglaterra, Escocia, Gales e Irlanda del Norte. Irlanda no está incluida. Las normas también se aplican en tránsito, según pases o no el control fronterizo (airside o landside).</p>
+    <a class="textlink" href="/es/duracion-de-la-estancia/">Más sobre las normas de viaje <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+
+  <div class="photo-cards">
+    <a class="photo-card" href="/es/duracion-de-la-estancia/">
+      <img src="/home/airside.jpg" alt="Sala de embarque de un aeropuerto al atardecer" width="800" height="600" loading="lazy">
+      <span class="cap"><span class="t">Tránsito airside</span><span class="d">Normalmente no necesitas la UK ETA.</span></span>
+      <span class="go" aria-hidden="true">→</span>
+    </a>
+    <a class="photo-card" href="/es/duracion-de-la-estancia/">
+      <img src="/home/landside.jpg" alt="Sala de llegadas de un aeropuerto con viajeros" width="800" height="600" loading="lazy">
+      <span class="cap"><span class="t">Tránsito landside</span><span class="d">Necesitas la UK ETA.</span></span>
+      <span class="go" aria-hidden="true">→</span>
+    </a>
+  </div>
+
+    </div>
+    <div class="row-sv">
+  <div>
+    <span class="eyebrow">UK ETA para ciudadanos españoles</span>
+    <h2>UK ETA para ciudadanos españoles</h2>
+    <p>Información sobre lo que se aplica en concreto a los ciudadanos españoles: validez, viajes incluidos y preguntas frecuentes.</p>
+    <a class="textlink" href="#svenska">Más información para ciudadanos españoles <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+  <img src="/home/city-madrid.jpg" alt="" width="1200" height="600" loading="lazy">
+</div>
+  </div>
+  <aside class="ql">
+    <span class="eyebrow">Accesos rápidos</span>
+    <div class="ql-item"><img src="/home/ql-faq.png" alt="" width="26" height="26"><span><span class="t">Preguntas frecuentes</span><br><a class="textlink" href="/es/preguntas-frecuentes/">Ver preguntas frecuentes <span aria-hidden="true">→</span></a></span></div>
+    <div class="ql-item"><img src="/home/ql-news.png" alt="" width="26" height="26"><span><span class="t">Últimas novedades</span><br><a class="textlink" href="/es/#nyheter">Ver noticias <span aria-hidden="true">→</span></a></span></div>
+    <div class="ql-item"><img src="/home/ql-links.png" alt="" width="26" height="26"><span><span class="t">Páginas útiles</span><br><a class="textlink" href="/es/preguntas-frecuentes/">Ver páginas útiles <span aria-hidden="true">→</span></a></span></div>
+  </aside>
+</div></section>
+
+
+</div><section class="band xsec"><div class="container"><span class="eyebrow">Validez y plazos</span><h2>Cuánto dura la ETA y cuándo solicitarla</h2><p class="xlead">Cuándo conviene solicitarla y durante cuánto tiempo sigue siendo válida.</p><div class="xcards x2"><div class="xcard"><h3>Validez</h3><p>La ETA es válida durante <strong>2 años</strong> desde su emisión y permite varias entradas en el Reino Unido. Si tu pasaporte caduca antes de esos 2 años, la ETA deja de ser válida a la vez que el pasaporte: en ese caso, renueva primero el pasaporte y después solicita la ETA.</p></div><div class="xcard"><h3>Cuándo solicitarla</h3><p>La mayoría de los solicitantes recibe una decisión automática en <strong>pocos minutos</strong> a través de la aplicación UK ETA. Solicítala al menos 3 días laborables antes del viaje, porque un pequeño número de solicitudes requiere una revisión adicional. Una vez aprobada, recibirás un correo de confirmación; al entrar en el país normalmente no tendrás que mostrar el número de la ETA, pero conviene guardar la confirmación (captura de pantalla o copia impresa).</p></div></div></div></section><section class="section xsec"><div class="container"><span class="eyebrow">Tránsito</span><h2>Tránsito por el Reino Unido</h2><p class="xlead">Que necesites o no la ETA en una escala depende del tipo de tránsito.</p><div class="xcards x2"><div class="xcard"><span class="eyebrow">Tránsito aéreo (airside)</span><h3>Por lo general, sin ETA</h3><p>Si no pasas el control fronterizo británico y permaneces en la zona de tránsito del aeropuerto, normalmente no se exige la ETA. En cambio, si sales de la zona de tránsito (por ejemplo, para pasar la noche o cambiar a otro aeropuerto), sí la necesitas.</p></div><div class="xcard"><span class="eyebrow">Tránsito terrestre (landside)</span><h3>Por lo general, con ETA</h3><p>Si pasas por el control fronterizo británico, por ejemplo en el Eurostar (tren bajo el canal de la Mancha) o en ferri, normalmente se exige la ETA.</p></div></div></div></section><section id="svenska" class="band xsec"><div class="container"><span class="eyebrow">Para españoles</span><h2>UK ETA para ciudadanos españoles</h2><p class="xlead">España es miembro de la Unión Europea y los ciudadanos españoles pueden viajar al Reino Unido sin visado para estancias de hasta 6 meses. No obstante, desde el 2 de abril de 2025 es obligatorio contar con una UK ETA válida para viajar, ya sea por vacaciones, negocios, visitas familiares o tránsito.</p><div class="xcards x4"><div class="xcard"><h3>Quién debe tener la ETA</h3><p>Todos los ciudadanos españoles que viajen al Reino Unido para una estancia corta, incluidos niños y bebés. Cada persona presenta su propia solicitud.</p></div><div class="xcard"><h3>Pasaporte, no DNI</h3><p>Para entrar en el Reino Unido se exige un pasaporte en vigor: el DNI ya no se acepta (desde octubre de 2021). La ETA queda vinculada a ese pasaporte.</p></div><div class="xcard"><h3>Destinos habituales desde España</h3><p>Londres, Mánchester, Edimburgo, Birmingham y otras ciudades. Una sola ETA cubre Inglaterra, Escocia, Gales e Irlanda del Norte.</p></div><div class="xcard"><h3>Cuándo solicitarla</h3><p>Al menos 3 días laborables antes de la salida. La mayoría de las decisiones se toman de forma automática en pocos minutos, pero un pequeño número de solicitudes requiere una revisión adicional.</p></div></div></div></section><section id="faq" class="section xsec"><div class="container xnarrow"><span class="eyebrow">FAQ</span><h2>Preguntas frecuentes</h2><div class="xfaq"><details><summary><span>¿Necesitan los ciudadanos españoles la UK ETA?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Sí. Desde el 2 de abril de 2025, los ciudadanos españoles (y el resto de ciudadanos de la UE) deben tener una UK ETA antes de viajar al Reino Unido. Se aplica a viajes de turismo, de negocios y de tránsito.</p></details><details><summary><span>¿Cuánto cuesta la UK ETA y cuánto tiempo es válida?</span><span class="xplus" aria-hidden="true">+</span></summary><p>La tasa de la UK ETA es de £20. La autorización es válida durante 2 años desde su emisión y permite varias entradas en el Reino Unido, cada una de hasta 6 meses.</p></details><details><summary><span>¿Qué diferencia hay entre la UK ETA y un visado?</span><span class="xplus" aria-hidden="true">+</span></summary><p>La UK ETA es una autorización electrónica simplificada para estancias cortas (hasta 6 meses). Cuesta £20 y se solicita en línea. Un visado británico exige acudir a un centro de solicitud de visados, cuesta desde £100 y permite estancias más largas o trabajar.</p></details><details><summary><span>¿Necesitan los niños españoles la UK ETA?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Sí. Cada viajero, sea cual sea su edad, debe tener su propia UK ETA, también los bebés y los niños. Un progenitor o tutor puede solicitarla en nombre del menor con el pasaporte del menor.</p></details><details><summary><span>¿Puede un ciudadano español entrar en el Reino Unido con el DNI?</span><span class="xplus" aria-hidden="true">+</span></summary><p>No. Desde octubre de 2021 se exige un pasaporte en vigor para entrar en el Reino Unido; el DNI ya no se acepta. La UK ETA queda vinculada precisamente a ese pasaporte.</p></details><details><summary><span>¿Necesito la ETA para un vuelo con escala en el Reino Unido?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Si pasas el control fronterizo durante la escala (por ejemplo, para cambiar de terminal o recoger el equipaje), necesitas la UK ETA. Si haces el tránsito sin cruzar la frontera (airside), normalmente no hace falta; en cualquier caso, conviene confirmar las normas con la aerolínea y el aeropuerto.</p></details></div><a class="textlink xmore" href="/es/preguntas-frecuentes/">Ver todas las preguntas frecuentes <span class="arrow" aria-hidden="true">→</span></a></div></section><section id="nyheter" class="band xsec"><div class="container"><span class="eyebrow">Noticias</span><h2>Últimas noticias</h2><p class="xlead">Las novedades más importantes sobre la UK ETA, las tasas y las normas de entrada en el Reino Unido.</p><div class="xcards x3"><a class="xcard xlink" href="/es/precio/"><div class="xmeta"><span class="xtag" style="background-color:#8d1812;color:#ffffff">Entrada y viaje</span><time>2026-04-08</time></div><h3>Suben las tasas de inmigración del Reino Unido desde abril de 2026</h3><p>Junto con la ETA, desde el 8 de abril de 2026 el Home Office también ha subido otras tasas, entre ellas las de visados de entrada, residencia y ciudadanía.</p></a><a class="xcard xlink" href="/es/precio/"><div class="xmeta"><span class="xtag" style="background-color:#C5A24A;color:#1c1505">Tasas</span><time>2026-04-08</time></div><h3>La tasa de la UK ETA sube a £20 (desde el 8 de abril de 2026)</h3><p>Desde el 8 de abril de 2026, la UK ETA cuesta £20 en lugar de las £16 anteriores (un aumento del 25 %). Lo que cuenta es la fecha de la solicitud.</p></a><a class="xcard xlink" href="/es/validez/"><div class="xmeta"><span class="xtag" style="background-color:#44403c;color:#ffffff">Seguridad</span><time>2026-03-01</time></div><h3>Seguridad en el viaje al Reino Unido: qué tener en cuenta</h3><p>Antes de salir, conviene consultar los avisos de seguridad vigentes y asegurarse de que el pasaporte y la ETA están en vigor.</p></a></div><a class="textlink xmore" href="/es/preguntas-frecuentes/">Más información en las preguntas frecuentes <span class="arrow" aria-hidden="true">→</span></a></div></section><section class="section xsec"><div class="container"><span class="eyebrow">Guía</span><h2>Páginas útiles</h2><div class="xcards x3"><a class="xcard xlink xrow" href="/es/que-es-la-eta/"><span><h3>¿Qué es la UK ETA?</h3><p>Información básica sobre el sistema ETA</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/es/como-solicitarla/"><span><h3>Cómo se solicita</h3><p>El formulario, paso a paso</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/es/precio/"><span><h3>Tasas de la UK ETA</h3><p>Detalle de los costes</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/es/validez/"><span><h3>Validez</h3><p>Cuándo tienes que renovar la ETA</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/es/documentos-necesarios/"><span><h3>Documentos necesarios</h3><p>Qué preparar antes de solicitarla</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/es/como-solicitarla/"><span><h3>Solicitar en la web oficial de GOV.UK</h3><p>La web y la aplicación oficiales</p></span><span class="xgo" aria-hidden="true">→</span></a></div></div></section><div><section class="finalcta">
+  <div class="bg"><img src="/home/cta-bg.jpg" alt="" width="1600" height="500" loading="lazy" aria-hidden="true"></div>
+  <div class="container">
+    <span class="eyebrow">¿Listo para el viaje?</span>
+    <h2>¿Preparado para viajar al Reino Unido?</h2>
+    <p>Solicita la UK ETA y recibe una decisión rápida.</p>
+    <div class="row"><a class="btn btn--ghost" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">Empezar la solicitud de la UK ETA <span class="arrow" aria-hidden="true">→</span></a></div>
+  </div>
+</section>
+
+
+</div></div>
+<!--BLOCK-->
+<div class="etahome"><footer class="footer"><div class="container">
+  <a class="brand" href="/es/">
+    <img src="/home/crown.png" alt="" width="26" height="26">
+    <span><span class="name">UK ETA</span><span class="sub">Autorización electrónica de viaje para el Reino Unido</span></span>
+  </a>
+  <nav aria-label="Pie de página">
+    <a href="/es/sobre-esta-guia/">Sobre esta web</a><a href="/es/privacidad/">Privacidad</a><a href="/es/aviso-legal/">Aviso legal</a><a href="/es/sobre-esta-guia/">Contacto</a>
+  </nav>
+  <p class="note">Esta web no es un sitio oficial del Gobierno británico.</p>
+</div></footer>
+
+</div>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"lang":"es","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://eta-se.com/es/#website\",\"url\":\"https://eta-se.com/es/\",\"name\":\"Guía UK ETA\",\"description\":\"Guía en español de la UK ETA: cuesta £20, es válida 2 años y permite estancias de hasta 6 meses por entrada. Cómo solicitarla en la web oficial de GOV.UK.\",\"inLanguage\":\"es\",\"publisher\":{\"@id\":\"https://eta-se.com/es/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https://eta-se.com/es/#organization\",\"name\":\"Guía UK ETA\",\"url\":\"https://eta-se.com/\",\"logo\":\"https://eta-se.com/logo-uk-eta.png\"}]}"}}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":""}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap","rel":"stylesheet","precedence":"default"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"T-Gb1HPHP2NkMOSanljng"}
+3:["$","$L5",null,{}]
+4:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null
