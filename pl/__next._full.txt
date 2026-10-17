@@ -1,0 +1,262 @@
+1:"$Sreact.fragment"
+2:I[71114,["/pl/_next/static/chunks/0yzghv_0wdxnp.js","/pl/_next/static/chunks/0a~tbvpam_0cv.js"],"default"]
+3:I[12125,["/pl/_next/static/chunks/0yzghv_0wdxnp.js","/pl/_next/static/chunks/0a~tbvpam_0cv.js"],"default"]
+4:I[13118,["/pl/_next/static/chunks/0yzghv_0wdxnp.js","/pl/_next/static/chunks/0a~tbvpam_0cv.js"],"default"]
+5:I[79939,["/pl/_next/static/chunks/0yzghv_0wdxnp.js","/pl/_next/static/chunks/0a~tbvpam_0cv.js"],"default"]
+6:I[56972,["/pl/_next/static/chunks/0yzghv_0wdxnp.js","/pl/_next/static/chunks/0a~tbvpam_0cv.js"],""]
+12:I[44143,["/pl/_next/static/chunks/0yzghv_0wdxnp.js","/pl/_next/static/chunks/0a~tbvpam_0cv.js"],"default",1]
+:HL["/pl/_next/static/chunks/0-m94h-8_t7en.css","style"]
+:HL["/pl/_next/static/media/2a65768255d6b625-s.p.14by5b4al-y~f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/pl/_next/static/media/57dc28f7118abe14-s.p.0~q417~7alp5b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/pl/_next/static/media/70e3db2de7f94926-s.p.0~0iy9faq3424.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/pl/_next/static/media/7ddd198311ba7843-s.p.11f_0f-25f9yg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/pl/_next/static/media/ae8872c8a32e309c-s.p.05txd3dlozf45.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/pl/_next/static/media/b49b0d9b851e4899-s.p.0yfy_qj1.2qn0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/pl/_next/static/chunks/0~foo0ce69dok.css","style"]
+0:{"P":null,"c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/pl/_next/static/chunks/0-m94h-8_t7en.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/pl/_next/static/chunks/0yzghv_0wdxnp.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/pl/_next/static/chunks/0a~tbvpam_0cv.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"pl","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"work_sans_960ee8e1-module__rj2tNa__variable playfair_display_1a3965ef-module__uFa96q__variable playfair_display_fedd1938-module__FumhAa__variable antialiased","children":[["$","$L2",null,{"children":["$","$L3",null,{}]}],["$","main",null,{"className":"min-h-screen","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L2",null,{"children":["$","footer",null,{"children":["$","div",null,{"className":"bg-[#011a33]","style":{"color":"white"},"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-4 gap-8","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-lg font-bold mb-3 text-white","style":{"fontFamily":"var(--font-noto-serif), serif"},"children":"UK ETA Online"}],["$","p",null,{"className":"text-sm leading-relaxed","style":{"color":"white"},"children":"Kompletny przewodnik po Elektronicznej Autoryzacji Podróży (ETA) do Wielkiej Brytanii."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-bold mb-3 uppercase tracking-wider","style":{"color":"white"},"children":"Informacje o UK ETA"}],["$","ul",null,{"className":"space-y-2 text-sm","style":{"color":"white"},"children":[["$","li",null,{"children":["$","$L6",null,{"href":"/eta-info/what-is-eta/","className":"hover:text-gray-200 transition","style":{"color":"white","textDecoration":"underline"},"children":"Czym jest UK ETA?"}]}],["$","li",null,{"children":["$","$L6",null,{"href":"/eta-info/application/","className":"hover:text-gray-200 transition","style":{"color":"white","textDecoration":"underline"},"children":"Sposób składania wniosku"}]}],["$","li",null,{"children":["$","$L6",null,{"href":"/eta-info/fee/","className":"hover:text-gray-200 transition","style":{"color":"white","textDecoration":"underline"},"children":"Opłaty"}]}],["$","li",null,{"children":["$","$L6",null,{"href":"/eta-info/expiration/","className":"hover:text-gray-200 transition","style":{"color":"white","textDecoration":"underline"},"children":"Okres ważności"}]}],["$","li",null,{"children":["$","$L6",null,{"href":"/eta-info/status-check/","className":"hover:text-gray-200 transition","style":{"color":"white","textDecoration":"underline"},"children":"Sprawdzenie statusu"}]}],["$","li",null,{"children":["$","$L6",null,{"href":"/faq/","className":"hover:text-gray-200 transition","style":{"color":"white","textDecoration":"underline"},"children":"FAQ"}]}],["$","li",null,{"children":["$","$L6",null,{"href":"/news/","className":"hover:text-gray-200 transition","style":{"color":"white","textDecoration":"underline"},"children":"Najnowsze informacje"}]}],"$L7","$L8","$L9"]}]]}],"$La","$Lb","$Lc"]}]}],"$Ld"]}]}]}],"$Le","$Lf"]}]]}]]}],{"children":["$L10",{},null,false,null]},null,false,null],"$L11",false]],"m":"$undefined","G":["$12",["$L13"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"JrW0fmZCB8w3aK5Dtd_Bl"}
+14:I[39464,["/pl/_next/static/chunks/0yzghv_0wdxnp.js","/pl/_next/static/chunks/0a~tbvpam_0cv.js"],"default"]
+15:I[38073,["/pl/_next/static/chunks/0yzghv_0wdxnp.js","/pl/_next/static/chunks/0a~tbvpam_0cv.js"],"default"]
+1b:I[34839,["/pl/_next/static/chunks/0yzghv_0wdxnp.js","/pl/_next/static/chunks/0a~tbvpam_0cv.js"],"ViewportBoundary"]
+1d:I[34839,["/pl/_next/static/chunks/0yzghv_0wdxnp.js","/pl/_next/static/chunks/0a~tbvpam_0cv.js"],"MetadataBoundary"]
+1e:"$Sreact.suspense"
+:HL["https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap","style"]
+7:["$","li",null,{"children":["$","$L6",null,{"href":"/uk-entry/wjazd-i-wiza/","className":"hover:text-gray-200 transition","style":{"color":"white","textDecoration":"underline"},"children":"Wjazd do UK i wizy"}]}]
+8:["$","li",null,{"children":["$","$L6",null,{"href":"/uk-entry/lotnisko-heathrow/","className":"hover:text-gray-200 transition","style":{"color":"white","textDecoration":"underline"},"children":"Lotnisko Heathrow"}]}]
+9:["$","li",null,{"children":["$","$L6",null,{"href":"/uk-entry/lotniska-londynu/","className":"hover:text-gray-200 transition","style":{"color":"white","textDecoration":"underline"},"children":"Lotniska Londynu"}]}]
+a:["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-bold mb-3 uppercase tracking-wider","style":{"color":"white"},"children":"USA ESTA"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","a",null,{"href":"https://esta-hr.com/pl/","className":"hover:text-gray-200 transition","style":{"color":"white","textDecoration":"underline"},"children":"ESTA do USA — przewodnik"}]}],["$","li",null,{"children":["$","a",null,{"href":"https://esta-hr.com/pl/eta-info/status-check/","className":"hover:text-gray-200 transition","style":{"color":"white","textDecoration":"underline"},"children":"Sprawdzenie statusu ESTA"}]}],["$","li",null,{"children":["$","a",null,{"href":"https://esta-hr.com/pl/eta-info/fee/","className":"hover:text-gray-200 transition","style":{"color":"white","textDecoration":"underline"},"children":"Opłata za ESTA"}]}]]}]]}]
+b:["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-bold mb-3 uppercase tracking-wider","style":{"color":"white"},"children":"Informacje o stronie"}],["$","ul",null,{"className":"space-y-2 text-sm","style":{"color":"white"},"children":[["$","li",null,{"children":["$","$L6",null,{"href":"/site-info/about/","className":"hover:text-gray-200 transition","style":{"color":"white","textDecoration":"underline"},"children":"O nas"}]}],["$","li",null,{"children":["$","$L6",null,{"href":"/site-info/contact/","className":"hover:text-gray-200 transition","style":{"color":"white","textDecoration":"underline"},"children":"Kontakt"}]}],["$","li",null,{"children":["$","$L6",null,{"href":"/site-info/privacy-policy/","className":"hover:text-gray-200 transition","style":{"color":"white","textDecoration":"underline"},"children":"Polityka prywatności"}]}],["$","li",null,{"children":["$","$L6",null,{"href":"/site-info/agreement/","className":"hover:text-gray-200 transition","style":{"color":"white","textDecoration":"underline"},"children":"Regulamin"}]}],["$","li",null,{"children":["$","$L6",null,{"href":"/sitemap/","className":"hover:text-gray-200 transition","style":{"color":"white","textDecoration":"underline"},"children":"Mapa strony"}]}]]}]]}]
+c:["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-bold mb-3 uppercase tracking-wider","style":{"color":"white"},"children":"Strony oficjalne"}],["$","ul",null,{"className":"space-y-2 text-sm","style":{"color":"white"},"children":[["$","li",null,{"children":["$","a",null,{"href":"https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta","target":"_blank","rel":"noopener noreferrer","className":"hover:text-gray-200 transition","style":{"color":"white","textDecoration":"underline"},"children":"Oficjalna strona UK ETA (GOV.UK)"}]}],["$","li",null,{"children":["$","a",null,{"href":"https://www.gov.uk/check-uk-visa","target":"_blank","rel":"noopener noreferrer","className":"hover:text-gray-200 transition","style":{"color":"white","textDecoration":"underline"},"children":"Sprawdź wymagania wizowe UK"}]}],["$","li",null,{"children":["$","a",null,{"href":"https://www.gov.pl/web/wielkabrytania","target":"_blank","rel":"noopener noreferrer","className":"hover:text-gray-200 transition","style":{"color":"white","textDecoration":"underline"},"children":"Ambasada RP w Londynie"}]}]]}],["$","div",null,{"className":"mt-4 p-3 bg-[#022444] border border-white/10 rounded text-xs","style":{"color":"white"},"children":["Niniejsza strona nie jest powiązana z rządem Wielkiej Brytanii. Oficjalna strona UK ETA:"," ",["$","a",null,{"href":"https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta","className":"underline hover:text-white","style":{"color":"white"},"target":"_blank","rel":"noopener noreferrer","children":"gov.uk/eta"}]]}]]}]
+d:["$","div",null,{"className":"border-t border-white/10 py-4","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4","children":["$","p",null,{"className":"text-xs text-center","style":{"color":"white"},"children":["© ",2026,"UK ETA Online. Wszelkie prawa zastrzeżone. | Strona informacyjna — nie jest oficjalną stroną rządu Wielkiej Brytanii."]}]}]}]
+e:["$","$L14",null,{}]
+f:["$","$L2",null,{"children":["$","$L15",null,{}]}]
+16:T58e4,<div class="etahome">
+
+
+<div class="trustbar"><div class="container">
+  <span>Niezależny serwis informacyjny o UK ETA. Nie jesteśmy powiązani z rządem Wielkiej Brytanii.</span>
+  <span>Oficjalne informacje: <a href="https://www.gov.uk/electronic-travel-authorisation" rel="nofollow noopener" target="_blank">GOV.UK ↗</a></span>
+</div></div>
+
+
+<header class="header"><div class="container">
+  <a class="brand" href="/pl/">
+    <img src="/home/crown-navy.png" alt="" width="44" height="44">
+    <span>
+      <span class="name">UK ETA</span>
+      <span class="sub">Elektroniczna Autoryzacja Podróży do Wielkiej Brytanii</span>
+    </span>
+  </a>
+  <nav class="nav" aria-label="Menu główne">
+    <a href="/pl/eta-info/what-is-eta/">Przegląd</a>
+    <a href="/pl/eta-info/kto-potrzebuje/">Kto potrzebuje ETA?</a>
+    <a href="/pl/eta-info/application/">Jak złożyć wniosek?</a>
+    <a href="/pl/eta-info/required-documents/">Wymagania</a>
+    <a href="/pl/uk-entry/passport-requirements/">Podróż do UK</a>
+    <a href="/pl/faq/">FAQ</a>
+    <a href="/pl/news/">Aktualności</a>
+  </nav>
+  <div class="spacer"></div>
+  <div class="tools">
+    <details class="langmenu"><summary class="lang" aria-label="Zmień język">PL <span aria-hidden="true">⌄</span></summary><ul><li><a href="/" hreflang="sv" lang="sv">Svenska</a></li><li><a href="/en/" hreflang="en" lang="en">English</a></li><li><a href="/de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="/fr/" hreflang="fr" lang="fr">Français</a></li><li><a href="/hr/" hreflang="hr" lang="hr">Hrvatski</a></li><li><a href="/pl/" hreflang="pl" lang="pl">Polski</a></li><li><a href="/it/" hreflang="it" lang="it">Italiano</a></li><li><a href="/es/" hreflang="es" lang="es">Español</a></li><li><a href="/nl/" hreflang="nl" lang="nl">Nederlands</a></li><li><a href="/pt/" hreflang="pt" lang="pt">Português</a></li><li><a href="/da/" hreflang="da" lang="da">Dansk</a></li><li><a href="/no/" hreflang="no" lang="no">Norsk</a></li><li><a href="/fi/" hreflang="fi" lang="fi">Suomi</a></li><li><a href="/cs/" hreflang="cs" lang="cs">Čeština</a></li><li><a href="/hu/" hreflang="hu" lang="hu">Magyar</a></li><li><a href="/ro/" hreflang="ro" lang="ro">Română</a></li><li><a href="/el/" hreflang="el" lang="el">Ελληνικά</a></li><li><a href="/he/" hreflang="he" lang="he">עברית</a></li><li><a href="/ko/" hreflang="ko" lang="ko">한국어</a></li><li><a href="/zh-tw/" hreflang="zh-tw" lang="zh-tw">繁體中文</a></li><li><a href="/zh-cn/" hreflang="zh-cn" lang="zh-cn">简体中文</a></li></ul></details>
+    <a class="iconbtn" href="/pl/sitemap/" aria-label="Mapa strony">
+      <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+    </a>
+    <button class="iconbtn burger" type="button" aria-label="Menu" aria-expanded="false" aria-controls="nav">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+    </button>
+    <a class="btn" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">Złóż wniosek o UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+</div></header></div>
+<!--BLOCK-->
+<div class="etahome"><div>
+
+
+<section class="hero">
+  <div class="hero-media">
+    <img src="/home/hero-westminster.jpg" alt="Pałac Westminsterski i Big Ben nad Tamizą w Londynie" width="2121" height="900" fetchpriority="high">
+  </div>
+  <div class="container">
+    <div class="hero-inner">
+      <span class="hero-pill">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" style="color:#062F55"><path d="M21 16v-2l-8-5V3.5a1.5 1.5 0 0 0-3 0V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L13 19v-5.5z"/></svg>
+        <span>Informacje o UK ETA dla podróżnych z Polski</span>
+      </span>
+      <h1>UK ETA<span class="sub">Elektroniczna Autoryzacja Podróży do Wielkiej Brytanii</span></h1>
+      <p class="lead">Obywatele Polski potrzebują UK ETA na krótkie pobyty w Wielkiej Brytanii.</p>
+      <div class="hero-actions">
+        <a class="btn" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">Złóż wniosek o UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+        <a class="textlink" href="#oversikt">Dowiedz się więcej o UK ETA <span aria-hidden="true">↓</span></a>
+      </div>
+    </div>
+  </div>
+  <div class="hero-script" aria-hidden="true">Explore<br><span>the UK</span></div>
+  <a class="hero-card" href="/pl/eta-info/kto-potrzebuje/" style="text-decoration:none">
+    <p>Anglia, Szkocja, Walia i Irlandia Północna</p>
+    <span class="round" aria-hidden="true">→</span>
+  </a>
+</section>
+
+
+<div class="keyfacts"><div class="container"><div class="panel">
+  <div class="cell">
+    <img src="/home/fact-fee.png" alt="" width="30" height="30">
+    <span><span class="v">£20</span><span class="k">Opłata za wniosek</span></span>
+  </div>
+  <div class="cell">
+    <img src="/home/fact-time.png" alt="" width="30" height="30">
+    <span><span class="v">Kilka minut</span><span class="k">Automatyczna decyzja w większości przypadków</span></span>
+  </div>
+  <div class="cell">
+    <img src="/home/fact-valid.png" alt="" width="30" height="30">
+    <span><span class="v">2 lata</span><span class="k">Okres ważności</span></span>
+  </div>
+</div></div></div>
+
+
+<section class="section"><div class="container two-col">
+  <article class="block" id="oversikt">
+    <div class="body">
+      <span class="eyebrow">Przegląd</span>
+      <h2>Czym jest UK ETA?</h2>
+      <p>UK ETA (Electronic Travel Authorisation) to elektroniczna autoryzacja podróży, której obywatele Polski potrzebują, aby wjechać do Wielkiej Brytanii w celach turystycznych, służbowych, na krótkie studia lub w tranzycie. Nie jest to wiza.</p>
+      <a class="textlink" href="/pl/eta-info/what-is-eta/">Dowiedz się więcej o UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+    </div>
+    <div class="visual"><img src="/home/union-jack.jpg" alt="Flaga Wielkiej Brytanii na tle błękitnego nieba" width="1200" height="840" loading="lazy"></div>
+  </article>
+
+  <article class="block" id="vem">
+    <div class="body">
+      <span class="eyebrow">Kto potrzebuje ETA?</span>
+      <h2>Kto potrzebuje UK ETA?</h2>
+      <p>Obywatele Polski, podobnie jak pozostali obywatele UE, potrzebują UK ETA na krótki pobyt w Wielkiej Brytanii, czyli w Anglii, Szkocji, Walii i Irlandii Północnej.</p>
+      <a class="textlink" href="/pl/eta-info/kto-potrzebuje/">Sprawdź, czy potrzebujesz UK ETA <span class="arrow" aria-hidden="true">→</span></a>
+    </div>
+    <div class="visual map"><div class="map-wrap">
+      <img src="/home/uk-map.png" alt="Mapa Wielkiej Brytanii z Anglią, Szkocją, Walią i Irlandią Północną" width="672" height="900" loading="lazy">
+      <span class="ml ml-sc">Scotland</span>
+      <span class="ml ml-ni">Northern<br>Ireland</span>
+      <span class="ml ml-ie">Ireland</span>
+      <span class="ml ml-wa">Wales</span>
+      <span class="ml ml-en">England</span>
+    </div></div>
+  </article>
+</div></section>
+
+
+<section class="band"><div class="container cols">
+  <div id="krav">
+    <span class="eyebrow">Wymagania</span>
+    <h2>Co jest potrzebne</h2>
+    <p class="muted" style="margin-top:8px;font-size:14.5px">Aby złożyć wniosek o UK ETA, przygotuj:</p>
+    <div class="req-grid">
+      <div class="req-card"><img src="/home/req-passport.png" alt="" width="34" height="34"><div class="num">1</div><div class="t">Ważny paszport</div><div class="d">Zdjęcie lub skan strony ze zdjęciem.</div></div>
+      <div class="req-card"><img src="/home/req-photo.png" alt="" width="34" height="34"><div class="num">2</div><div class="t">Zdjęcie twarzy</div><div class="d">Wyraźne zdjęcie Twojej twarzy.</div></div>
+      <div class="req-card"><img src="/home/req-email.png" alt="" width="34" height="34"><div class="num">3</div><div class="t">Adres e-mail</div><div class="d">Na ten adres otrzymasz decyzję.</div></div>
+      <div class="req-card"><img src="/home/req-card.png" alt="" width="34" height="34"><div class="num">4</div><div class="t">Karta płatnicza</div><div class="d">Do uiszczenia opłaty za wniosek (£20).</div></div>
+    </div>
+  </div>
+
+  <div id="ansokan">
+    <span class="eyebrow">Wniosek</span>
+    <h2>Jak złożyć wniosek</h2>
+    <p class="muted" style="margin-top:8px;font-size:14.5px">Wniosek składa się w oficjalnej aplikacji UK ETA.</p>
+    <div class="app-wrap">
+      <div>
+        <div class="steps">
+          <div class="step"><div class="circle">01</div><div class="d">Pobierz aplikację UK ETA</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">02</div><div class="d">Zeskanuj paszport i zrób zdjęcie</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">03</div><div class="d">Wypełnij formularz i zapłać (£20)</div></div>
+          <span class="step-sep" aria-hidden="true">→</span>
+          <div class="step"><div class="circle">04</div><div class="d">Poczekaj na zatwierdzenie</div></div>
+        </div>
+        <a class="textlink" href="/pl/eta-info/application/" style="margin-top:20px">Szczegółowy przewodnik krok po kroku <span class="arrow" aria-hidden="true">→</span></a>
+      </div>
+      <img class="phone" src="/home/phone-mock.png" alt="Aplikacja UK ETA na ekranie telefonu" width="760" height="1497" loading="lazy">
+    </div>
+  </div>
+</div></section>
+
+
+<section class="section lower"><div class="container lower-grid">
+  <div class="lower-main">
+    <div class="row-travel">
+  <div id="resa">
+    <span class="eyebrow">Podróż do UK</span>
+    <h2>Podróż do Wielkiej Brytanii</h2>
+    <p>UK ETA obowiązuje przy podróżach do Anglii, Szkocji, Walii i Irlandii Północnej. Republika Irlandii nie jest nią objęta. Zasady dotyczą także tranzytu — w zależności od tego, czy pozostajesz w strefie airside, czy przechodzisz do strefy landside.</p>
+    <a class="textlink" href="/pl/uk-entry/passport-requirements/">Więcej o zasadach podróży <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+
+  <div class="photo-cards">
+    <a class="photo-card" href="/pl/eta-info/transit/">
+      <img src="/home/airside.jpg" alt="Hala odlotów lotniska o zmierzchu" width="800" height="600" loading="lazy">
+      <span class="cap"><span class="t">Tranzyt airside</span><span class="d">UK ETA zwykle nie jest wymagana.</span></span>
+      <span class="go" aria-hidden="true">→</span>
+    </a>
+    <a class="photo-card" href="/pl/eta-info/tranzyt-szczegoly/">
+      <img src="/home/landside.jpg" alt="Hala przylotów lotniska z podróżnymi" width="800" height="600" loading="lazy">
+      <span class="cap"><span class="t">Tranzyt landside</span><span class="d">UK ETA jest wymagana.</span></span>
+      <span class="go" aria-hidden="true">→</span>
+    </a>
+  </div>
+
+    </div>
+    <div class="row-sv">
+  <div>
+    <span class="eyebrow">UK ETA dla obywateli Polski</span>
+    <h2>UK ETA dla obywateli Polski</h2>
+    <p>Co dokładnie dotyczy obywateli Polski: okres ważności, rodzaje objętych podróży i najczęstsze pytania.</p>
+    <a class="textlink" href="#svenska">Więcej dla obywateli Polski <span class="arrow" aria-hidden="true">→</span></a>
+  </div>
+  <img src="/home/city-warsaw.jpg" alt="" width="1200" height="600" loading="lazy">
+</div>
+  </div>
+  <aside class="ql">
+    <span class="eyebrow">Szybkie linki</span>
+    <div class="ql-item"><img src="/home/ql-faq.png" alt="" width="26" height="26"><span><span class="t">Najczęstsze pytania</span><br><a class="textlink" href="/pl/faq/">Zobacz FAQ <span aria-hidden="true">→</span></a></span></div>
+    <div class="ql-item"><img src="/home/ql-news.png" alt="" width="26" height="26"><span><span class="t">Najnowsze informacje</span><br><a class="textlink" href="/pl/news/">Zobacz aktualności <span aria-hidden="true">→</span></a></span></div>
+    <div class="ql-item"><img src="/home/ql-links.png" alt="" width="26" height="26"><span><span class="t">Przydatne strony</span><br><a class="textlink" href="/pl/sitemap/">Zobacz przydatne strony <span aria-hidden="true">→</span></a></span></div>
+  </aside>
+</div></section>
+
+
+</div><section class="band xsec"><div class="container"><span class="eyebrow">Ważność i termin</span><h2>Okres ważności ETA i termin składania wniosku</h2><p class="xlead">Kiedy złożyć wniosek i jak długo ETA pozostaje ważna.</p><div class="xcards x2"><div class="xcard"><h3>Okres ważności</h3><p>ETA jest ważna przez <strong>2 lata</strong> od daty wydania i pozwala na wielokrotne wjazdy do Wielkiej Brytanii. Jeśli jednak Twój paszport traci ważność wcześniej niż za 2 lata, ETA wygasa razem z paszportem — w takim wypadku najpierw odnów paszport, a dopiero potem złóż wniosek o ETA.</p></div><div class="xcard"><h3>Kiedy złożyć wniosek</h3><p>Większość wnioskodawców otrzymuje automatyczną decyzję w ciągu <strong>kilku minut</strong> w aplikacji UK ETA. Wniosek złóż co najmniej 3 dni robocze przed podróżą, ponieważ niewielka część wniosków wymaga dodatkowej weryfikacji. Po zatwierdzeniu otrzymasz e-mail z potwierdzeniem; przy wjeździe zwykle nie trzeba okazywać numeru ETA, ale warto zachować potwierdzenie (zrzut ekranu lub wydruk).</p></div></div></div></section><section class="section xsec"><div class="container"><span class="eyebrow">Tranzyt</span><h2>Tranzyt przez Wielką Brytanię</h2><p class="xlead">Obowiązek uzyskania ETA przy przesiadce zależy od rodzaju tranzytu.</p><div class="xcards x2"><div class="xcard"><span class="eyebrow">Tranzyt lotniczy (airside)</span><h3>Co do zasady bez ETA</h3><p>Jeśli nie przechodzisz brytyjskiej kontroli granicznej i pozostajesz w strefie tranzytowej lotniska, ETA zwykle nie jest wymagana. Jeśli jednak opuszczasz strefę tranzytową (np. z powodu noclegu lub przesiadki na innym lotnisku), ETA będzie potrzebna.</p></div><div class="xcard"><span class="eyebrow">Tranzyt lądowy (landside)</span><h3>Co do zasady wymaga ETA</h3><p>Jeśli przechodzisz brytyjską kontrolę graniczną — np. podróżując Eurostarem (pociągiem przez tunel pod kanałem La Manche) lub promem — ETA jest co do zasady wymagana.</p></div></div></div></section><section id="svenska" class="band xsec"><div class="container"><span class="eyebrow">Dla Polaków</span><h2>UK ETA dla obywateli Polski</h2><p class="xlead">Polska jest członkiem Unii Europejskiej, a obywatele polscy mogą podróżować do Wielkiej Brytanii bez wizy na pobyty do 6 miesięcy. Od 2 kwietnia 2025 roku przed każdą podróżą muszą jednak uzyskać UK ETA — dotyczy to wakacji, wyjazdów służbowych, odwiedzin u rodziny oraz tranzytu.</p><div class="xcards x4"><div class="xcard"><h3>Kto musi mieć ETA</h3><p>Wszyscy obywatele Polski podróżujący do UK na krótki pobyt, w tym dzieci i niemowlęta. Każda osoba składa własny, osobny wniosek.</p></div><div class="xcard"><h3>Paszport, nie dowód osobisty</h3><p>Do wjazdu do Wielkiej Brytanii potrzebny jest ważny paszport — dowód osobisty nie jest już akceptowany (od października 2021). ETA jest powiązana z tym paszportem.</p></div><div class="xcard"><h3>Popularne kierunki z Polski</h3><p>Londyn, Manchester, Edynburg, Birmingham i inne miasta. Jedna ETA obejmuje Anglię, Szkocję, Walię oraz Irlandię Północną.</p></div><div class="xcard"><h3>Kiedy złożyć wniosek</h3><p>Co najmniej 3 dni robocze przed wyjazdem. Większość decyzji zapada automatycznie w ciągu kilku minut, ale niewielka część wniosków wymaga dodatkowej weryfikacji.</p></div></div></div></section><section id="faq" class="section xsec"><div class="container xnarrow"><span class="eyebrow">FAQ</span><h2>Najczęściej zadawane pytania</h2><div class="xfaq"><details><summary><span>Czy Polacy potrzebują UK ETA?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Tak. Od 2 kwietnia 2025 roku obywatele polscy (i pozostali obywatele UE) muszą posiadać UK ETA przed podróżą do Wielkiej Brytanii. Dotyczy to wizyt turystycznych, służbowych i tranzytu.</p></details><details><summary><span>Ile kosztuje UK ETA i jak długo jest ważna?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Opłata za UK ETA wynosi £20. Autoryzacja jest ważna przez 2 lata od daty wydania i pozwala na wielokrotne wjazdy do UK, przy czym każdy pobyt może trwać do 6 miesięcy.</p></details><details><summary><span>Jaka jest różnica między UK ETA a wizą?</span><span class="xplus" aria-hidden="true">+</span></summary><p>UK ETA to uproszczona autoryzacja elektroniczna na krótkie pobyty (do 6 miesięcy). Kosztuje £20, a wniosek składa się online. Wiza brytyjska wymaga wizyty w centrum wizowym, kosztuje od £100 i pozwala na dłuższe pobyty lub pracę.</p></details><details><summary><span>Czy dzieci z Polski potrzebują UK ETA?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Tak. Każdy podróżny, niezależnie od wieku, musi posiadać własną UK ETA — również niemowlęta i dzieci. Wniosek w imieniu dziecka może złożyć rodzic lub opiekun, korzystając z paszportu dziecka.</p></details><details><summary><span>Czy obywatel Polski może wjechać do UK na dowód osobisty?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Nie. Od października 2021 roku do wjazdu do Wielkiej Brytanii potrzebny jest ważny paszport — dowód osobisty nie jest już akceptowany. UK ETA jest powiązana właśnie z tym paszportem.</p></details><details><summary><span>Czy potrzebuję ETA na lot tranzytowy przez UK?</span><span class="xplus" aria-hidden="true">+</span></summary><p>Jeśli podczas przesiadki przechodzisz kontrolę graniczną (np. przy zmianie terminalu lub odbiorze bagażu), UK ETA jest wymagana. Przy tranzycie bez przekraczania granicy (airside) zwykle nie jest potrzebna — warto potwierdzić zasady u przewoźnika i na lotnisku.</p></details></div><a class="textlink xmore" href="/pl/faq/">Zobacz wszystkie pytania <span class="arrow" aria-hidden="true">→</span></a></div></section><section id="nyheter" class="band xsec"><div class="container"><span class="eyebrow">Aktualności</span><h2>Najnowsze wiadomości</h2><p class="xlead">Najważniejsze wiadomości o UK ETA, opłatach i zasadach wjazdu do Wielkiej Brytanii.</p><div class="xcards x3"><a class="xcard xlink" href="/pl/news/podwyzka-oplat-imigracyjnych-uk-2026/"><div class="xmeta"><span class="xtag" style="background-color:#8d1812;color:#ffffff">Wjazd i podróż</span><time>2026-04-08</time></div><h3>Wyższe opłaty imigracyjne w Wielkiej Brytanii od kwietnia 2026</h3><p>Wraz z ETA od 8 kwietnia 2026 roku wzrosły także inne opłaty Home Office — m.in. za wizy wjazdowe, osiedlenie i obywatelstwo.</p></a><a class="xcard xlink" href="/pl/news/oplata-uk-eta-20-funtow/"><div class="xmeta"><span class="xtag" style="background-color:#C5A24A;color:#1c1505">Opłaty</span><time>2026-04-08</time></div><h3>Opłata za UK ETA wzrosła do £20 (od 8 kwietnia 2026)</h3><p>Od 8 kwietnia 2026 roku opłata za UK ETA wynosi £20 zamiast dotychczasowych £16 (wzrost o 25%). Decyduje data złożenia wniosku.</p></a><a class="xcard xlink" href="/pl/news/bezpieczenstwo-podrozy-wielka-brytania/"><div class="xmeta"><span class="xtag" style="background-color:#44403c;color:#ffffff">Bezpieczeństwo</span><time>2026-03-01</time></div><h3>Bezpieczeństwo podróży do Wielkiej Brytanii — o czym pamiętać</h3><p>Przed wyjazdem warto sprawdzić aktualne komunikaty dotyczące bezpieczeństwa oraz upewnić się, że paszport i ETA są ważne.</p></a></div><a class="textlink xmore" href="/pl/news/">Zobacz wszystkie aktualności <span class="arrow" aria-hidden="true">→</span></a></div></section><section class="section xsec"><div class="container"><span class="eyebrow">Przewodnik</span><h2>Przydatne strony</h2><div class="xcards x3"><a class="xcard xlink xrow" href="/pl/eta-info/what-is-eta/"><span><h3>Czym jest UK ETA?</h3><p>Podstawowe informacje o systemie ETA</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/pl/eta-info/application/"><span><h3>Jak złożyć wniosek</h3><p>Formularz krok po kroku</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/pl/eta-info/fee/"><span><h3>Opłaty za UK ETA</h3><p>Szczegóły dotyczące kosztów</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/pl/eta-info/expiration/"><span><h3>Okres ważności</h3><p>Kiedy odnowić ETA</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/pl/eta-info/required-documents/"><span><h3>Wymagane dokumenty</h3><p>Co przygotować przed złożeniem wniosku</p></span><span class="xgo" aria-hidden="true">→</span></a><a class="xcard xlink xrow" href="/pl/eta-info/official-gov-uk/"><span><h3>Oficjalna strona GOV.UK</h3><p>Link do strony rządowej</p></span><span class="xgo" aria-hidden="true">→</span></a></div></div></section><div><section class="finalcta">
+  <div class="bg"><img src="/home/cta-bg.jpg" alt="" width="1600" height="500" loading="lazy" aria-hidden="true"></div>
+  <div class="container">
+    <span class="eyebrow">Gotowy do drogi?</span>
+    <h2>Wybierasz się do Wielkiej Brytanii?</h2>
+    <p>Złóż wniosek o UK ETA i szybko otrzymaj decyzję.</p>
+    <div class="row"><a class="btn btn--ghost" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">Rozpocznij wniosek o UK ETA <span class="arrow" aria-hidden="true">→</span></a></div>
+  </div>
+</section>
+
+
+</div></div>
+<!--BLOCK-->
+<div class="etahome"><footer class="footer"><div class="container">
+  <a class="brand" href="/pl/">
+    <img src="/home/crown.png" alt="" width="26" height="26">
+    <span><span class="name">UK ETA</span><span class="sub">Elektroniczna Autoryzacja Podróży do Wielkiej Brytanii</span></span>
+  </a>
+  <nav aria-label="Stopka">
+    <a href="/pl/site-info/about/">O serwisie</a><a href="/pl/site-info/privacy-policy/">Prywatność</a><a href="/pl/site-info/agreement/">Regulamin</a><a href="/pl/site-info/contact/">Kontakt</a>
+  </nav>
+  <p class="note">Niniejsza strona nie jest oficjalną stroną rządu Wielkiej Brytanii.</p>
+</div></footer>
+
+</div>
+10:["$","$1","c",{"children":[[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":""}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap","rel":"stylesheet","precedence":"default"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$16"}}],"$L17"],["$L18","$L19"],"$L1a"]}]
+11:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":"$L1c"}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$1e",null,{"name":"Next.Metadata","children":"$L1f"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+13:["$","link","0",{"rel":"stylesheet","href":"/pl/_next/static/chunks/0-m94h-8_t7en.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+20:I[56701,["/pl/_next/static/chunks/0yzghv_0wdxnp.js","/pl/_next/static/chunks/0a~tbvpam_0cv.js","/pl/_next/static/chunks/0uxu5or4z5iy7.js"],"default"]
+21:I[34839,["/pl/_next/static/chunks/0yzghv_0wdxnp.js","/pl/_next/static/chunks/0a~tbvpam_0cv.js"],"OutletBoundary"]
+17:["$","$L20",null,{}]
+18:["$","link","0",{"rel":"stylesheet","href":"/pl/_next/static/chunks/0~foo0ce69dok.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+19:["$","script","script-0",{"src":"/pl/_next/static/chunks/0uxu5or4z5iy7.js","async":true,"nonce":"$undefined"}]
+1a:["$","$L21",null,{"children":["$","$1e",null,{"name":"Next.MetadataOutlet","children":"$@22"}]}]
+1c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+23:I[3311,["/pl/_next/static/chunks/0yzghv_0wdxnp.js","/pl/_next/static/chunks/0a~tbvpam_0cv.js"],"IconMark"]
+1f:[["$","title","0",{"children":"UK ETA Online 2026 | Polskojęzyczny przewodnik krok po kroku"}],["$","meta","1",{"name":"description","content":"Polskojęzyczny kompletny przewodnik UK ETA 2026. Przy podróży do Wielkiej Brytanii obowiązek od 2 kwietnia 2025 — wniosek należy złożyć 3 dni przed wyjazdem. Pamiętaj, aby złożyć wniosek w terminie."}],["$","meta","2",{"name":"keywords","content":"UK ETA, UK ETA 2026, Wielka Brytania, autoryzacja podróży, Electronic Travel Authorisation, wniosek ETA, Polska, opłata £20"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"property":"og:title","content":"UK ETA Online 2026 | Polskojęzyczny przewodnik krok po kroku"}],["$","meta","5",{"property":"og:description","content":"Polskojęzyczny kompletny przewodnik UK ETA 2026. Przy podróży do Wielkiej Brytanii obowiązek od 2 kwietnia 2025 — wniosek należy złożyć 3 dni przed wyjazdem. Pamiętaj, aby złożyć wniosek w terminie."}],["$","meta","6",{"property":"og:url","content":"https://eta-se.com/pl/"}],["$","meta","7",{"property":"og:site_name","content":"UK ETA Online"}],["$","meta","8",{"property":"og:locale","content":"pl_PL"}],["$","meta","9",{"property":"og:image","content":"https://eta-se.com/pl/og-image.jpg"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"UK ETA Online — Big Ben i Most Westminsterski w Londynie"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"UK ETA Online 2026 | Polskojęzyczny przewodnik krok po kroku"}],["$","meta","16",{"name":"twitter:description","content":"Polskojęzyczny kompletny przewodnik UK ETA 2026 — opłata £20, decyzja zwykle do 72h, ważność 2 lata."}],["$","meta","17",{"name":"twitter:image","content":"https://eta-se.com/pl/og-image.jpg"}],["$","link","18",{"rel":"icon","href":"/pl/icon.png?icon.02v1vh~~13-3k.png","sizes":"512x512","type":"image/png"}],["$","link","19",{"rel":"apple-touch-icon","href":"/pl/apple-icon.png?apple-icon.0~ry0nimf0-rs.png","sizes":"180x180","type":"image/png"}],["$","$L23","20",{}]]
+22:null

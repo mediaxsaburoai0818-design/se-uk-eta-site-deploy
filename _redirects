@@ -1,3 +1,29 @@
 # ESTA統合(2026-09-22): 間借りしていたドイツ語ESTAを esta-hr.com/de/ へ移設。
 # URL構造は同一なのでパスを保持して301（旧URLの評価を引き継ぐため）。
 /de/esta/*  https://esta-hr.com/de/:splat  301
+
+# 2026-10-17 eta-fr 統合: 旧 /fr/（[lang] 方式 12ページ）を eta-fr.com 由来の新 /fr/ の該当ページへ301
+/fr/a-propos-de-ce-guide/  /fr/site-info/about/  301
+/fr/a-propos-de-ce-guide  /fr/site-info/about/  301
+/fr/comment-faire-la-demande/  /fr/eta-info/application/  301
+/fr/comment-faire-la-demande  /fr/eta-info/application/  301
+/fr/confidentialite/  /fr/site-info/privacy-policy/  301
+/fr/confidentialite  /fr/site-info/privacy-policy/  301
+/fr/delai-de-traitement/  /fr/eta-info/delais-traitement/  301
+/fr/delai-de-traitement  /fr/eta-info/delais-traitement/  301
+/fr/documents-necessaires/  /fr/eta-info/required-documents/  301
+/fr/documents-necessaires  /fr/eta-info/required-documents/  301
+/fr/duree-de-sejour/  /fr/uk-entry/eta-stay-duration/  301
+/fr/duree-de-sejour  /fr/uk-entry/eta-stay-duration/  301
+/fr/informations-legales/  /fr/site-info/agreement/  301
+/fr/informations-legales  /fr/site-info/agreement/  301
+/fr/qu-est-ce-que-l-eta/  /fr/eta-info/what-is-eta/  301
+/fr/qu-est-ce-que-l-eta  /fr/eta-info/what-is-eta/  301
+/fr/questions-frequentes/  /fr/faq/  301
+/fr/questions-frequentes  /fr/faq/  301
+/fr/tarif/  /fr/eta-info/fee/  301
+/fr/tarif  /fr/eta-info/fee/  301
+/fr/validite/  /fr/eta-info/validite-renouvellement/  301
+/fr/validite  /fr/eta-info/validite-renouvellement/  301
+/fr/verifier-le-statut/  /fr/eta-info/status-check/  301
+/fr/verifier-le-statut  /fr/eta-info/status-check/  301

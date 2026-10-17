@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[77874,["/hr/_next/static/chunks/0z5x~3_a84izs.js","/hr/_next/static/chunks/0meg-f8va0cx9.js"],"default"]
+3:I[326,["/hr/_next/static/chunks/0z5x~3_a84izs.js","/hr/_next/static/chunks/0meg-f8va0cx9.js"],"default"]
+0:{"rsc":["$","$1","c",{"children":[null,[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"ContactPage\",\"name\":\"Kontakt\",\"url\":\"https://eta-se.com/hr/site-info/contact/\",\"inLanguage\":\"hr\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"UK ETA Vodič\",\"url\":\"https://eta-se.com/hr/\"}}"}}],["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Q8B3NaGKxG500Oi6hcSS0"}
