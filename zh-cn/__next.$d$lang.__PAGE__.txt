@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-5:I[61574,["/_next/static/chunks/02lq8ar.f0jlz.js","/_next/static/chunks/15eih_ht.9_d9.js"],"default"]
-6:I[63554,["/_next/static/chunks/02lq8ar.f0jlz.js","/_next/static/chunks/15eih_ht.9_d9.js"],"OutletBoundary"]
+5:I[61574,["/_next/static/chunks/0n.t5a442hzs8.js","/_next/static/chunks/15eih_ht.9_d9.js","/_next/static/chunks/0zei8xfvhjbse.js"],"default"]
+6:I[63554,["/_next/static/chunks/0n.t5a442hzs8.js","/_next/static/chunks/15eih_ht.9_d9.js","/_next/static/chunks/0zei8xfvhjbse.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
 :HL["https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap","style"]
 2:T55ee,<div class="etahome">
@@ -220,7 +220,7 @@
   <p class="note">本网站并非英国政府的官方网站。</p>
 </div></footer>
 
-</div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"lang":"zh-Hans","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://eta-se.com/zh-cn/#website\",\"url\":\"https://eta-se.com/zh-cn/\",\"name\":\"UK ETA 指南\",\"description\":\"UK ETA 面向的是本来就不需要英国签证的国家和地区。中国大陆护照属于需要签证的国籍，因此无法申请 ETA。本页说明为什么、该办什么，以及 ETA（£20）与签证的区别。\",\"inLanguage\":\"zh-Hans\",\"publisher\":{\"@id\":\"https://eta-se.com/zh-cn/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https://eta-se.com/zh-cn/#organization\",\"name\":\"UK ETA 指南\",\"url\":\"https://eta-se.com/\",\"logo\":\"https://eta-se.com/logo-uk-eta.png\"}]}"}}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":""}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap","rel":"stylesheet","precedence":"default"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"yQHRP6Ti9Dhb5ESiDV2ai"}
+</div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"lang":"zh-Hans","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://eta-se.com/zh-cn/#website\",\"url\":\"https://eta-se.com/zh-cn/\",\"name\":\"UK ETA 指南\",\"description\":\"UK ETA 面向的是本来就不需要英国签证的国家和地区。中国大陆护照属于需要签证的国籍，因此无法申请 ETA。本页说明为什么、该办什么，以及 ETA（£20）与签证的区别。\",\"inLanguage\":\"zh-Hans\",\"publisher\":{\"@id\":\"https://eta-se.com/zh-cn/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https://eta-se.com/zh-cn/#organization\",\"name\":\"UK ETA 指南\",\"url\":\"https://eta-se.com/\",\"logo\":\"https://eta-se.com/logo-uk-eta.png\"}]}"}}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":""}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap","rel":"stylesheet","precedence":"default"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"tbUrPGFjgP1ogRFfLQwLs"}
 3:["$","$L5",null,{}]
 4:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null
