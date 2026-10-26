@@ -33,7 +33,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/hr/_next/static/chunks/0of_h5jqm2
 12:["$","td",null,{"className":"p-3","children":"Autobus / coach"}]
 13:["$","td",null,{"className":"p-3","children":"oko 60-90 minuta"}]
 14:["$","p",null,{"className":"text-xs text-gray-500 mt-2","children":"Vremena su okvirna, ovise o terminalu, dobu dana i odredištu u Londonu."}]
-15:["$","p",null,{"className":"text-sm text-gray-500","children":["Više o zračnim lukama Londona:"," ",["$","$L11",null,{"href":"/uk-entry/lotniska-londynu/","className":"content-link","children":"5 glavnih zračnih luka Londona"}]]}]
+15:["$","p",null,{"className":"text-sm text-gray-500","children":["Više o zračnim lukama Londona:"," ",["$","$L11",null,{"href":"/uk-entry/lotniska-londynu/","className":"content-link","children":"6 zračnih luka Londona"}]]}]
 16:["$","nav",null,{"className":"text-sm text-gray-500 mb-8","aria-label":"Krušna mrvica","children":["$","ol",null,{"className":"flex flex-wrap items-center space-x-1","children":[["$","li",null,{"children":["$","$L11",null,{"href":"/","className":"hover:text-[#1E3A8A] transition","children":"Početna"}]}],[["$","li","0",{"className":"flex items-center space-x-1","children":[["$","span",null,{"className":"mx-1","children":"/"}],["$","span",null,{"className":"text-gray-800","children":"Zračna luka Heathrow (LHR)"}]]}]]]}]}]
 17:["$","$L1e",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]
 1a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]

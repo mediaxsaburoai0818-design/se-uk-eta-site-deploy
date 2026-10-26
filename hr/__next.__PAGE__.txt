@@ -4,7 +4,7 @@
 9:"$Sreact.suspense"
 :HL["https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Allura&family=Inter:wght@400;500;600;700&display=swap","style"]
 :HL["/hr/_next/static/chunks/0~foo0ce69dok.css","style"]
-2:T57d2,<div class="etahome">
+2:T585b,<div class="etahome">
 
 
 <div class="trustbar"><div class="container">
@@ -57,7 +57,7 @@
         <span>Informacije o UK ETA za putnike iz Hrvatske</span>
       </span>
       <h1>UK ETA<span class="sub">Elektronička putna autorizacija za Ujedinjeno Kraljevstvo</span></h1>
-      <p class="lead">Hrvatski državljani trebaju UK ETA za kratke boravke u Ujedinjenom Kraljevstvu.</p>
+      <p class="lead">Hrvatski državljani trebaju UK ETA za kratke boravke u Ujedinjenom Kraljevstvu. Ovdje je prijava korak po korak; pitanja o tome od kada, koliko košta i tko je izuzet su u <a href="/hr/faq/">FAQ: UK ETA Hrvatska</a>.</p>
       <div class="hero-actions">
         <a class="btn" href="https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta" target="_blank" rel="noopener noreferrer">Podnesite zahtjev za UK ETA <span class="arrow" aria-hidden="true">→</span></a>
         <a class="textlink" href="#oversikt">Saznajte više o UK ETA <span aria-hidden="true">↓</span></a>
