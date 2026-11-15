@@ -209,7 +209,274 @@
   "zh-tw": "/zh-tw/terms/",
   "zh-cn": "/zh-cn/terms/"
  },
+ "who-needs-eta": {
+  "es": "/es/quien-necesita-la-eta/",
+  "nl": "/nl/wie-heeft-een-eta-nodig/",
+  "pt": "/pt/quem-precisa-de-eta/",
+  "da": "/da/hvem-skal-have-eta/",
+  "no": "/no/hvem-trenger-eta/",
+  "fi": "/fi/kuka-tarvitsee-eta/",
+  "en": "/en/who-needs-an-eta/"
+ },
+ "eta-vs-visa": {
+  "es": "/es/eta-o-visado/",
+  "nl": "/nl/eta-of-visum/",
+  "pt": "/pt/eta-ou-visto/",
+  "da": "/da/forskel-eta-og-visum/",
+  "no": "/no/forskjell-eta-og-visum/",
+  "fi": "/fi/eta-vai-viisumi/",
+  "en": "/en/eta-or-visa/"
+ },
+ "standard-visitor-visa": {
+  "es": "/es/visado-de-visitante-estandar/",
+  "nl": "/nl/standard-visitor-visum/",
+  "pt": "/pt/visto-standard-visitor/",
+  "da": "/da/standard-visitor-visum/",
+  "no": "/no/standard-visitor-visum/",
+  "fi": "/fi/standard-visitor-viisumi/",
+  "en": "/en/uk-standard-visitor-visa/"
+ },
+ "expiration": {
+  "es": "/es/caducidad-y-renovacion/",
+  "nl": "/nl/eta-verlopen-opnieuw-aanvragen/",
+  "pt": "/pt/quando-expira-a-eta/",
+  "da": "/da/hvornar-udlober-eta/",
+  "no": "/no/nar-utloper-eta/",
+  "fi": "/fi/eta-vanhenee/",
+  "en": "/en/when-eta-expires/"
+ },
+ "children-family": {
+  "es": "/es/eta-para-ninos-y-familias/",
+  "nl": "/nl/eta-voor-kinderen-en-gezin/",
+  "pt": "/pt/eta-criancas-e-familia/",
+  "da": "/da/eta-til-born-og-familie/",
+  "no": "/no/eta-for-barn-og-familie/",
+  "fi": "/fi/lapset-ja-perhe/",
+  "en": "/en/children-and-families/"
+ },
+ "eta-refused": {
+  "es": "/es/eta-denegada/",
+  "nl": "/nl/eta-afgewezen/",
+  "pt": "/pt/eta-recusada/",
+  "da": "/da/afslag-pa-eta/",
+  "no": "/no/eta-avslatt/",
+  "fi": "/fi/hylatty-eta/",
+  "en": "/en/eta-refused/"
+ },
+ "common-mistakes": {
+  "es": "/es/errores-frecuentes/",
+  "nl": "/nl/veelgemaakte-fouten/",
+  "pt": "/pt/erros-comuns/",
+  "da": "/da/typiske-fejl/",
+  "no": "/no/vanlige-feil-eta/",
+  "fi": "/fi/yleiset-virheet/",
+  "en": "/en/common-mistakes/"
+ },
+ "official-gov-uk": {
+  "es": "/es/web-oficial-gov-uk/",
+  "nl": "/nl/officiele-site-gov-uk/",
+  "pt": "/pt/site-oficial-gov-uk/",
+  "da": "/da/officiel-side-gov-uk/",
+  "no": "/no/offisiell-gov-uk-side/",
+  "fi": "/fi/virallinen-gov-uk/",
+  "en": "/en/official-gov-uk-site/"
+ },
  "mobile-app": {
+  "es": "/es/app-oficial-uk-eta/",
+  "nl": "/nl/uk-eta-app/",
+  "pt": "/pt/aplicacao-uk-eta/",
+  "da": "/da/eta-app/",
+  "no": "/no/uk-eta-appen/",
+  "fi": "/fi/eta-sovellus/",
   "en": "/en/uk-eta-app/"
+ },
+ "transit": {
+  "es": "/es/transito-por-el-reino-unido/",
+  "nl": "/nl/transit-via-vk/",
+  "pt": "/pt/transito-pelo-reino-unido/",
+  "da": "/da/transit-gennem-storbritannien/",
+  "no": "/no/transitt-gjennom-storbritannia/",
+  "fi": "/fi/kauttakulku/",
+  "en": "/en/transit-through-the-uk/"
+ },
+ "eta-news": {
+  "es": "/es/noticias-uk-eta/",
+  "nl": "/nl/eta-nieuws/",
+  "pt": "/pt/noticias-uk-eta/",
+  "da": "/da/nyheder-om-eta/",
+  "no": "/no/nyheter-om-uk-eta/",
+  "fi": "/fi/eta-uutiset/",
+  "en": "/en/eta-news/"
+ },
+ "entry-and-visa": {
+  "es": "/es/entrada-y-visado/",
+  "nl": "/nl/inreizen-en-visum/",
+  "pt": "/pt/entrada-e-vistos/",
+  "da": "/da/indrejse-og-visum/",
+  "no": "/no/innreise-og-visum/",
+  "fi": "/fi/maahantulo-ja-viisumi/",
+  "en": "/en/uk-entry-requirements-and-visas/"
+ },
+ "passport-requirements": {
+  "es": "/es/requisitos-del-pasaporte/",
+  "nl": "/nl/paspoortvereisten/",
+  "pt": "/pt/requisitos-do-passaporte/",
+  "da": "/da/paskrav-storbritannien/",
+  "no": "/no/krav-til-pass/",
+  "fi": "/fi/passivaatimukset/",
+  "en": "/en/passport-rules-for-the-uk/"
+ },
+ "uk-border-egates": {
+  "es": "/es/control-de-pasaportes-egates/",
+  "nl": "/nl/paspoortcontrole-en-egates/",
+  "pt": "/pt/controlo-fronteirico-egates/",
+  "da": "/da/paskontrol-og-egates/",
+  "no": "/no/passkontroll-egates/",
+  "fi": "/fi/passintarkastus-egates/",
+  "en": "/en/uk-border-control-egates/"
+ },
+ "uk-customs-rules": {
+  "es": "/es/aduana-reino-unido/",
+  "nl": "/nl/douaneregels/",
+  "pt": "/pt/alfandega-reino-unido/",
+  "da": "/da/toldregler-storbritannien/",
+  "no": "/no/tollregler-storbritannia/",
+  "fi": "/fi/tullisaannot-britannia/",
+  "en": "/en/what-you-can-bring-into-the-uk/"
+ },
+ "bringing-medicines": {
+  "es": "/es/llevar-medicamentos/",
+  "nl": "/nl/medicijnen-meenemen/",
+  "pt": "/pt/levar-medicamentos/",
+  "da": "/da/medicin-til-storbritannien/",
+  "no": "/no/ta-med-medisiner/",
+  "fi": "/fi/laakkeet-britanniaan/",
+  "en": "/en/taking-medicine-to-the-uk/"
+ },
+ "airport-security-liquids": {
+  "es": "/es/liquidos-equipaje-de-mano/",
+  "nl": "/nl/vloeistoffen-handbagage/",
+  "pt": "/pt/liquidos-bagagem-de-mao/",
+  "da": "/da/vaesker-i-handbagagen/",
+  "no": "/no/vaesker-i-handbagasjen/",
+  "fi": "/fi/nesteet-kasimatkatavaroissa/",
+  "en": "/en/hand-luggage-liquids-uk-airports/"
+ },
+ "smoking-alcohol-rules": {
+  "es": "/es/alcohol-y-tabaco/",
+  "nl": "/nl/alcohol-en-roken/",
+  "pt": "/pt/alcool-e-tabaco/",
+  "da": "/da/alkohol-og-rygning-england/",
+  "no": "/no/aldersgrense-alkohol-royking/",
+  "fi": "/fi/alkoholi-ja-tupakointi/",
+  "en": "/en/drinking-age-and-smoking-rules/"
+ },
+ "travelling-with-children": {
+  "es": "/es/viajar-con-ninos/",
+  "nl": "/nl/met-kinderen-naar-het-vk/",
+  "pt": "/pt/viajar-com-menores/",
+  "da": "/da/rejse-med-born-til-uk/",
+  "no": "/no/reise-med-barn/",
+  "fi": "/fi/matkustaminen-lasten-kanssa/",
+  "en": "/en/travelling-to-the-uk-with-children/"
+ },
+ "london-airports": {
+  "es": "/es/aeropuertos-de-londres/",
+  "nl": "/nl/luchthavens-londen/",
+  "pt": "/pt/aeroportos-de-londres/",
+  "da": "/da/londons-lufthavne/",
+  "no": "/no/flyplasser-i-london/",
+  "fi": "/fi/lontoon-lentoasemat/",
+  "en": "/en/london-airports/"
+ },
+ "heathrow": {
+  "es": "/es/aeropuerto-heathrow/",
+  "nl": "/nl/luchthaven-heathrow/",
+  "pt": "/pt/aeroporto-heathrow/",
+  "da": "/da/heathrow-lufthavn/",
+  "no": "/no/heathrow-flyplass/",
+  "fi": "/fi/heathrow-lentoasema/",
+  "en": "/en/heathrow-airport/"
+ },
+ "transport-oyster": {
+  "es": "/es/transporte-londres-oyster/",
+  "nl": "/nl/ov-londen-oyster-contactloos/",
+  "pt": "/pt/transportes-londres-oyster/",
+  "da": "/da/transport-i-london-oyster/",
+  "no": "/no/kollektivtransport-london-oyster/",
+  "fi": "/fi/lontoon-julkinen-liikenne-oyster/",
+  "en": "/en/london-transport-oyster-contactless/"
+ },
+ "driving-in-uk": {
+  "es": "/es/conducir-en-reino-unido/",
+  "nl": "/nl/autorijden-in-het-vk/",
+  "pt": "/pt/conduzir-no-reino-unido/",
+  "da": "/da/bilkorsel-i-storbritannien/",
+  "no": "/no/kjore-bil-i-storbritannia/",
+  "fi": "/fi/autolla-ajaminen-britanniassa/",
+  "en": "/en/driving-in-the-uk/"
+ },
+ "money-currency": {
+  "es": "/es/moneda-libra-esterlina/",
+  "nl": "/nl/geld-en-valuta/",
+  "pt": "/pt/moeda-libra-dinheiro/",
+  "da": "/da/valuta-og-kontanter/",
+  "no": "/no/valuta-pund-kontanter-tips/",
+  "fi": "/fi/valuutta-ja-kateinen-britanniassa/",
+  "en": "/en/uk-currency-cash-tipping/"
+ },
+ "vat-refund": {
+  "es": "/es/devolucion-iva-compras/",
+  "nl": "/nl/btw-teruggave/",
+  "pt": "/pt/reembolso-iva/",
+  "da": "/da/momsrefusion-vat-refund/",
+  "no": "/no/momsrefusjon-vat-storbritannia/",
+  "fi": "/fi/arvonlisaveron-palautus-britanniassa/",
+  "en": "/en/uk-vat-refund-tax-free-shopping/"
+ },
+ "sim-mobile": {
+  "es": "/es/tarjeta-sim-internet-movil/",
+  "nl": "/nl/simkaart-en-mobiel-internet/",
+  "pt": "/pt/cartao-sim-internet-movel/",
+  "da": "/da/sim-kort-og-mobildata/",
+  "no": "/no/sim-kort-esim-mobil-storbritannia/",
+  "fi": "/fi/sim-kortti-ja-mobiilidata-britanniassa/",
+  "en": "/en/uk-sim-esim-mobile-data/"
+ },
+ "power-plug": {
+  "es": "/es/enchufes-reino-unido/",
+  "nl": "/nl/stopcontact-en-stekker/",
+  "pt": "/pt/tomadas-eletricas/",
+  "da": "/da/stikkontakter-i-storbritannien/",
+  "no": "/no/stikkontakt-storbritannia/",
+  "fi": "/fi/pistorasiat-britanniassa/",
+  "en": "/en/uk-plug-socket-voltage/"
+ },
+ "healthcare-nhs": {
+  "es": "/es/sanidad-nhs-tarjeta-sanitaria/",
+  "nl": "/nl/gezondheidszorg-nhs/",
+  "pt": "/pt/saude-nhs-ghic/",
+  "da": "/da/sundhed-nhs-og-ghic/",
+  "no": "/no/helsehjelp-nhs-ghic/",
+  "fi": "/fi/terveydenhuolto-nhs-ja-ehic/",
+  "en": "/en/uk-healthcare-nhs-ghic/"
+ },
+ "safety-emergency": {
+  "es": "/es/emergencias-seguridad-reino-unido/",
+  "nl": "/nl/noodnummers-en-veiligheid/",
+  "pt": "/pt/numeros-de-emergencia/",
+  "da": "/da/alarmnumre-og-sikkerhed/",
+  "no": "/no/nodnummer-sikkerhet-storbritannia/",
+  "fi": "/fi/hatanumerot-ja-turvallisuus-britanniassa/",
+  "en": "/en/uk-emergency-numbers-safety/"
+ },
+ "bank-holidays": {
+  "es": "/es/festivos-bank-holidays/",
+  "nl": "/nl/feestdagen-bank-holidays/",
+  "pt": "/pt/feriados-bank-holidays-2026/",
+  "da": "/da/helligdage-bank-holidays-2026/",
+  "no": "/no/bank-holidays-helligdager-2026/",
+  "fi": "/fi/bank-holiday-pyhapaivat-2026/",
+  "en": "/en/uk-bank-holidays-2026/"
  }
 }
