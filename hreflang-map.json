@@ -215,8 +215,14 @@
   "pt": "/pt/quem-precisa-de-eta/",
   "da": "/da/hvem-skal-have-eta/",
   "no": "/no/hvem-trenger-eta/",
+  "cs": "/cs/kdo-potrebuje-eta/",
   "fi": "/fi/kuka-tarvitsee-eta/",
-  "en": "/en/who-needs-an-eta/"
+  "hu": "/hu/kinek-kell-eta/",
+  "ko": "/ko/eta-pilyo-daesang/",
+  "he": "/he/mi-tzarich-eta/",
+  "en": "/en/who-needs-an-eta/",
+  "zh-tw": "/zh-tw/who-needs-an-eta/",
+  "zh-cn": "/zh-cn/who-needs-an-eta/"
  },
  "eta-vs-visa": {
   "es": "/es/eta-o-visado/",
@@ -224,8 +230,14 @@
   "pt": "/pt/eta-ou-visto/",
   "da": "/da/forskel-eta-og-visum/",
   "no": "/no/forskjell-eta-og-visum/",
+  "cs": "/cs/eta-nebo-viza/",
   "fi": "/fi/eta-vai-viisumi/",
-  "en": "/en/eta-or-visa/"
+  "hu": "/hu/eta-vagy-vizum/",
+  "ko": "/ko/eta-wa-bija-chai/",
+  "he": "/he/eta-o-viza/",
+  "en": "/en/eta-or-visa/",
+  "zh-tw": "/zh-tw/eta-or-visa/",
+  "zh-cn": "/zh-cn/eta-or-visa/"
  },
  "standard-visitor-visa": {
   "es": "/es/visado-de-visitante-estandar/",
@@ -233,8 +245,14 @@
   "pt": "/pt/visto-standard-visitor/",
   "da": "/da/standard-visitor-visum/",
   "no": "/no/standard-visitor-visum/",
+  "cs": "/cs/standard-visitor-viza/",
   "fi": "/fi/standard-visitor-viisumi/",
-  "en": "/en/uk-standard-visitor-visa/"
+  "hu": "/hu/standard-visitor-vizum/",
+  "ko": "/ko/standard-visitor-bija/",
+  "he": "/he/vizat-mevaker-standard-visitor/",
+  "en": "/en/uk-standard-visitor-visa/",
+  "zh-tw": "/zh-tw/uk-standard-visitor-visa/",
+  "zh-cn": "/zh-cn/uk-standard-visitor-visa/"
  },
  "expiration": {
   "es": "/es/caducidad-y-renovacion/",
@@ -242,8 +260,14 @@
   "pt": "/pt/quando-expira-a-eta/",
   "da": "/da/hvornar-udlober-eta/",
   "no": "/no/nar-utloper-eta/",
+  "cs": "/cs/konec-platnosti-eta/",
   "fi": "/fi/eta-vanhenee/",
-  "en": "/en/when-eta-expires/"
+  "hu": "/hu/eta-lejarata/",
+  "ko": "/ko/eta-manryo/",
+  "he": "/he/tokef-eta-pag/",
+  "en": "/en/when-eta-expires/",
+  "zh-tw": "/zh-tw/when-eta-expires/",
+  "zh-cn": "/zh-cn/when-eta-expires/"
  },
  "children-family": {
   "es": "/es/eta-para-ninos-y-familias/",
@@ -251,8 +275,14 @@
   "pt": "/pt/eta-criancas-e-familia/",
   "da": "/da/eta-til-born-og-familie/",
   "no": "/no/eta-for-barn-og-familie/",
+  "cs": "/cs/deti-a-rodina/",
   "fi": "/fi/lapset-ja-perhe/",
-  "en": "/en/children-and-families/"
+  "hu": "/hu/gyerekek-es-csalad/",
+  "ko": "/ko/adong-gajok/",
+  "he": "/he/yeladim-umishpacha/",
+  "en": "/en/children-and-families/",
+  "zh-tw": "/zh-tw/children-and-families/",
+  "zh-cn": "/zh-cn/children-and-families/"
  },
  "eta-refused": {
   "es": "/es/eta-denegada/",
@@ -260,8 +290,14 @@
   "pt": "/pt/eta-recusada/",
   "da": "/da/afslag-pa-eta/",
   "no": "/no/eta-avslatt/",
+  "cs": "/cs/zamitnute-eta/",
   "fi": "/fi/hylatty-eta/",
-  "en": "/en/eta-refused/"
+  "hu": "/hu/elutasitott-eta/",
+  "ko": "/ko/eta-geobu/",
+  "he": "/he/sirov-eta/",
+  "en": "/en/eta-refused/",
+  "zh-tw": "/zh-tw/eta-refused/",
+  "zh-cn": "/zh-cn/eta-refused/"
  },
  "common-mistakes": {
   "es": "/es/errores-frecuentes/",
@@ -269,8 +305,14 @@
   "pt": "/pt/erros-comuns/",
   "da": "/da/typiske-fejl/",
   "no": "/no/vanlige-feil-eta/",
+  "cs": "/cs/caste-chyby/",
   "fi": "/fi/yleiset-virheet/",
-  "en": "/en/common-mistakes/"
+  "hu": "/hu/gyakori-hibak/",
+  "ko": "/ko/heunhan-silsu/",
+  "he": "/he/taoyot-nefotzot/",
+  "en": "/en/common-mistakes/",
+  "zh-tw": "/zh-tw/common-mistakes/",
+  "zh-cn": "/zh-cn/common-mistakes/"
  },
  "official-gov-uk": {
   "es": "/es/web-oficial-gov-uk/",
@@ -278,8 +320,14 @@
   "pt": "/pt/site-oficial-gov-uk/",
   "da": "/da/officiel-side-gov-uk/",
   "no": "/no/offisiell-gov-uk-side/",
+  "cs": "/cs/oficialni-gov-uk/",
   "fi": "/fi/virallinen-gov-uk/",
-  "en": "/en/official-gov-uk-site/"
+  "hu": "/hu/hivatalos-gov-uk/",
+  "ko": "/ko/gongsik-gov-uk/",
+  "he": "/he/haatar-harishmi-gov-uk/",
+  "en": "/en/official-gov-uk-site/",
+  "zh-tw": "/zh-tw/official-gov-uk-site/",
+  "zh-cn": "/zh-cn/official-gov-uk-site/"
  },
  "mobile-app": {
   "es": "/es/app-oficial-uk-eta/",
@@ -287,8 +335,14 @@
   "pt": "/pt/aplicacao-uk-eta/",
   "da": "/da/eta-app/",
   "no": "/no/uk-eta-appen/",
+  "cs": "/cs/aplikace-uk-eta/",
   "fi": "/fi/eta-sovellus/",
-  "en": "/en/uk-eta-app/"
+  "hu": "/hu/uk-eta-alkalmazas/",
+  "ko": "/ko/eta-aep/",
+  "he": "/he/aplikatziyat-eta/",
+  "en": "/en/uk-eta-app/",
+  "zh-tw": "/zh-tw/uk-eta-app/",
+  "zh-cn": "/zh-cn/uk-eta-app/"
  },
  "transit": {
   "es": "/es/transito-por-el-reino-unido/",
@@ -296,8 +350,14 @@
   "pt": "/pt/transito-pelo-reino-unido/",
   "da": "/da/transit-gennem-storbritannien/",
   "no": "/no/transitt-gjennom-storbritannia/",
+  "cs": "/cs/transit-pres-britanii/",
   "fi": "/fi/kauttakulku/",
-  "en": "/en/transit-through-the-uk/"
+  "hu": "/hu/atszallas-tranzit/",
+  "ko": "/ko/hwanseung-transit/",
+  "he": "/he/maavar-transit/",
+  "en": "/en/transit-through-the-uk/",
+  "zh-tw": "/zh-tw/transit-through-the-uk/",
+  "zh-cn": "/zh-cn/transit-through-the-uk/"
  },
  "eta-news": {
   "es": "/es/noticias-uk-eta/",
@@ -305,8 +365,14 @@
   "pt": "/pt/noticias-uk-eta/",
   "da": "/da/nyheder-om-eta/",
   "no": "/no/nyheter-om-uk-eta/",
+  "cs": "/cs/novinky-eta/",
   "fi": "/fi/eta-uutiset/",
-  "en": "/en/eta-news/"
+  "hu": "/hu/eta-hirek/",
+  "ko": "/ko/eta-sosik/",
+  "he": "/he/chadashot-eta/",
+  "en": "/en/eta-news/",
+  "zh-tw": "/zh-tw/eta-news/",
+  "zh-cn": "/zh-cn/eta-news/"
  },
  "entry-and-visa": {
   "es": "/es/entrada-y-visado/",
@@ -314,8 +380,14 @@
   "pt": "/pt/entrada-e-vistos/",
   "da": "/da/indrejse-og-visum/",
   "no": "/no/innreise-og-visum/",
+  "cs": "/cs/vstup-do-britanie-a-viza/",
   "fi": "/fi/maahantulo-ja-viisumi/",
-  "en": "/en/uk-entry-requirements-and-visas/"
+  "hu": "/hu/beutazas-es-vizum/",
+  "ko": "/ko/yeongguk-ipguk-bija/",
+  "he": "/he/knisa-levritania-viza/",
+  "en": "/en/uk-entry-requirements-and-visas/",
+  "zh-tw": "/zh-tw/uk-entry-requirements-and-visas/",
+  "zh-cn": "/zh-cn/uk-entry-requirements-and-visas/"
  },
  "passport-requirements": {
   "es": "/es/requisitos-del-pasaporte/",
@@ -323,8 +395,14 @@
   "pt": "/pt/requisitos-do-passaporte/",
   "da": "/da/paskrav-storbritannien/",
   "no": "/no/krav-til-pass/",
+  "cs": "/cs/pozadavky-na-pas/",
   "fi": "/fi/passivaatimukset/",
-  "en": "/en/passport-rules-for-the-uk/"
+  "hu": "/hu/utlevel-kovetelmenyek/",
+  "ko": "/ko/yeogwon-yogeon/",
+  "he": "/he/drishot-darkon/",
+  "en": "/en/passport-rules-for-the-uk/",
+  "zh-tw": "/zh-tw/passport-rules-for-the-uk/",
+  "zh-cn": "/zh-cn/passport-rules-for-the-uk/"
  },
  "uk-border-egates": {
   "es": "/es/control-de-pasaportes-egates/",
@@ -332,8 +410,14 @@
   "pt": "/pt/controlo-fronteirico-egates/",
   "da": "/da/paskontrol-og-egates/",
   "no": "/no/passkontroll-egates/",
+  "cs": "/cs/hranicni-kontrola-egates/",
   "fi": "/fi/passintarkastus-egates/",
-  "en": "/en/uk-border-control-egates/"
+  "hu": "/hu/hatarellenorzes-egates/",
+  "ko": "/ko/ipguk-simsa-egates/",
+  "he": "/he/bikoret-gvulot-egates/",
+  "en": "/en/uk-border-control-egates/",
+  "zh-tw": "/zh-tw/uk-border-control-egates/",
+  "zh-cn": "/zh-cn/uk-border-control-egates/"
  },
  "uk-customs-rules": {
   "es": "/es/aduana-reino-unido/",
@@ -341,8 +425,14 @@
   "pt": "/pt/alfandega-reino-unido/",
   "da": "/da/toldregler-storbritannien/",
   "no": "/no/tollregler-storbritannia/",
+  "cs": "/cs/celni-pravidla-britanie/",
   "fi": "/fi/tullisaannot-britannia/",
-  "en": "/en/what-you-can-bring-into-the-uk/"
+  "hu": "/hu/vamszabalyok-britannia/",
+  "ko": "/ko/yeongguk-segwan-gyujeong/",
+  "he": "/he/mechess-levritania/",
+  "en": "/en/what-you-can-bring-into-the-uk/",
+  "zh-tw": "/zh-tw/what-you-can-bring-into-the-uk/",
+  "zh-cn": "/zh-cn/what-you-can-bring-into-the-uk/"
  },
  "bringing-medicines": {
   "es": "/es/llevar-medicamentos/",
@@ -350,8 +440,14 @@
   "pt": "/pt/levar-medicamentos/",
   "da": "/da/medicin-til-storbritannien/",
   "no": "/no/ta-med-medisiner/",
+  "cs": "/cs/leky-do-britanie/",
   "fi": "/fi/laakkeet-britanniaan/",
-  "en": "/en/taking-medicine-to-the-uk/"
+  "hu": "/hu/gyogyszerek-bevitele/",
+  "ko": "/ko/yakpum-banip/",
+  "he": "/he/trufot-levritania/",
+  "en": "/en/taking-medicine-to-the-uk/",
+  "zh-tw": "/zh-tw/taking-medicine-to-the-uk/",
+  "zh-cn": "/zh-cn/taking-medicine-to-the-uk/"
  },
  "airport-security-liquids": {
   "es": "/es/liquidos-equipaje-de-mano/",
@@ -359,8 +455,14 @@
   "pt": "/pt/liquidos-bagagem-de-mao/",
   "da": "/da/vaesker-i-handbagagen/",
   "no": "/no/vaesker-i-handbagasjen/",
+  "cs": "/cs/tekutiny-v-prirucnim-zavazadle/",
   "fi": "/fi/nesteet-kasimatkatavaroissa/",
-  "en": "/en/hand-luggage-liquids-uk-airports/"
+  "hu": "/hu/folyadekok-kezipoggyaszban/",
+  "ko": "/ko/gonghang-boan-aekche/",
+  "he": "/he/nozlim-bemizvada/",
+  "en": "/en/hand-luggage-liquids-uk-airports/",
+  "zh-tw": "/zh-tw/hand-luggage-liquids-uk-airports/",
+  "zh-cn": "/zh-cn/hand-luggage-liquids-uk-airports/"
  },
  "smoking-alcohol-rules": {
   "es": "/es/alcohol-y-tabaco/",
@@ -368,8 +470,14 @@
   "pt": "/pt/alcool-e-tabaco/",
   "da": "/da/alkohol-og-rygning-england/",
   "no": "/no/aldersgrense-alkohol-royking/",
+  "cs": "/cs/alkohol-a-koureni/",
   "fi": "/fi/alkoholi-ja-tupakointi/",
-  "en": "/en/drinking-age-and-smoking-rules/"
+  "hu": "/hu/alkohol-es-dohanyzas/",
+  "ko": "/ko/eumju-heubyeon-gyujeong/",
+  "he": "/he/alkohol-veishun/",
+  "en": "/en/drinking-age-and-smoking-rules/",
+  "zh-tw": "/zh-tw/drinking-age-and-smoking-rules/",
+  "zh-cn": "/zh-cn/drinking-age-and-smoking-rules/"
  },
  "travelling-with-children": {
   "es": "/es/viajar-con-ninos/",
@@ -377,8 +485,14 @@
   "pt": "/pt/viajar-com-menores/",
   "da": "/da/rejse-med-born-til-uk/",
   "no": "/no/reise-med-barn/",
+  "cs": "/cs/cestovani-s-detmi/",
   "fi": "/fi/matkustaminen-lasten-kanssa/",
-  "en": "/en/travelling-to-the-uk-with-children/"
+  "hu": "/hu/utazas-gyerekekkel/",
+  "ko": "/ko/aideul-gwa-yeohaeng/",
+  "he": "/he/nesia-im-yeladim/",
+  "en": "/en/travelling-to-the-uk-with-children/",
+  "zh-tw": "/zh-tw/travelling-to-the-uk-with-children/",
+  "zh-cn": "/zh-cn/travelling-to-the-uk-with-children/"
  },
  "london-airports": {
   "es": "/es/aeropuertos-de-londres/",
@@ -386,8 +500,14 @@
   "pt": "/pt/aeroportos-de-londres/",
   "da": "/da/londons-lufthavne/",
   "no": "/no/flyplasser-i-london/",
+  "cs": "/cs/londynska-letiste/",
   "fi": "/fi/lontoon-lentoasemat/",
-  "en": "/en/london-airports/"
+  "hu": "/hu/londoni-repuloterek/",
+  "ko": "/ko/london-gonghang/",
+  "he": "/he/sdot-teufa-london/",
+  "en": "/en/london-airports/",
+  "zh-tw": "/zh-tw/london-airports/",
+  "zh-cn": "/zh-cn/london-airports/"
  },
  "heathrow": {
   "es": "/es/aeropuerto-heathrow/",
@@ -395,8 +515,14 @@
   "pt": "/pt/aeroporto-heathrow/",
   "da": "/da/heathrow-lufthavn/",
   "no": "/no/heathrow-flyplass/",
+  "cs": "/cs/letiste-heathrow/",
   "fi": "/fi/heathrow-lentoasema/",
-  "en": "/en/heathrow-airport/"
+  "hu": "/hu/heathrow-repuloter/",
+  "ko": "/ko/heathrow-gonghang/",
+  "he": "/he/sde-teufa-heathrow/",
+  "en": "/en/heathrow-airport/",
+  "zh-tw": "/zh-tw/heathrow-airport/",
+  "zh-cn": "/zh-cn/heathrow-airport/"
  },
  "transport-oyster": {
   "es": "/es/transporte-londres-oyster/",
@@ -404,8 +530,14 @@
   "pt": "/pt/transportes-londres-oyster/",
   "da": "/da/transport-i-london-oyster/",
   "no": "/no/kollektivtransport-london-oyster/",
+  "cs": "/cs/londynska-doprava-oyster/",
   "fi": "/fi/lontoon-julkinen-liikenne-oyster/",
-  "en": "/en/london-transport-oyster-contactless/"
+  "hu": "/hu/londoni-kozlekedes-oyster/",
+  "ko": "/ko/london-gyotong-oyster/",
+  "he": "/he/tachbura-london-oyster/",
+  "en": "/en/london-transport-oyster-contactless/",
+  "zh-tw": "/zh-tw/london-transport-oyster-contactless/",
+  "zh-cn": "/zh-cn/london-transport-oyster-contactless/"
  },
  "driving-in-uk": {
   "es": "/es/conducir-en-reino-unido/",
@@ -413,8 +545,14 @@
   "pt": "/pt/conduzir-no-reino-unido/",
   "da": "/da/bilkorsel-i-storbritannien/",
   "no": "/no/kjore-bil-i-storbritannia/",
+  "cs": "/cs/rizeni-v-britanii/",
   "fi": "/fi/autolla-ajaminen-britanniassa/",
-  "en": "/en/driving-in-the-uk/"
+  "hu": "/hu/autovezetes-britanniaban/",
+  "ko": "/ko/yeongguk-unjeon/",
+  "he": "/he/nehiga-bevritania/",
+  "en": "/en/driving-in-the-uk/",
+  "zh-tw": "/zh-tw/driving-in-the-uk/",
+  "zh-cn": "/zh-cn/driving-in-the-uk/"
  },
  "money-currency": {
   "es": "/es/moneda-libra-esterlina/",
@@ -422,8 +560,14 @@
   "pt": "/pt/moeda-libra-dinheiro/",
   "da": "/da/valuta-og-kontanter/",
   "no": "/no/valuta-pund-kontanter-tips/",
+  "cs": "/cs/mena-a-hotovost-v-britanii/",
   "fi": "/fi/valuutta-ja-kateinen-britanniassa/",
-  "en": "/en/uk-currency-cash-tipping/"
+  "hu": "/hu/penz-es-keszpenz-britanniaban/",
+  "ko": "/ko/yeongguk-hwapye-hyeongeum/",
+  "he": "/he/matbea-vekesef-bevritania/",
+  "en": "/en/uk-currency-cash-tipping/",
+  "zh-tw": "/zh-tw/uk-currency-cash-tipping/",
+  "zh-cn": "/zh-cn/uk-currency-cash-tipping/"
  },
  "vat-refund": {
   "es": "/es/devolucion-iva-compras/",
@@ -431,8 +575,14 @@
   "pt": "/pt/reembolso-iva/",
   "da": "/da/momsrefusion-vat-refund/",
   "no": "/no/momsrefusjon-vat-storbritannia/",
+  "cs": "/cs/vraceni-dph-v-britanii/",
   "fi": "/fi/arvonlisaveron-palautus-britanniassa/",
-  "en": "/en/uk-vat-refund-tax-free-shopping/"
+  "hu": "/hu/afa-visszaterites-britanniaban/",
+  "ko": "/ko/yeongguk-vat-hwangeup/",
+  "he": "/he/hechzer-maam-bevritania/",
+  "en": "/en/uk-vat-refund-tax-free-shopping/",
+  "zh-tw": "/zh-tw/uk-vat-refund-tax-free-shopping/",
+  "zh-cn": "/zh-cn/uk-vat-refund-tax-free-shopping/"
  },
  "sim-mobile": {
   "es": "/es/tarjeta-sim-internet-movil/",
@@ -440,8 +590,14 @@
   "pt": "/pt/cartao-sim-internet-movel/",
   "da": "/da/sim-kort-og-mobildata/",
   "no": "/no/sim-kort-esim-mobil-storbritannia/",
+  "cs": "/cs/sim-karta-a-data-v-britanii/",
   "fi": "/fi/sim-kortti-ja-mobiilidata-britanniassa/",
-  "en": "/en/uk-sim-esim-mobile-data/"
+  "hu": "/hu/sim-kartya-es-mobilnet-britanniaban/",
+  "ko": "/ko/yeongguk-sim-esim/",
+  "he": "/he/sim-vegalisha-bevritania/",
+  "en": "/en/uk-sim-esim-mobile-data/",
+  "zh-tw": "/zh-tw/uk-sim-esim-mobile-data/",
+  "zh-cn": "/zh-cn/uk-sim-esim-mobile-data/"
  },
  "power-plug": {
   "es": "/es/enchufes-reino-unido/",
@@ -449,8 +605,14 @@
   "pt": "/pt/tomadas-eletricas/",
   "da": "/da/stikkontakter-i-storbritannien/",
   "no": "/no/stikkontakt-storbritannia/",
+  "cs": "/cs/zasuvky-a-napeti-v-britanii/",
   "fi": "/fi/pistorasiat-britanniassa/",
-  "en": "/en/uk-plug-socket-voltage/"
+  "hu": "/hu/konnektor-es-feszultseg-britanniaban/",
+  "ko": "/ko/yeongguk-peulleogeu-jeonap/",
+  "he": "/he/sheka-vemetach-bevritania/",
+  "en": "/en/uk-plug-socket-voltage/",
+  "zh-tw": "/zh-tw/uk-plug-socket-voltage/",
+  "zh-cn": "/zh-cn/uk-plug-socket-voltage/"
  },
  "healthcare-nhs": {
   "es": "/es/sanidad-nhs-tarjeta-sanitaria/",
@@ -458,8 +620,14 @@
   "pt": "/pt/saude-nhs-ghic/",
   "da": "/da/sundhed-nhs-og-ghic/",
   "no": "/no/helsehjelp-nhs-ghic/",
+  "cs": "/cs/zdravotni-pece-nhs/",
   "fi": "/fi/terveydenhuolto-nhs-ja-ehic/",
-  "en": "/en/uk-healthcare-nhs-ghic/"
+  "hu": "/hu/egeszsegugy-nhs-ehic/",
+  "ko": "/ko/yeongguk-uiryo-nhs/",
+  "he": "/he/briut-nhs/",
+  "en": "/en/uk-healthcare-nhs-ghic/",
+  "zh-tw": "/zh-tw/uk-healthcare-nhs-ghic/",
+  "zh-cn": "/zh-cn/uk-healthcare-nhs-ghic/"
  },
  "safety-emergency": {
   "es": "/es/emergencias-seguridad-reino-unido/",
@@ -467,8 +635,14 @@
   "pt": "/pt/numeros-de-emergencia/",
   "da": "/da/alarmnumre-og-sikkerhed/",
   "no": "/no/nodnummer-sikkerhet-storbritannia/",
+  "cs": "/cs/tisnova-cisla-a-bezpecnost/",
   "fi": "/fi/hatanumerot-ja-turvallisuus-britanniassa/",
-  "en": "/en/uk-emergency-numbers-safety/"
+  "hu": "/hu/segelyhivo-szamok-es-biztonsag/",
+  "ko": "/ko/yeongguk-anjeon-ingeup/",
+  "he": "/he/chirum-vebitachon/",
+  "en": "/en/uk-emergency-numbers-safety/",
+  "zh-tw": "/zh-tw/uk-emergency-numbers-safety/",
+  "zh-cn": "/zh-cn/uk-emergency-numbers-safety/"
  },
  "bank-holidays": {
   "es": "/es/festivos-bank-holidays/",
@@ -476,7 +650,13 @@
   "pt": "/pt/feriados-bank-holidays-2026/",
   "da": "/da/helligdage-bank-holidays-2026/",
   "no": "/no/bank-holidays-helligdager-2026/",
+  "cs": "/cs/statni-svatky-britanie-2026/",
   "fi": "/fi/bank-holiday-pyhapaivat-2026/",
-  "en": "/en/uk-bank-holidays-2026/"
+  "hu": "/hu/munkaszuneti-napok-britannia-2026/",
+  "ko": "/ko/yeongguk-gonghyuil-2026/",
+  "he": "/he/chagim-bevritania-2026/",
+  "en": "/en/uk-bank-holidays-2026/",
+  "zh-tw": "/zh-tw/uk-bank-holidays-2026/",
+  "zh-cn": "/zh-cn/uk-bank-holidays-2026/"
  }
 }
